@@ -1,0 +1,12 @@
+#!/usr/bin/bash
+#SBATCH -n 1 -N 1 --mem 2G --time 8:00:00 -o download_xml.log
+USERNAME=YOUREMAILADDRESS # UPDATE THIS WHEN COPYING THE TEMPLATE
+PASSWORD=YOURPASSWORD     # UPDATE THIS WHEN COPYING THE TEMPLATE
+CODE=Undphynobacteria     # This is for the JGI project with Nicole Pietrasiak as PI
+
+mkdir -p lib
+curl 'https://signon-old.jgi.doe.gov/signon/create' --data-urlencode "login=$USERNAME" --data-urlencode "password=$PASSWORD" -c cookies > /dev/null 
+
+curl "https://genome.jgi.doe.gov/portal/ext-api/downloads/get-directory?organism=$CODE&organizedByFileType=true" -b cookies > lib/$CODE.xml
+
+
