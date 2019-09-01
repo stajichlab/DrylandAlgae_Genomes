@@ -7,7 +7,6 @@ DEBUG=1
 
 skipme='lib/skip_data_jgi.csv'
 
-
 skip_data = {}
 if os.path.exists(skipme):
     with open(skipme,'r') as skips:
@@ -16,6 +15,15 @@ if os.path.exists(skipme):
         for row in skipread:
             if len(row):
                 skip_data[row[0]] = 1
+
+local_names = {}
+localnamesfile = 'lib/Pietrasiak_strain_names.prefix.csv'
+
+if os.path.exists(localnamesfile):
+    with open(localnamesfile,'r') as newnm:
+        nmread = csv.reader(newnm,delimiter=",")
+        for row in nmread:
+            local_names[row[0]] = row[1]
 
 base    = 'Undphynobacteria' # default for Nicole's JGI project
 if len(sys.argv) > 1: # if a command line argument is provided
@@ -26,10 +34,15 @@ outdir="source/JGI"
 mapext = {'Sequence'   : [ 'fastq', 'corr.fastq.gz'],
           'Assembly'  : [ 'info', 'coverage.txt' ],
           'Assembly-dna'   : [ 'DNA' , 'fasta'],
+          'domtblout' : ['annotation', 'domtblout'],
+#          'blasttab' : ['annotation', 'blasttab'],
+          'gff' : ['annotation', "gff"],
+          'tsv' : ['annotation', "tsv"],
           'DNA'   : [ 'DNA' , 'contig.fasta'],
           'pep'   : [ 'pep' , 'aa.fasta'],
           'CDS'   : [ 'CDS' , 'cds.fasta'],
           'Alignment'  : [ 'SAM', 'sam.gz' ],
+          'tar'   : [ 'Other', 'tar.gz' ],
 
       }
 
@@ -54,6 +67,34 @@ def get_files(folder,dtype):
     for file in folder.findall('file'):
         name = file.get('label')
         url  = file.get('url')
+        if name in local_names:
+            name = local_names[name]
+
+        if name not in species:
+            species[name] = {dtype: [url,name]}
+        elif dtype not in species[name]:
+            species[name][dtype] = [url,name]
+        else:
+            print("warning - updating %s %s with url (%s) when it was previously %s"
+                  % (name,dtype,url,species[name][dtype][0]))
+            species[name][dtype] = [url, name]
+
+def get_tarfiles(folder):
+    for file in folder.findall('file'):
+        name = file.get('label')
+        url  = file.get('url')
+        filename = file.get('filename')
+        dtype = ""
+        if name in local_names:
+            name = local_names[name]
+
+        m = re.search(r'(\S+).tar.gz$',filename)
+        if ( m ):
+            dtype = 'tar'
+            # print("%s match for %s outpref = %s"%(dtype,filename,name))
+        else:
+            continue
+
         if name not in species:
             species[name] = {dtype: [url,name]}
         elif dtype not in species[name]:
@@ -69,7 +110,14 @@ def get_annotation_files(folder):
         url  = file.get('url')
         filename = file.get('filename')
         dtype = ""
-        if re.search(r'_(prodigal|genemark)',filename):
+        if name in local_names:
+            name = local_names[name]
+        m = re.search(r'([^_]+)_(\S+).(gff|tsv|domtblout)$',filename)
+        if ( m ):
+            dtype = m.group(3)
+            name = name + "_" + m.group(2)
+            # print("%s match for %s outpref = %s"%(dtype,filename,name))
+        elif re.search(r'_(prodigal|genemark)',filename):
             continue
         elif re.search(r'_contigs\.fna',filename):
             dtype = "DNA"
@@ -78,8 +126,8 @@ def get_annotation_files(folder):
         elif re.search(r'_proteins\.faa',filename):
             dtype = "pep"
         else:
-            print("Cannot match filename %s to a category"%(filename))
-
+            #print("Cannot match filename %s to a category"%(filename))
+            continue
 #        print("'%s' '%s'"%(filename,name))
 
         if name not in species:
@@ -106,10 +154,13 @@ for topfolder in root.findall('folder'):
                 if foldername == 'Assembly':
                     get_annotation_files(filesfolder)
     elif foldername == "Annotation":
-         for filesfolder in topfolder.find("folder"):
-             if filesfolder.get('name') == "IMG Data":
-                 get_annotation_files(filefolder)
-
+        for filesfolder in topfolder.findall("folder"):
+            if filesfolder.get('name') == "IMG Data":
+                get_annotation_files(filesfolder)
+    elif foldername == "Other":
+        for filesfolder in topfolder.findall("folder"):
+            if filesfolder.get('name') == "IMG Data":
+                get_tarfiles(filesfolder)
 
 
 with open("lib/%s.csv"%(base),"w") as jgiout:
