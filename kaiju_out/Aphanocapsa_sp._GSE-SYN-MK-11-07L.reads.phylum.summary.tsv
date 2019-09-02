@@ -1,0 +1,48 @@
+file	percent	reads	taxon_id	taxon_name
+kaiju_out/Aphanocapsa_sp._GSE-SYN-MK-11-07L.reads.out	10.169541	5259397	1117	Cyanobacteria
+kaiju_out/Aphanocapsa_sp._GSE-SYN-MK-11-07L.reads.out	2.002848	1035816	1224	Proteobacteria
+kaiju_out/Aphanocapsa_sp._GSE-SYN-MK-11-07L.reads.out	0.027933	14446	200795	Chloroflexi
+kaiju_out/Aphanocapsa_sp._GSE-SYN-MK-11-07L.reads.out	0.012238	6329	1239	Firmicutes
+kaiju_out/Aphanocapsa_sp._GSE-SYN-MK-11-07L.reads.out	0.011486	5940	976	Bacteroidetes
+kaiju_out/Aphanocapsa_sp._GSE-SYN-MK-11-07L.reads.out	0.009558	4943	57723	Acidobacteria
+kaiju_out/Aphanocapsa_sp._GSE-SYN-MK-11-07L.reads.out	0.008947	4627	201174	Actinobacteria
+kaiju_out/Aphanocapsa_sp._GSE-SYN-MK-11-07L.reads.out	0.007533	3896	74201	Verrucomicrobia
+kaiju_out/Aphanocapsa_sp._GSE-SYN-MK-11-07L.reads.out	0.005998	3102	203682	Planctomycetes
+kaiju_out/Aphanocapsa_sp._GSE-SYN-MK-11-07L.reads.out	0.003921	2028	40117	Nitrospirae
+kaiju_out/Aphanocapsa_sp._GSE-SYN-MK-11-07L.reads.out	0.003181	1645	1090	Chlorobi
+kaiju_out/Aphanocapsa_sp._GSE-SYN-MK-11-07L.reads.out	0.002922	1511	1297	Deinococcus-Thermus
+kaiju_out/Aphanocapsa_sp._GSE-SYN-MK-11-07L.reads.out	0.002773	1434	1752708	Candidatus Rokubacteria
+kaiju_out/Aphanocapsa_sp._GSE-SYN-MK-11-07L.reads.out	0.001901	983	142182	Gemmatimonadetes
+kaiju_out/Aphanocapsa_sp._GSE-SYN-MK-11-07L.reads.out	0.001613	834	1802339	Candidatus Tectomicrobia
+kaiju_out/Aphanocapsa_sp._GSE-SYN-MK-11-07L.reads.out	0.001483	767	203691	Spirochaetes
+kaiju_out/Aphanocapsa_sp._GSE-SYN-MK-11-07L.reads.out	0.001265	654	28890	Euryarchaeota
+kaiju_out/Aphanocapsa_sp._GSE-SYN-MK-11-07L.reads.out	0.001087	562	640293	candidate division NC10
+kaiju_out/Aphanocapsa_sp._GSE-SYN-MK-11-07L.reads.out	0.001002	518	67812	Candidatus Omnitrophica
+kaiju_out/Aphanocapsa_sp._GSE-SYN-MK-11-07L.reads.out	0.000961	497	1729712	Candidatus Fermentibacteria
+kaiju_out/Aphanocapsa_sp._GSE-SYN-MK-11-07L.reads.out	0.000924	478	67819	Armatimonadetes
+kaiju_out/Aphanocapsa_sp._GSE-SYN-MK-11-07L.reads.out	0.000791	409	1752720	Candidatus Gottesmanbacteria
+kaiju_out/Aphanocapsa_sp._GSE-SYN-MK-11-07L.reads.out	0.000712	368	256845	Lentisphaerae
+kaiju_out/Aphanocapsa_sp._GSE-SYN-MK-11-07L.reads.out	0.000692	358	1936987	Balneolaeota
+kaiju_out/Aphanocapsa_sp._GSE-SYN-MK-11-07L.reads.out	0.000628	325	1817808	Candidatus Margulisbacteria
+kaiju_out/Aphanocapsa_sp._GSE-SYN-MK-11-07L.reads.out	0.000485	251	1930617	Calditrichaeota
+kaiju_out/Aphanocapsa_sp._GSE-SYN-MK-11-07L.reads.out	0.000468	242	1134404	Ignavibacteriae
+kaiju_out/Aphanocapsa_sp._GSE-SYN-MK-11-07L.reads.out	0.000449	232	651137	Thaumarchaeota
+kaiju_out/Aphanocapsa_sp._GSE-SYN-MK-11-07L.reads.out	0.000431	223	1293497	Nitrospinae
+kaiju_out/Aphanocapsa_sp._GSE-SYN-MK-11-07L.reads.out	0.000387	200	200783	Aquificae
+kaiju_out/Aphanocapsa_sp._GSE-SYN-MK-11-07L.reads.out	0.000315	163	1798710	Candidatus Melainabacteria
+kaiju_out/Aphanocapsa_sp._GSE-SYN-MK-11-07L.reads.out	0.000240	124	1752723	Candidatus Roizmanbacteria
+kaiju_out/Aphanocapsa_sp._GSE-SYN-MK-11-07L.reads.out	0.000182	94	74015	Candidatus Latescibacteria
+kaiju_out/Aphanocapsa_sp._GSE-SYN-MK-11-07L.reads.out	0.000178	92	456828	Candidatus Cloacimonetes
+kaiju_out/Aphanocapsa_sp._GSE-SYN-MK-11-07L.reads.out	0.000160	83	221216	Candidatus Parcubacteria
+kaiju_out/Aphanocapsa_sp._GSE-SYN-MK-11-07L.reads.out	0.000151	78	204428	Chlamydiae
+kaiju_out/Aphanocapsa_sp._GSE-SYN-MK-11-07L.reads.out	0.000133	69	200930	Deferribacteres
+kaiju_out/Aphanocapsa_sp._GSE-SYN-MK-11-07L.reads.out	0.000131	68	265317	Candidatus Poribacteria
+kaiju_out/Aphanocapsa_sp._GSE-SYN-MK-11-07L.reads.out	0.000060	31	508458	Synergistetes
+kaiju_out/Aphanocapsa_sp._GSE-SYN-MK-11-07L.reads.out	0.000037	19	1379697	candidate division Zixibacteria
+kaiju_out/Aphanocapsa_sp._GSE-SYN-MK-11-07L.reads.out	0.000006	3	544448	Tenericutes
+kaiju_out/Aphanocapsa_sp._GSE-SYN-MK-11-07L.reads.out	0.000004	2	62680	Candidatus Marinimicrobia
+kaiju_out/Aphanocapsa_sp._GSE-SYN-MK-11-07L.reads.out	0.000002	1	32066	Fusobacteria
+kaiju_out/Aphanocapsa_sp._GSE-SYN-MK-11-07L.reads.out	0.000002	1	1817812	Candidatus Wallbacteria
+kaiju_out/Aphanocapsa_sp._GSE-SYN-MK-11-07L.reads.out	0.000218	113	10239	Viruses
+kaiju_out/Aphanocapsa_sp._GSE-SYN-MK-11-07L.reads.out	0.091053	47090	NA	cannot be assigned to a (non-viral) phylum
+kaiju_out/Aphanocapsa_sp._GSE-SYN-MK-11-07L.reads.out	87.622970	45316106	NA	unclassified

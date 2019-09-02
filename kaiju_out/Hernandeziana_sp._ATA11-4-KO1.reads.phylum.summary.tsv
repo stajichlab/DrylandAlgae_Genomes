@@ -1,0 +1,33 @@
+file	percent	reads	taxon_id	taxon_name
+kaiju_out/Hernandeziana_sp._ATA11-4-KO1.reads.out	33.686573	21064590	1117	Cyanobacteria
+kaiju_out/Hernandeziana_sp._ATA11-4-KO1.reads.out	1.083921	677788	1224	Proteobacteria
+kaiju_out/Hernandeziana_sp._ATA11-4-KO1.reads.out	0.004612	2884	1239	Firmicutes
+kaiju_out/Hernandeziana_sp._ATA11-4-KO1.reads.out	0.004323	2703	200795	Chloroflexi
+kaiju_out/Hernandeziana_sp._ATA11-4-KO1.reads.out	0.002866	1792	74201	Verrucomicrobia
+kaiju_out/Hernandeziana_sp._ATA11-4-KO1.reads.out	0.002551	1595	57723	Acidobacteria
+kaiju_out/Hernandeziana_sp._ATA11-4-KO1.reads.out	0.001462	914	201174	Actinobacteria
+kaiju_out/Hernandeziana_sp._ATA11-4-KO1.reads.out	0.001302	814	1930617	Calditrichaeota
+kaiju_out/Hernandeziana_sp._ATA11-4-KO1.reads.out	0.001099	687	67819	Armatimonadetes
+kaiju_out/Hernandeziana_sp._ATA11-4-KO1.reads.out	0.000870	544	67812	Candidatus Omnitrophica
+kaiju_out/Hernandeziana_sp._ATA11-4-KO1.reads.out	0.000843	527	1090	Chlorobi
+kaiju_out/Hernandeziana_sp._ATA11-4-KO1.reads.out	0.000843	527	40117	Nitrospirae
+kaiju_out/Hernandeziana_sp._ATA11-4-KO1.reads.out	0.000769	481	1297	Deinococcus-Thermus
+kaiju_out/Hernandeziana_sp._ATA11-4-KO1.reads.out	0.000593	371	142182	Gemmatimonadetes
+kaiju_out/Hernandeziana_sp._ATA11-4-KO1.reads.out	0.000537	336	203691	Spirochaetes
+kaiju_out/Hernandeziana_sp._ATA11-4-KO1.reads.out	0.000453	283	28890	Euryarchaeota
+kaiju_out/Hernandeziana_sp._ATA11-4-KO1.reads.out	0.000369	231	976	Bacteroidetes
+kaiju_out/Hernandeziana_sp._ATA11-4-KO1.reads.out	0.000309	193	200295	Candidatus Sumerlaeota
+kaiju_out/Hernandeziana_sp._ATA11-4-KO1.reads.out	0.000270	169	203682	Planctomycetes
+kaiju_out/Hernandeziana_sp._ATA11-4-KO1.reads.out	0.000256	160	508458	Synergistetes
+kaiju_out/Hernandeziana_sp._ATA11-4-KO1.reads.out	0.000243	152	2093358	Candidatus Abyssubacteria
+kaiju_out/Hernandeziana_sp._ATA11-4-KO1.reads.out	0.000171	107	1752708	Candidatus Rokubacteria
+kaiju_out/Hernandeziana_sp._ATA11-4-KO1.reads.out	0.000170	106	1618330	Candidatus Berkelbacteria
+kaiju_out/Hernandeziana_sp._ATA11-4-KO1.reads.out	0.000170	106	1817809	Candidatus Raymondbacteria
+kaiju_out/Hernandeziana_sp._ATA11-4-KO1.reads.out	0.000128	80	1817806	Candidatus Handelsmanbacteria
+kaiju_out/Hernandeziana_sp._ATA11-4-KO1.reads.out	0.000061	38	1752732	Candidatus Uhrbacteria
+kaiju_out/Hernandeziana_sp._ATA11-4-KO1.reads.out	0.000053	33	1936987	Balneolaeota
+kaiju_out/Hernandeziana_sp._ATA11-4-KO1.reads.out	0.000003	2	1798710	Candidatus Melainabacteria
+kaiju_out/Hernandeziana_sp._ATA11-4-KO1.reads.out	0.000002	1	62680	Candidatus Marinimicrobia
+kaiju_out/Hernandeziana_sp._ATA11-4-KO1.reads.out	0.000008	5	10239	Viruses
+kaiju_out/Hernandeziana_sp._ATA11-4-KO1.reads.out	0.107545	67249	NA	cannot be assigned to a (non-viral) phylum
+kaiju_out/Hernandeziana_sp._ATA11-4-KO1.reads.out	65.096629	40705648	NA	unclassified

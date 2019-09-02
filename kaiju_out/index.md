@@ -1,3 +1,4 @@
+==================
 * [Aphanocapsa_sp._GSE-SYN-MK-11-07L.contig.out.krona.html](Aphanocapsa_sp._GSE-SYN-MK-11-07L.contig.out.krona.html)
 * [Aphanothece_saxicola_GSE-SYN-MK-01-06B.contig.out.krona.html](Aphanothece_saxicola_GSE-SYN-MK-01-06B.contig.out.krona.html)
 * [Brasilonema_octagenarum_HA4186-MV1.contig.out.krona.html](Brasilonema_octagenarum_HA4186-MV1.contig.out.krona.html)
@@ -21,3 +22,9 @@
 * [Tolypothrix_brevis_GSE-NOS-MK-07-07A.contig.out.krona.html](Tolypothrix_brevis_GSE-NOS-MK-07-07A.contig.out.krona.html)
 * [Tolypothrix_carrinoi_HA7290-LM1.contig.out.krona.html](Tolypothrix_carrinoi_HA7290-LM1.contig.out.krona.html)
 * [Trichocoleus_desertorum_ATA4-8-CV12.contig.out.krona.html](Trichocoleus_desertorum_ATA4-8-CV12.contig.out.krona.html)
+
+Reads Krona plots
+==================
+* [Aphanocapsa_sp._GSE-SYN-MK-11-07L.reads.out.krona.html](Aphanocapsa_sp._GSE-SYN-MK-11-07L.reads.out.krona.html)
+* [Cyanomagaritha_calcarea_GSE-NOS-MK-12-04C.reads.out.krona.html](Cyanomagaritha_calcarea_GSE-NOS-MK-12-04C.reads.out.krona.html)
+* [Hernandeziana_sp._ATA11-4-KO1.reads.out.krona.html](Hernandeziana_sp._ATA11-4-KO1.reads.out.krona.html)
