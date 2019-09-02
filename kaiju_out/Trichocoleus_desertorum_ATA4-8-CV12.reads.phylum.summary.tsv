@@ -1,0 +1,44 @@
+file	percent	reads	taxon_id	taxon_name
+kaiju_out/Trichocoleus_desertorum_ATA4-8-CV12.reads.out	17.624769	11983727	1224	Proteobacteria
+kaiju_out/Trichocoleus_desertorum_ATA4-8-CV12.reads.out	7.490129	5092814	1117	Cyanobacteria
+kaiju_out/Trichocoleus_desertorum_ATA4-8-CV12.reads.out	0.014188	9647	976	Bacteroidetes
+kaiju_out/Trichocoleus_desertorum_ATA4-8-CV12.reads.out	0.013820	9397	1239	Firmicutes
+kaiju_out/Trichocoleus_desertorum_ATA4-8-CV12.reads.out	0.013594	9243	201174	Actinobacteria
+kaiju_out/Trichocoleus_desertorum_ATA4-8-CV12.reads.out	0.007801	5304	57723	Acidobacteria
+kaiju_out/Trichocoleus_desertorum_ATA4-8-CV12.reads.out	0.006430	4372	200795	Chloroflexi
+kaiju_out/Trichocoleus_desertorum_ATA4-8-CV12.reads.out	0.005648	3840	203682	Planctomycetes
+kaiju_out/Trichocoleus_desertorum_ATA4-8-CV12.reads.out	0.004274	2906	74201	Verrucomicrobia
+kaiju_out/Trichocoleus_desertorum_ATA4-8-CV12.reads.out	0.003517	2391	40117	Nitrospirae
+kaiju_out/Trichocoleus_desertorum_ATA4-8-CV12.reads.out	0.001474	1002	1297	Deinococcus-Thermus
+kaiju_out/Trichocoleus_desertorum_ATA4-8-CV12.reads.out	0.001175	799	142182	Gemmatimonadetes
+kaiju_out/Trichocoleus_desertorum_ATA4-8-CV12.reads.out	0.001077	732	203691	Spirochaetes
+kaiju_out/Trichocoleus_desertorum_ATA4-8-CV12.reads.out	0.000729	496	67812	Candidatus Omnitrophica
+kaiju_out/Trichocoleus_desertorum_ATA4-8-CV12.reads.out	0.000644	438	1798710	Candidatus Melainabacteria
+kaiju_out/Trichocoleus_desertorum_ATA4-8-CV12.reads.out	0.000599	407	28890	Euryarchaeota
+kaiju_out/Trichocoleus_desertorum_ATA4-8-CV12.reads.out	0.000588	400	2109258	Abditibacteriota
+kaiju_out/Trichocoleus_desertorum_ATA4-8-CV12.reads.out	0.000346	235	1090	Chlorobi
+kaiju_out/Trichocoleus_desertorum_ATA4-8-CV12.reads.out	0.000296	201	1752708	Candidatus Rokubacteria
+kaiju_out/Trichocoleus_desertorum_ATA4-8-CV12.reads.out	0.000257	175	68297	Dictyoglomi
+kaiju_out/Trichocoleus_desertorum_ATA4-8-CV12.reads.out	0.000254	173	1817799	Candidatus Doudnabacteria
+kaiju_out/Trichocoleus_desertorum_ATA4-8-CV12.reads.out	0.000253	172	508458	Synergistetes
+kaiju_out/Trichocoleus_desertorum_ATA4-8-CV12.reads.out	0.000215	146	1802339	Candidatus Tectomicrobia
+kaiju_out/Trichocoleus_desertorum_ATA4-8-CV12.reads.out	0.000206	140	1817801	Candidatus Eisenbacteria
+kaiju_out/Trichocoleus_desertorum_ATA4-8-CV12.reads.out	0.000191	130	67819	Armatimonadetes
+kaiju_out/Trichocoleus_desertorum_ATA4-8-CV12.reads.out	0.000175	119	256845	Lentisphaerae
+kaiju_out/Trichocoleus_desertorum_ATA4-8-CV12.reads.out	0.000159	108	1936987	Balneolaeota
+kaiju_out/Trichocoleus_desertorum_ATA4-8-CV12.reads.out	0.000146	99	1134404	Ignavibacteriae
+kaiju_out/Trichocoleus_desertorum_ATA4-8-CV12.reads.out	0.000146	99	2093358	Candidatus Abyssubacteria
+kaiju_out/Trichocoleus_desertorum_ATA4-8-CV12.reads.out	0.000137	93	640293	candidate division NC10
+kaiju_out/Trichocoleus_desertorum_ATA4-8-CV12.reads.out	0.000132	90	1930617	Calditrichaeota
+kaiju_out/Trichocoleus_desertorum_ATA4-8-CV12.reads.out	0.000121	82	544448	Tenericutes
+kaiju_out/Trichocoleus_desertorum_ATA4-8-CV12.reads.out	0.000118	80	200930	Deferribacteres
+kaiju_out/Trichocoleus_desertorum_ATA4-8-CV12.reads.out	0.000085	58	65842	Fibrobacteres
+kaiju_out/Trichocoleus_desertorum_ATA4-8-CV12.reads.out	0.000065	44	1853220	Rhodothermaeota
+kaiju_out/Trichocoleus_desertorum_ATA4-8-CV12.reads.out	0.000032	22	200938	Chrysiogenetes
+kaiju_out/Trichocoleus_desertorum_ATA4-8-CV12.reads.out	0.000013	9	1379697	candidate division Zixibacteria
+kaiju_out/Trichocoleus_desertorum_ATA4-8-CV12.reads.out	0.000010	7	204428	Chlamydiae
+kaiju_out/Trichocoleus_desertorum_ATA4-8-CV12.reads.out	0.000010	7	1662329	Candidatus Kapabacteria
+kaiju_out/Trichocoleus_desertorum_ATA4-8-CV12.reads.out	0.000004	3	1752716	Candidatus Dadabacteria
+kaiju_out/Trichocoleus_desertorum_ATA4-8-CV12.reads.out	0.000444	302	10239	Viruses
+kaiju_out/Trichocoleus_desertorum_ATA4-8-CV12.reads.out	0.210381	143046	NA	cannot be assigned to a (non-viral) phylum
+kaiju_out/Trichocoleus_desertorum_ATA4-8-CV12.reads.out	74.595356	50720119	NA	unclassified

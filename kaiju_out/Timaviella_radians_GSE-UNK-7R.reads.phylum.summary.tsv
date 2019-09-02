@@ -1,0 +1,88 @@
+file	percent	reads	taxon_id	taxon_name
+kaiju_out/Timaviella_radians_GSE-UNK-7R.reads.out	28.710970	24483405	1224	Proteobacteria
+kaiju_out/Timaviella_radians_GSE-UNK-7R.reads.out	0.447097	381264	1117	Cyanobacteria
+kaiju_out/Timaviella_radians_GSE-UNK-7R.reads.out	0.229242	195487	201174	Actinobacteria
+kaiju_out/Timaviella_radians_GSE-UNK-7R.reads.out	0.006714	5725	976	Bacteroidetes
+kaiju_out/Timaviella_radians_GSE-UNK-7R.reads.out	0.006103	5204	1239	Firmicutes
+kaiju_out/Timaviella_radians_GSE-UNK-7R.reads.out	0.004773	4070	57723	Acidobacteria
+kaiju_out/Timaviella_radians_GSE-UNK-7R.reads.out	0.003980	3394	200795	Chloroflexi
+kaiju_out/Timaviella_radians_GSE-UNK-7R.reads.out	0.003068	2616	74201	Verrucomicrobia
+kaiju_out/Timaviella_radians_GSE-UNK-7R.reads.out	0.001795	1531	203682	Planctomycetes
+kaiju_out/Timaviella_radians_GSE-UNK-7R.reads.out	0.001596	1361	1752708	Candidatus Rokubacteria
+kaiju_out/Timaviella_radians_GSE-UNK-7R.reads.out	0.001530	1305	40117	Nitrospirae
+kaiju_out/Timaviella_radians_GSE-UNK-7R.reads.out	0.001169	997	1297	Deinococcus-Thermus
+kaiju_out/Timaviella_radians_GSE-UNK-7R.reads.out	0.000718	612	28890	Euryarchaeota
+kaiju_out/Timaviella_radians_GSE-UNK-7R.reads.out	0.000686	585	203691	Spirochaetes
+kaiju_out/Timaviella_radians_GSE-UNK-7R.reads.out	0.000685	584	142182	Gemmatimonadetes
+kaiju_out/Timaviella_radians_GSE-UNK-7R.reads.out	0.000609	519	544448	Tenericutes
+kaiju_out/Timaviella_radians_GSE-UNK-7R.reads.out	0.000505	431	67819	Armatimonadetes
+kaiju_out/Timaviella_radians_GSE-UNK-7R.reads.out	0.000342	292	200783	Aquificae
+kaiju_out/Timaviella_radians_GSE-UNK-7R.reads.out	0.000339	289	640293	candidate division NC10
+kaiju_out/Timaviella_radians_GSE-UNK-7R.reads.out	0.000324	276	1802339	Candidatus Tectomicrobia
+kaiju_out/Timaviella_radians_GSE-UNK-7R.reads.out	0.000283	241	1936987	Balneolaeota
+kaiju_out/Timaviella_radians_GSE-UNK-7R.reads.out	0.000251	214	1752716	Candidatus Dadabacteria
+kaiju_out/Timaviella_radians_GSE-UNK-7R.reads.out	0.000140	119	1090	Chlorobi
+kaiju_out/Timaviella_radians_GSE-UNK-7R.reads.out	0.000122	104	2109258	Abditibacteriota
+kaiju_out/Timaviella_radians_GSE-UNK-7R.reads.out	0.000109	93	74152	Elusimicrobia
+kaiju_out/Timaviella_radians_GSE-UNK-7R.reads.out	0.000108	92	1752729	Candidatus Nomurabacteria
+kaiju_out/Timaviella_radians_GSE-UNK-7R.reads.out	0.000107	91	221216	Candidatus Parcubacteria
+kaiju_out/Timaviella_radians_GSE-UNK-7R.reads.out	0.000107	91	1379697	candidate division Zixibacteria
+kaiju_out/Timaviella_radians_GSE-UNK-7R.reads.out	0.000091	78	1134404	Ignavibacteriae
+kaiju_out/Timaviella_radians_GSE-UNK-7R.reads.out	0.000087	74	204428	Chlamydiae
+kaiju_out/Timaviella_radians_GSE-UNK-7R.reads.out	0.000083	71	200940	Thermodesulfobacteria
+kaiju_out/Timaviella_radians_GSE-UNK-7R.reads.out	0.000069	59	200938	Chrysiogenetes
+kaiju_out/Timaviella_radians_GSE-UNK-7R.reads.out	0.000069	59	1930617	Calditrichaeota
+kaiju_out/Timaviella_radians_GSE-UNK-7R.reads.out	0.000061	52	62680	Candidatus Marinimicrobia
+kaiju_out/Timaviella_radians_GSE-UNK-7R.reads.out	0.000060	51	67812	Candidatus Omnitrophica
+kaiju_out/Timaviella_radians_GSE-UNK-7R.reads.out	0.000053	45	1798710	Candidatus Melainabacteria
+kaiju_out/Timaviella_radians_GSE-UNK-7R.reads.out	0.000046	39	74015	Candidatus Latescibacteria
+kaiju_out/Timaviella_radians_GSE-UNK-7R.reads.out	0.000043	37	265317	Candidatus Poribacteria
+kaiju_out/Timaviella_radians_GSE-UNK-7R.reads.out	0.000042	36	508458	Synergistetes
+kaiju_out/Timaviella_radians_GSE-UNK-7R.reads.out	0.000042	36	1817801	Candidatus Eisenbacteria
+kaiju_out/Timaviella_radians_GSE-UNK-7R.reads.out	0.000042	36	1817812	Candidatus Wallbacteria
+kaiju_out/Timaviella_radians_GSE-UNK-7R.reads.out	0.000041	35	200930	Deferribacteres
+kaiju_out/Timaviella_radians_GSE-UNK-7R.reads.out	0.000038	32	200918	Thermotogae
+kaiju_out/Timaviella_radians_GSE-UNK-7R.reads.out	0.000038	32	1293497	Nitrospinae
+kaiju_out/Timaviella_radians_GSE-UNK-7R.reads.out	0.000035	30	1752728	Candidatus Falkowbacteria
+kaiju_out/Timaviella_radians_GSE-UNK-7R.reads.out	0.000034	29	256845	Lentisphaerae
+kaiju_out/Timaviella_radians_GSE-UNK-7R.reads.out	0.000028	24	2052312	candidate division AD3
+kaiju_out/Timaviella_radians_GSE-UNK-7R.reads.out	0.000027	23	95818	Candidatus Saccharibacteria
+kaiju_out/Timaviella_radians_GSE-UNK-7R.reads.out	0.000025	21	1752734	Candidatus Kaiserbacteria
+kaiju_out/Timaviella_radians_GSE-UNK-7R.reads.out	0.000023	20	456828	Candidatus Cloacimonetes
+kaiju_out/Timaviella_radians_GSE-UNK-7R.reads.out	0.000023	20	1817807	Candidatus Lindowbacteria
+kaiju_out/Timaviella_radians_GSE-UNK-7R.reads.out	0.000023	20	1817810	Candidatus Riflebacteria
+kaiju_out/Timaviella_radians_GSE-UNK-7R.reads.out	0.000021	18	1853220	Rhodothermaeota
+kaiju_out/Timaviella_radians_GSE-UNK-7R.reads.out	0.000018	15	1752723	Candidatus Roizmanbacteria
+kaiju_out/Timaviella_radians_GSE-UNK-7R.reads.out	0.000018	15	1752732	Candidatus Uhrbacteria
+kaiju_out/Timaviella_radians_GSE-UNK-7R.reads.out	0.000016	14	1801631	Candidatus Micrarchaeota
+kaiju_out/Timaviella_radians_GSE-UNK-7R.reads.out	0.000015	13	1817916	Candidatus Staskawiczbacteria
+kaiju_out/Timaviella_radians_GSE-UNK-7R.reads.out	0.000013	11	1819803	Candidatus Desantisbacteria
+kaiju_out/Timaviella_radians_GSE-UNK-7R.reads.out	0.000011	9	2138240	Coprothermobacterota
+kaiju_out/Timaviella_radians_GSE-UNK-7R.reads.out	0.000008	7	142187	Candidatus Hydrogenedentes
+kaiju_out/Timaviella_radians_GSE-UNK-7R.reads.out	0.000007	6	65842	Fibrobacteres
+kaiju_out/Timaviella_radians_GSE-UNK-7R.reads.out	0.000006	5	1619053	Candidatus Peregrinibacteria
+kaiju_out/Timaviella_radians_GSE-UNK-7R.reads.out	0.000005	4	200295	Candidatus Sumerlaeota
+kaiju_out/Timaviella_radians_GSE-UNK-7R.reads.out	0.000005	4	1817806	Candidatus Handelsmanbacteria
+kaiju_out/Timaviella_radians_GSE-UNK-7R.reads.out	0.000004	3	1752724	Candidatus Pacebacteria
+kaiju_out/Timaviella_radians_GSE-UNK-7R.reads.out	0.000004	3	1817906	Candidatus Jacksonbacteria
+kaiju_out/Timaviella_radians_GSE-UNK-7R.reads.out	0.000004	3	1817911	Candidatus Nealsonbacteria
+kaiju_out/Timaviella_radians_GSE-UNK-7R.reads.out	0.000002	2	1752731	Candidatus Magasanikbacteria
+kaiju_out/Timaviella_radians_GSE-UNK-7R.reads.out	0.000002	2	1752733	Candidatus Yanofskybacteria
+kaiju_out/Timaviella_radians_GSE-UNK-7R.reads.out	0.000002	2	2093358	Candidatus Abyssubacteria
+kaiju_out/Timaviella_radians_GSE-UNK-7R.reads.out	0.000001	1	28889	Crenarchaeota
+kaiju_out/Timaviella_radians_GSE-UNK-7R.reads.out	0.000001	1	32066	Fusobacteria
+kaiju_out/Timaviella_radians_GSE-UNK-7R.reads.out	0.000001	1	67810	Candidatus Bipolaricaulota
+kaiju_out/Timaviella_radians_GSE-UNK-7R.reads.out	0.000001	1	67817	Candidatus Aminicenantes
+kaiju_out/Timaviella_radians_GSE-UNK-7R.reads.out	0.000001	1	928852	Candidatus Bathyarchaeota
+kaiju_out/Timaviella_radians_GSE-UNK-7R.reads.out	0.000001	1	1052815	Candidatus Aerophobetes
+kaiju_out/Timaviella_radians_GSE-UNK-7R.reads.out	0.000001	1	1618330	Candidatus Berkelbacteria
+kaiju_out/Timaviella_radians_GSE-UNK-7R.reads.out	0.000001	1	1655434	Candidatus Lokiarchaeota
+kaiju_out/Timaviella_radians_GSE-UNK-7R.reads.out	0.000001	1	1706441	Candidatus Thorarchaeota
+kaiju_out/Timaviella_radians_GSE-UNK-7R.reads.out	0.000001	1	1752720	Candidatus Gottesmanbacteria
+kaiju_out/Timaviella_radians_GSE-UNK-7R.reads.out	0.000001	1	1801616	Candidatus Woesearchaeota
+kaiju_out/Timaviella_radians_GSE-UNK-7R.reads.out	0.000001	1	1817799	Candidatus Doudnabacteria
+kaiju_out/Timaviella_radians_GSE-UNK-7R.reads.out	0.000001	1	1817899	Candidatus Woykebacteria
+kaiju_out/Timaviella_radians_GSE-UNK-7R.reads.out	0.000001	1	1817909	Candidatus Liptonbacteria
+kaiju_out/Timaviella_radians_GSE-UNK-7R.reads.out	0.000011	9	10239	Viruses
+kaiju_out/Timaviella_radians_GSE-UNK-7R.reads.out	0.225598	192380	NA	cannot be assigned to a (non-viral) phylum
+kaiju_out/Timaviella_radians_GSE-UNK-7R.reads.out	70.349622	59990942	NA	unclassified

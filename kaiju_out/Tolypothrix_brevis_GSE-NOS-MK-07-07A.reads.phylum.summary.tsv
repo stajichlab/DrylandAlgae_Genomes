@@ -1,0 +1,42 @@
+file	percent	reads	taxon_id	taxon_name
+kaiju_out/Tolypothrix_brevis_GSE-NOS-MK-07-07A.reads.out	30.704674	21512303	1224	Proteobacteria
+kaiju_out/Tolypothrix_brevis_GSE-NOS-MK-07-07A.reads.out	7.094693	4970683	1117	Cyanobacteria
+kaiju_out/Tolypothrix_brevis_GSE-NOS-MK-07-07A.reads.out	0.011654	8165	201174	Actinobacteria
+kaiju_out/Tolypothrix_brevis_GSE-NOS-MK-07-07A.reads.out	0.009409	6592	976	Bacteroidetes
+kaiju_out/Tolypothrix_brevis_GSE-NOS-MK-07-07A.reads.out	0.008064	5650	1239	Firmicutes
+kaiju_out/Tolypothrix_brevis_GSE-NOS-MK-07-07A.reads.out	0.003064	2147	1802339	Candidatus Tectomicrobia
+kaiju_out/Tolypothrix_brevis_GSE-NOS-MK-07-07A.reads.out	0.001945	1363	200795	Chloroflexi
+kaiju_out/Tolypothrix_brevis_GSE-NOS-MK-07-07A.reads.out	0.001560	1093	203682	Planctomycetes
+kaiju_out/Tolypothrix_brevis_GSE-NOS-MK-07-07A.reads.out	0.001492	1045	74201	Verrucomicrobia
+kaiju_out/Tolypothrix_brevis_GSE-NOS-MK-07-07A.reads.out	0.000859	602	57723	Acidobacteria
+kaiju_out/Tolypothrix_brevis_GSE-NOS-MK-07-07A.reads.out	0.000729	511	203691	Spirochaetes
+kaiju_out/Tolypothrix_brevis_GSE-NOS-MK-07-07A.reads.out	0.000465	326	1817901	Candidatus Andersenbacteria
+kaiju_out/Tolypothrix_brevis_GSE-NOS-MK-07-07A.reads.out	0.000408	286	1090	Chlorobi
+kaiju_out/Tolypothrix_brevis_GSE-NOS-MK-07-07A.reads.out	0.000285	200	1817914	Candidatus Ryanbacteria
+kaiju_out/Tolypothrix_brevis_GSE-NOS-MK-07-07A.reads.out	0.000274	192	204428	Chlamydiae
+kaiju_out/Tolypothrix_brevis_GSE-NOS-MK-07-07A.reads.out	0.000213	149	1297	Deinococcus-Thermus
+kaiju_out/Tolypothrix_brevis_GSE-NOS-MK-07-07A.reads.out	0.000177	124	67819	Armatimonadetes
+kaiju_out/Tolypothrix_brevis_GSE-NOS-MK-07-07A.reads.out	0.000156	109	28890	Euryarchaeota
+kaiju_out/Tolypothrix_brevis_GSE-NOS-MK-07-07A.reads.out	0.000141	99	1752708	Candidatus Rokubacteria
+kaiju_out/Tolypothrix_brevis_GSE-NOS-MK-07-07A.reads.out	0.000136	95	40117	Nitrospirae
+kaiju_out/Tolypothrix_brevis_GSE-NOS-MK-07-07A.reads.out	0.000111	78	95818	Candidatus Saccharibacteria
+kaiju_out/Tolypothrix_brevis_GSE-NOS-MK-07-07A.reads.out	0.000111	78	508458	Synergistetes
+kaiju_out/Tolypothrix_brevis_GSE-NOS-MK-07-07A.reads.out	0.000071	50	544448	Tenericutes
+kaiju_out/Tolypothrix_brevis_GSE-NOS-MK-07-07A.reads.out	0.000066	46	142182	Gemmatimonadetes
+kaiju_out/Tolypothrix_brevis_GSE-NOS-MK-07-07A.reads.out	0.000056	39	1379697	candidate division Zixibacteria
+kaiju_out/Tolypothrix_brevis_GSE-NOS-MK-07-07A.reads.out	0.000044	31	1134404	Ignavibacteriae
+kaiju_out/Tolypothrix_brevis_GSE-NOS-MK-07-07A.reads.out	0.000043	30	1817810	Candidatus Riflebacteria
+kaiju_out/Tolypothrix_brevis_GSE-NOS-MK-07-07A.reads.out	0.000031	22	1930617	Calditrichaeota
+kaiju_out/Tolypothrix_brevis_GSE-NOS-MK-07-07A.reads.out	0.000013	9	1729712	Candidatus Fermentibacteria
+kaiju_out/Tolypothrix_brevis_GSE-NOS-MK-07-07A.reads.out	0.000011	8	1752737	Candidatus Moranbacteria
+kaiju_out/Tolypothrix_brevis_GSE-NOS-MK-07-07A.reads.out	0.000007	5	74152	Elusimicrobia
+kaiju_out/Tolypothrix_brevis_GSE-NOS-MK-07-07A.reads.out	0.000006	4	1798710	Candidatus Melainabacteria
+kaiju_out/Tolypothrix_brevis_GSE-NOS-MK-07-07A.reads.out	0.000001	1	67812	Candidatus Omnitrophica
+kaiju_out/Tolypothrix_brevis_GSE-NOS-MK-07-07A.reads.out	0.000001	1	1752722	Candidatus Woesebacteria
+kaiju_out/Tolypothrix_brevis_GSE-NOS-MK-07-07A.reads.out	0.000001	1	1817800	Candidatus Edwardsbacteria
+kaiju_out/Tolypothrix_brevis_GSE-NOS-MK-07-07A.reads.out	0.000001	1	1817811	Candidatus Schekmanbacteria
+kaiju_out/Tolypothrix_brevis_GSE-NOS-MK-07-07A.reads.out	0.000001	1	1853220	Rhodothermaeota
+kaiju_out/Tolypothrix_brevis_GSE-NOS-MK-07-07A.reads.out	0.000001	1	2109258	Abditibacteriota
+kaiju_out/Tolypothrix_brevis_GSE-NOS-MK-07-07A.reads.out	0.000080	56	10239	Viruses
+kaiju_out/Tolypothrix_brevis_GSE-NOS-MK-07-07A.reads.out	0.357463	250446	NA	cannot be assigned to a (non-viral) phylum
+kaiju_out/Tolypothrix_brevis_GSE-NOS-MK-07-07A.reads.out	61.801481	43299346	NA	unclassified

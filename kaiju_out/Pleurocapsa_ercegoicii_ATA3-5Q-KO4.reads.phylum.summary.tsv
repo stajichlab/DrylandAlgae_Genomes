@@ -1,0 +1,91 @@
+file	percent	reads	taxon_id	taxon_name
+kaiju_out/Pleurocapsa_ercegoicii_ATA3-5Q-KO4.reads.out	23.986895	25821376	1224	Proteobacteria
+kaiju_out/Pleurocapsa_ercegoicii_ATA3-5Q-KO4.reads.out	1.789608	1926475	1117	Cyanobacteria
+kaiju_out/Pleurocapsa_ercegoicii_ATA3-5Q-KO4.reads.out	1.454324	1565549	976	Bacteroidetes
+kaiju_out/Pleurocapsa_ercegoicii_ATA3-5Q-KO4.reads.out	0.208023	223932	203682	Planctomycetes
+kaiju_out/Pleurocapsa_ercegoicii_ATA3-5Q-KO4.reads.out	0.030794	33149	201174	Actinobacteria
+kaiju_out/Pleurocapsa_ercegoicii_ATA3-5Q-KO4.reads.out	0.022325	24032	74201	Verrucomicrobia
+kaiju_out/Pleurocapsa_ercegoicii_ATA3-5Q-KO4.reads.out	0.013426	14453	1239	Firmicutes
+kaiju_out/Pleurocapsa_ercegoicii_ATA3-5Q-KO4.reads.out	0.012075	12998	57723	Acidobacteria
+kaiju_out/Pleurocapsa_ercegoicii_ATA3-5Q-KO4.reads.out	0.005224	5623	200795	Chloroflexi
+kaiju_out/Pleurocapsa_ercegoicii_ATA3-5Q-KO4.reads.out	0.001746	1880	1134404	Ignavibacteriae
+kaiju_out/Pleurocapsa_ercegoicii_ATA3-5Q-KO4.reads.out	0.001711	1842	67819	Armatimonadetes
+kaiju_out/Pleurocapsa_ercegoicii_ATA3-5Q-KO4.reads.out	0.001678	1806	40117	Nitrospirae
+kaiju_out/Pleurocapsa_ercegoicii_ATA3-5Q-KO4.reads.out	0.001636	1761	142182	Gemmatimonadetes
+kaiju_out/Pleurocapsa_ercegoicii_ATA3-5Q-KO4.reads.out	0.001398	1505	203691	Spirochaetes
+kaiju_out/Pleurocapsa_ercegoicii_ATA3-5Q-KO4.reads.out	0.001322	1423	256845	Lentisphaerae
+kaiju_out/Pleurocapsa_ercegoicii_ATA3-5Q-KO4.reads.out	0.001199	1291	1297	Deinococcus-Thermus
+kaiju_out/Pleurocapsa_ercegoicii_ATA3-5Q-KO4.reads.out	0.001144	1232	74152	Elusimicrobia
+kaiju_out/Pleurocapsa_ercegoicii_ATA3-5Q-KO4.reads.out	0.000883	950	28890	Euryarchaeota
+kaiju_out/Pleurocapsa_ercegoicii_ATA3-5Q-KO4.reads.out	0.000838	902	1752708	Candidatus Rokubacteria
+kaiju_out/Pleurocapsa_ercegoicii_ATA3-5Q-KO4.reads.out	0.000729	785	1090	Chlorobi
+kaiju_out/Pleurocapsa_ercegoicii_ATA3-5Q-KO4.reads.out	0.000676	728	67812	Candidatus Omnitrophica
+kaiju_out/Pleurocapsa_ercegoicii_ATA3-5Q-KO4.reads.out	0.000479	516	1936987	Balneolaeota
+kaiju_out/Pleurocapsa_ercegoicii_ATA3-5Q-KO4.reads.out	0.000383	412	1930617	Calditrichaeota
+kaiju_out/Pleurocapsa_ercegoicii_ATA3-5Q-KO4.reads.out	0.000324	349	134625	Kiritimatiellaeota
+kaiju_out/Pleurocapsa_ercegoicii_ATA3-5Q-KO4.reads.out	0.000306	329	142187	Candidatus Hydrogenedentes
+kaiju_out/Pleurocapsa_ercegoicii_ATA3-5Q-KO4.reads.out	0.000302	325	204428	Chlamydiae
+kaiju_out/Pleurocapsa_ercegoicii_ATA3-5Q-KO4.reads.out	0.000295	318	1853220	Rhodothermaeota
+kaiju_out/Pleurocapsa_ercegoicii_ATA3-5Q-KO4.reads.out	0.000265	285	200940	Thermodesulfobacteria
+kaiju_out/Pleurocapsa_ercegoicii_ATA3-5Q-KO4.reads.out	0.000233	251	1619053	Candidatus Peregrinibacteria
+kaiju_out/Pleurocapsa_ercegoicii_ATA3-5Q-KO4.reads.out	0.000225	242	1798710	Candidatus Melainabacteria
+kaiju_out/Pleurocapsa_ercegoicii_ATA3-5Q-KO4.reads.out	0.000203	218	1293497	Nitrospinae
+kaiju_out/Pleurocapsa_ercegoicii_ATA3-5Q-KO4.reads.out	0.000185	199	1752716	Candidatus Dadabacteria
+kaiju_out/Pleurocapsa_ercegoicii_ATA3-5Q-KO4.reads.out	0.000184	198	32066	Fusobacteria
+kaiju_out/Pleurocapsa_ercegoicii_ATA3-5Q-KO4.reads.out	0.000163	176	2109258	Abditibacteriota
+kaiju_out/Pleurocapsa_ercegoicii_ATA3-5Q-KO4.reads.out	0.000151	163	1802339	Candidatus Tectomicrobia
+kaiju_out/Pleurocapsa_ercegoicii_ATA3-5Q-KO4.reads.out	0.000148	159	640293	candidate division NC10
+kaiju_out/Pleurocapsa_ercegoicii_ATA3-5Q-KO4.reads.out	0.000145	156	1817801	Candidatus Eisenbacteria
+kaiju_out/Pleurocapsa_ercegoicii_ATA3-5Q-KO4.reads.out	0.000140	151	200783	Aquificae
+kaiju_out/Pleurocapsa_ercegoicii_ATA3-5Q-KO4.reads.out	0.000137	147	1379697	candidate division Zixibacteria
+kaiju_out/Pleurocapsa_ercegoicii_ATA3-5Q-KO4.reads.out	0.000135	145	265317	Candidatus Poribacteria
+kaiju_out/Pleurocapsa_ercegoicii_ATA3-5Q-KO4.reads.out	0.000134	144	456828	Candidatus Cloacimonetes
+kaiju_out/Pleurocapsa_ercegoicii_ATA3-5Q-KO4.reads.out	0.000106	114	1855361	Candidatus Kryptonia
+kaiju_out/Pleurocapsa_ercegoicii_ATA3-5Q-KO4.reads.out	0.000096	103	1817810	Candidatus Riflebacteria
+kaiju_out/Pleurocapsa_ercegoicii_ATA3-5Q-KO4.reads.out	0.000090	97	65842	Fibrobacteres
+kaiju_out/Pleurocapsa_ercegoicii_ATA3-5Q-KO4.reads.out	0.000087	94	1752719	Candidatus Levybacteria
+kaiju_out/Pleurocapsa_ercegoicii_ATA3-5Q-KO4.reads.out	0.000075	81	651137	Thaumarchaeota
+kaiju_out/Pleurocapsa_ercegoicii_ATA3-5Q-KO4.reads.out	0.000074	80	1703755	candidate division WOR-3
+kaiju_out/Pleurocapsa_ercegoicii_ATA3-5Q-KO4.reads.out	0.000072	78	74015	Candidatus Latescibacteria
+kaiju_out/Pleurocapsa_ercegoicii_ATA3-5Q-KO4.reads.out	0.000069	74	200930	Deferribacteres
+kaiju_out/Pleurocapsa_ercegoicii_ATA3-5Q-KO4.reads.out	0.000059	64	1817812	Candidatus Wallbacteria
+kaiju_out/Pleurocapsa_ercegoicii_ATA3-5Q-KO4.reads.out	0.000059	63	1817913	Candidatus Portnoybacteria
+kaiju_out/Pleurocapsa_ercegoicii_ATA3-5Q-KO4.reads.out	0.000058	62	1752736	Candidatus Adlerbacteria
+kaiju_out/Pleurocapsa_ercegoicii_ATA3-5Q-KO4.reads.out	0.000049	53	2093358	Candidatus Abyssubacteria
+kaiju_out/Pleurocapsa_ercegoicii_ATA3-5Q-KO4.reads.out	0.000044	47	1752727	Candidatus Campbellbacteria
+kaiju_out/Pleurocapsa_ercegoicii_ATA3-5Q-KO4.reads.out	0.000043	46	1752728	Candidatus Falkowbacteria
+kaiju_out/Pleurocapsa_ercegoicii_ATA3-5Q-KO4.reads.out	0.000043	46	1817807	Candidatus Lindowbacteria
+kaiju_out/Pleurocapsa_ercegoicii_ATA3-5Q-KO4.reads.out	0.000042	45	1819803	Candidatus Desantisbacteria
+kaiju_out/Pleurocapsa_ercegoicii_ATA3-5Q-KO4.reads.out	0.000038	41	67817	Candidatus Aminicenantes
+kaiju_out/Pleurocapsa_ercegoicii_ATA3-5Q-KO4.reads.out	0.000035	38	508458	Synergistetes
+kaiju_out/Pleurocapsa_ercegoicii_ATA3-5Q-KO4.reads.out	0.000035	38	743724	Candidatus Aenigmarchaeota
+kaiju_out/Pleurocapsa_ercegoicii_ATA3-5Q-KO4.reads.out	0.000032	34	1817808	Candidatus Margulisbacteria
+kaiju_out/Pleurocapsa_ercegoicii_ATA3-5Q-KO4.reads.out	0.000031	33	1752732	Candidatus Uhrbacteria
+kaiju_out/Pleurocapsa_ercegoicii_ATA3-5Q-KO4.reads.out	0.000027	29	221216	Candidatus Parcubacteria
+kaiju_out/Pleurocapsa_ercegoicii_ATA3-5Q-KO4.reads.out	0.000025	27	1817907	Candidatus Kerfeldbacteria
+kaiju_out/Pleurocapsa_ercegoicii_ATA3-5Q-KO4.reads.out	0.000024	26	62680	Candidatus Marinimicrobia
+kaiju_out/Pleurocapsa_ercegoicii_ATA3-5Q-KO4.reads.out	0.000023	25	1729712	Candidatus Fermentibacteria
+kaiju_out/Pleurocapsa_ercegoicii_ATA3-5Q-KO4.reads.out	0.000020	22	1817806	Candidatus Handelsmanbacteria
+kaiju_out/Pleurocapsa_ercegoicii_ATA3-5Q-KO4.reads.out	0.000017	18	200295	Candidatus Sumerlaeota
+kaiju_out/Pleurocapsa_ercegoicii_ATA3-5Q-KO4.reads.out	0.000014	15	67818	Candidatus Atribacteria
+kaiju_out/Pleurocapsa_ercegoicii_ATA3-5Q-KO4.reads.out	0.000014	15	200938	Chrysiogenetes
+kaiju_out/Pleurocapsa_ercegoicii_ATA3-5Q-KO4.reads.out	0.000014	15	1817799	Candidatus Doudnabacteria
+kaiju_out/Pleurocapsa_ercegoicii_ATA3-5Q-KO4.reads.out	0.000014	15	1817916	Candidatus Staskawiczbacteria
+kaiju_out/Pleurocapsa_ercegoicii_ATA3-5Q-KO4.reads.out	0.000013	14	1817911	Candidatus Nealsonbacteria
+kaiju_out/Pleurocapsa_ercegoicii_ATA3-5Q-KO4.reads.out	0.000012	13	544448	Tenericutes
+kaiju_out/Pleurocapsa_ercegoicii_ATA3-5Q-KO4.reads.out	0.000012	13	1752735	Candidatus Wolfebacteria
+kaiju_out/Pleurocapsa_ercegoicii_ATA3-5Q-KO4.reads.out	0.000011	12	1752734	Candidatus Kaiserbacteria
+kaiju_out/Pleurocapsa_ercegoicii_ATA3-5Q-KO4.reads.out	0.000009	10	95818	Candidatus Saccharibacteria
+kaiju_out/Pleurocapsa_ercegoicii_ATA3-5Q-KO4.reads.out	0.000007	8	363464	Candidatus Gracilibacteria
+kaiju_out/Pleurocapsa_ercegoicii_ATA3-5Q-KO4.reads.out	0.000007	7	1706441	Candidatus Thorarchaeota
+kaiju_out/Pleurocapsa_ercegoicii_ATA3-5Q-KO4.reads.out	0.000003	3	2052312	candidate division AD3
+kaiju_out/Pleurocapsa_ercegoicii_ATA3-5Q-KO4.reads.out	0.000002	2	28889	Crenarchaeota
+kaiju_out/Pleurocapsa_ercegoicii_ATA3-5Q-KO4.reads.out	0.000002	2	1752723	Candidatus Roizmanbacteria
+kaiju_out/Pleurocapsa_ercegoicii_ATA3-5Q-KO4.reads.out	0.000002	2	1817919	Candidatus Taylorbacteria
+kaiju_out/Pleurocapsa_ercegoicii_ATA3-5Q-KO4.reads.out	0.000001	1	200918	Thermotogae
+kaiju_out/Pleurocapsa_ercegoicii_ATA3-5Q-KO4.reads.out	0.000001	1	1154676	candidate division WPS-2
+kaiju_out/Pleurocapsa_ercegoicii_ATA3-5Q-KO4.reads.out	0.000001	1	1801616	Candidatus Woesearchaeota
+kaiju_out/Pleurocapsa_ercegoicii_ATA3-5Q-KO4.reads.out	0.000001	1	1817805	Candidatus Glassbacteria
+kaiju_out/Pleurocapsa_ercegoicii_ATA3-5Q-KO4.reads.out	0.000188	202	10239	Viruses
+kaiju_out/Pleurocapsa_ercegoicii_ATA3-5Q-KO4.reads.out	0.590983	636180	NA	cannot be assigned to a (non-viral) phylum
+kaiju_out/Pleurocapsa_ercegoicii_ATA3-5Q-KO4.reads.out	71.865129	77361261	NA	unclassified

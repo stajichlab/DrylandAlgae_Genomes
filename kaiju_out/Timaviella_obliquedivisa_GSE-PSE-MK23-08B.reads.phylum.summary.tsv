@@ -1,0 +1,65 @@
+file	percent	reads	taxon_id	taxon_name
+kaiju_out/Timaviella_obliquedivisa_GSE-PSE-MK23-08B.reads.out	12.852730	10791387	1224	Proteobacteria
+kaiju_out/Timaviella_obliquedivisa_GSE-PSE-MK23-08B.reads.out	7.674178	6443380	1117	Cyanobacteria
+kaiju_out/Timaviella_obliquedivisa_GSE-PSE-MK23-08B.reads.out	0.056510	47447	976	Bacteroidetes
+kaiju_out/Timaviella_obliquedivisa_GSE-PSE-MK23-08B.reads.out	0.015942	13385	1239	Firmicutes
+kaiju_out/Timaviella_obliquedivisa_GSE-PSE-MK23-08B.reads.out	0.011082	9305	201174	Actinobacteria
+kaiju_out/Timaviella_obliquedivisa_GSE-PSE-MK23-08B.reads.out	0.010251	8607	200795	Chloroflexi
+kaiju_out/Timaviella_obliquedivisa_GSE-PSE-MK23-08B.reads.out	0.007337	6160	74201	Verrucomicrobia
+kaiju_out/Timaviella_obliquedivisa_GSE-PSE-MK23-08B.reads.out	0.006927	5816	57723	Acidobacteria
+kaiju_out/Timaviella_obliquedivisa_GSE-PSE-MK23-08B.reads.out	0.004478	3760	203682	Planctomycetes
+kaiju_out/Timaviella_obliquedivisa_GSE-PSE-MK23-08B.reads.out	0.002168	1820	1090	Chlorobi
+kaiju_out/Timaviella_obliquedivisa_GSE-PSE-MK23-08B.reads.out	0.001908	1602	1752708	Candidatus Rokubacteria
+kaiju_out/Timaviella_obliquedivisa_GSE-PSE-MK23-08B.reads.out	0.001887	1584	40117	Nitrospirae
+kaiju_out/Timaviella_obliquedivisa_GSE-PSE-MK23-08B.reads.out	0.001029	864	142182	Gemmatimonadetes
+kaiju_out/Timaviella_obliquedivisa_GSE-PSE-MK23-08B.reads.out	0.000731	614	204428	Chlamydiae
+kaiju_out/Timaviella_obliquedivisa_GSE-PSE-MK23-08B.reads.out	0.000696	584	1802339	Candidatus Tectomicrobia
+kaiju_out/Timaviella_obliquedivisa_GSE-PSE-MK23-08B.reads.out	0.000674	566	1134404	Ignavibacteriae
+kaiju_out/Timaviella_obliquedivisa_GSE-PSE-MK23-08B.reads.out	0.000576	484	1817810	Candidatus Riflebacteria
+kaiju_out/Timaviella_obliquedivisa_GSE-PSE-MK23-08B.reads.out	0.000575	483	203691	Spirochaetes
+kaiju_out/Timaviella_obliquedivisa_GSE-PSE-MK23-08B.reads.out	0.000436	366	1930617	Calditrichaeota
+kaiju_out/Timaviella_obliquedivisa_GSE-PSE-MK23-08B.reads.out	0.000378	317	1297	Deinococcus-Thermus
+kaiju_out/Timaviella_obliquedivisa_GSE-PSE-MK23-08B.reads.out	0.000357	300	508458	Synergistetes
+kaiju_out/Timaviella_obliquedivisa_GSE-PSE-MK23-08B.reads.out	0.000333	280	28890	Euryarchaeota
+kaiju_out/Timaviella_obliquedivisa_GSE-PSE-MK23-08B.reads.out	0.000333	280	1798710	Candidatus Melainabacteria
+kaiju_out/Timaviella_obliquedivisa_GSE-PSE-MK23-08B.reads.out	0.000225	189	1752716	Candidatus Dadabacteria
+kaiju_out/Timaviella_obliquedivisa_GSE-PSE-MK23-08B.reads.out	0.000217	182	67819	Armatimonadetes
+kaiju_out/Timaviella_obliquedivisa_GSE-PSE-MK23-08B.reads.out	0.000175	147	28889	Crenarchaeota
+kaiju_out/Timaviella_obliquedivisa_GSE-PSE-MK23-08B.reads.out	0.000166	139	200930	Deferribacteres
+kaiju_out/Timaviella_obliquedivisa_GSE-PSE-MK23-08B.reads.out	0.000156	131	640293	candidate division NC10
+kaiju_out/Timaviella_obliquedivisa_GSE-PSE-MK23-08B.reads.out	0.000146	123	1752737	Candidatus Moranbacteria
+kaiju_out/Timaviella_obliquedivisa_GSE-PSE-MK23-08B.reads.out	0.000135	113	74152	Elusimicrobia
+kaiju_out/Timaviella_obliquedivisa_GSE-PSE-MK23-08B.reads.out	0.000135	113	265317	Candidatus Poribacteria
+kaiju_out/Timaviella_obliquedivisa_GSE-PSE-MK23-08B.reads.out	0.000125	105	62680	Candidatus Marinimicrobia
+kaiju_out/Timaviella_obliquedivisa_GSE-PSE-MK23-08B.reads.out	0.000107	90	67812	Candidatus Omnitrophica
+kaiju_out/Timaviella_obliquedivisa_GSE-PSE-MK23-08B.reads.out	0.000098	82	1729712	Candidatus Fermentibacteria
+kaiju_out/Timaviella_obliquedivisa_GSE-PSE-MK23-08B.reads.out	0.000094	79	1752720	Candidatus Gottesmanbacteria
+kaiju_out/Timaviella_obliquedivisa_GSE-PSE-MK23-08B.reads.out	0.000085	71	1817808	Candidatus Margulisbacteria
+kaiju_out/Timaviella_obliquedivisa_GSE-PSE-MK23-08B.reads.out	0.000081	68	1936987	Balneolaeota
+kaiju_out/Timaviella_obliquedivisa_GSE-PSE-MK23-08B.reads.out	0.000080	67	256845	Lentisphaerae
+kaiju_out/Timaviella_obliquedivisa_GSE-PSE-MK23-08B.reads.out	0.000076	64	651137	Thaumarchaeota
+kaiju_out/Timaviella_obliquedivisa_GSE-PSE-MK23-08B.reads.out	0.000068	57	1817801	Candidatus Eisenbacteria
+kaiju_out/Timaviella_obliquedivisa_GSE-PSE-MK23-08B.reads.out	0.000063	53	200783	Aquificae
+kaiju_out/Timaviella_obliquedivisa_GSE-PSE-MK23-08B.reads.out	0.000048	40	200940	Thermodesulfobacteria
+kaiju_out/Timaviella_obliquedivisa_GSE-PSE-MK23-08B.reads.out	0.000040	34	1293497	Nitrospinae
+kaiju_out/Timaviella_obliquedivisa_GSE-PSE-MK23-08B.reads.out	0.000035	29	456828	Candidatus Cloacimonetes
+kaiju_out/Timaviella_obliquedivisa_GSE-PSE-MK23-08B.reads.out	0.000029	24	1752723	Candidatus Roizmanbacteria
+kaiju_out/Timaviella_obliquedivisa_GSE-PSE-MK23-08B.reads.out	0.000024	20	221216	Candidatus Parcubacteria
+kaiju_out/Timaviella_obliquedivisa_GSE-PSE-MK23-08B.reads.out	0.000023	19	65842	Fibrobacteres
+kaiju_out/Timaviella_obliquedivisa_GSE-PSE-MK23-08B.reads.out	0.000020	17	1662329	Candidatus Kapabacteria
+kaiju_out/Timaviella_obliquedivisa_GSE-PSE-MK23-08B.reads.out	0.000015	13	74015	Candidatus Latescibacteria
+kaiju_out/Timaviella_obliquedivisa_GSE-PSE-MK23-08B.reads.out	0.000014	12	1752731	Candidatus Magasanikbacteria
+kaiju_out/Timaviella_obliquedivisa_GSE-PSE-MK23-08B.reads.out	0.000013	11	1817806	Candidatus Handelsmanbacteria
+kaiju_out/Timaviella_obliquedivisa_GSE-PSE-MK23-08B.reads.out	0.000008	7	1379697	candidate division Zixibacteria
+kaiju_out/Timaviella_obliquedivisa_GSE-PSE-MK23-08B.reads.out	0.000004	3	67818	Candidatus Atribacteria
+kaiju_out/Timaviella_obliquedivisa_GSE-PSE-MK23-08B.reads.out	0.000004	3	200938	Chrysiogenetes
+kaiju_out/Timaviella_obliquedivisa_GSE-PSE-MK23-08B.reads.out	0.000004	3	1817903	Candidatus Buchananbacteria
+kaiju_out/Timaviella_obliquedivisa_GSE-PSE-MK23-08B.reads.out	0.000002	2	1752734	Candidatus Kaiserbacteria
+kaiju_out/Timaviella_obliquedivisa_GSE-PSE-MK23-08B.reads.out	0.000001	1	200918	Thermotogae
+kaiju_out/Timaviella_obliquedivisa_GSE-PSE-MK23-08B.reads.out	0.000001	1	928852	Candidatus Bathyarchaeota
+kaiju_out/Timaviella_obliquedivisa_GSE-PSE-MK23-08B.reads.out	0.000001	1	1817812	Candidatus Wallbacteria
+kaiju_out/Timaviella_obliquedivisa_GSE-PSE-MK23-08B.reads.out	0.000001	1	1853220	Rhodothermaeota
+kaiju_out/Timaviella_obliquedivisa_GSE-PSE-MK23-08B.reads.out	0.000001	1	2013583	Candidatus Goldbacteria
+kaiju_out/Timaviella_obliquedivisa_GSE-PSE-MK23-08B.reads.out	0.002010	1688	10239	Viruses
+kaiju_out/Timaviella_obliquedivisa_GSE-PSE-MK23-08B.reads.out	0.226722	190360	NA	cannot be assigned to a (non-viral) phylum
+kaiju_out/Timaviella_obliquedivisa_GSE-PSE-MK23-08B.reads.out	79.117233	66428280	NA	unclassified
