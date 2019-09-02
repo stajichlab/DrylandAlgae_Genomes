@@ -1,0 +1,16 @@
+file	percent	reads	taxon_id	taxon_name
+kaiju_out/Myxacorys_californica_WJT36-NPBG1.contig.out	31.478130	2958	1224	Proteobacteria
+kaiju_out/Myxacorys_californica_WJT36-NPBG1.contig.out	30.435246	2860	201174	Actinobacteria
+kaiju_out/Myxacorys_californica_WJT36-NPBG1.contig.out	2.873257	270	1117	Cyanobacteria
+kaiju_out/Myxacorys_californica_WJT36-NPBG1.contig.out	0.266042	25	57723	Acidobacteria
+kaiju_out/Myxacorys_californica_WJT36-NPBG1.contig.out	0.180909	17	142182	Gemmatimonadetes
+kaiju_out/Myxacorys_californica_WJT36-NPBG1.contig.out	0.095775	9	1239	Firmicutes
+kaiju_out/Myxacorys_californica_WJT36-NPBG1.contig.out	0.063850	6	976	Bacteroidetes
+kaiju_out/Myxacorys_californica_WJT36-NPBG1.contig.out	0.031925	3	74201	Verrucomicrobia
+kaiju_out/Myxacorys_californica_WJT36-NPBG1.contig.out	0.031925	3	203682	Planctomycetes
+kaiju_out/Myxacorys_californica_WJT36-NPBG1.contig.out	0.031925	3	1752708	Candidatus Rokubacteria
+kaiju_out/Myxacorys_californica_WJT36-NPBG1.contig.out	0.010642	1	200795	Chloroflexi
+kaiju_out/Myxacorys_californica_WJT36-NPBG1.contig.out	0.010642	1	1853220	Rhodothermaeota
+kaiju_out/Myxacorys_californica_WJT36-NPBG1.contig.out	0.021283	2	10239	Viruses
+kaiju_out/Myxacorys_californica_WJT36-NPBG1.contig.out	0.532085	50	NA	cannot be assigned to a (non-viral) phylum
+kaiju_out/Myxacorys_californica_WJT36-NPBG1.contig.out	33.936363	3189	NA	unclassified

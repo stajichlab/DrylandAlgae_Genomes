@@ -1,0 +1,11 @@
+file	percent	reads	taxon_id	taxon_name
+kaiju_out/Nodosilinea_sp._WJT8-NPBG4.contig.out	29.247532	859	201174	Actinobacteria
+kaiju_out/Nodosilinea_sp._WJT8-NPBG4.contig.out	13.823630	406	1224	Proteobacteria
+kaiju_out/Nodosilinea_sp._WJT8-NPBG4.contig.out	3.268642	96	1117	Cyanobacteria
+kaiju_out/Nodosilinea_sp._WJT8-NPBG4.contig.out	0.170242	5	1239	Firmicutes
+kaiju_out/Nodosilinea_sp._WJT8-NPBG4.contig.out	0.034048	1	976	Bacteroidetes
+kaiju_out/Nodosilinea_sp._WJT8-NPBG4.contig.out	0.034048	1	200795	Chloroflexi
+kaiju_out/Nodosilinea_sp._WJT8-NPBG4.contig.out	0.034048	1	203691	Spirochaetes
+kaiju_out/Nodosilinea_sp._WJT8-NPBG4.contig.out	0.000000	0	10239	Viruses
+kaiju_out/Nodosilinea_sp._WJT8-NPBG4.contig.out	0.238338	7	NA	cannot be assigned to a (non-viral) phylum
+kaiju_out/Nodosilinea_sp._WJT8-NPBG4.contig.out	53.149474	1561	NA	unclassified

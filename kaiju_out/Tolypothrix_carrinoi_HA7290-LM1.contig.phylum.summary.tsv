@@ -1,0 +1,17 @@
+file	percent	reads	taxon_id	taxon_name
+kaiju_out/Tolypothrix_carrinoi_HA7290-LM1.contig.out	18.609829	8024	1224	Proteobacteria
+kaiju_out/Tolypothrix_carrinoi_HA7290-LM1.contig.out	17.464109	7530	201174	Actinobacteria
+kaiju_out/Tolypothrix_carrinoi_HA7290-LM1.contig.out	1.152678	497	1117	Cyanobacteria
+kaiju_out/Tolypothrix_carrinoi_HA7290-LM1.contig.out	0.048705	21	976	Bacteroidetes
+kaiju_out/Tolypothrix_carrinoi_HA7290-LM1.contig.out	0.020873	9	200795	Chloroflexi
+kaiju_out/Tolypothrix_carrinoi_HA7290-LM1.contig.out	0.016235	7	57723	Acidobacteria
+kaiju_out/Tolypothrix_carrinoi_HA7290-LM1.contig.out	0.013916	6	1239	Firmicutes
+kaiju_out/Tolypothrix_carrinoi_HA7290-LM1.contig.out	0.006958	3	203682	Planctomycetes
+kaiju_out/Tolypothrix_carrinoi_HA7290-LM1.contig.out	0.002319	1	28890	Euryarchaeota
+kaiju_out/Tolypothrix_carrinoi_HA7290-LM1.contig.out	0.002319	1	256845	Lentisphaerae
+kaiju_out/Tolypothrix_carrinoi_HA7290-LM1.contig.out	0.002319	1	743724	Candidatus Aenigmarchaeota
+kaiju_out/Tolypothrix_carrinoi_HA7290-LM1.contig.out	0.002319	1	1802339	Candidatus Tectomicrobia
+kaiju_out/Tolypothrix_carrinoi_HA7290-LM1.contig.out	0.002319	1	1817922	Candidatus Vogelbacteria
+kaiju_out/Tolypothrix_carrinoi_HA7290-LM1.contig.out	0.011596	5	10239	Viruses
+kaiju_out/Tolypothrix_carrinoi_HA7290-LM1.contig.out	0.129879	56	NA	cannot be assigned to a (non-viral) phylum
+kaiju_out/Tolypothrix_carrinoi_HA7290-LM1.contig.out	62.513626	26954	NA	unclassified

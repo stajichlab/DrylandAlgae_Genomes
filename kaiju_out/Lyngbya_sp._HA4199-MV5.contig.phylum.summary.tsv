@@ -1,0 +1,10 @@
+file	percent	reads	taxon_id	taxon_name
+kaiju_out/Lyngbya_sp._HA4199-MV5.contig.out	48.780052	2719	1224	Proteobacteria
+kaiju_out/Lyngbya_sp._HA4199-MV5.contig.out	7.481162	417	976	Bacteroidetes
+kaiju_out/Lyngbya_sp._HA4199-MV5.contig.out	2.601363	145	1117	Cyanobacteria
+kaiju_out/Lyngbya_sp._HA4199-MV5.contig.out	0.017940	1	74201	Verrucomicrobia
+kaiju_out/Lyngbya_sp._HA4199-MV5.contig.out	0.017940	1	201174	Actinobacteria
+kaiju_out/Lyngbya_sp._HA4199-MV5.contig.out	0.017940	1	1134404	Ignavibacteriae
+kaiju_out/Lyngbya_sp._HA4199-MV5.contig.out	0.000000	0	10239	Viruses
+kaiju_out/Lyngbya_sp._HA4199-MV5.contig.out	0.358809	20	NA	cannot be assigned to a (non-viral) phylum
+kaiju_out/Lyngbya_sp._HA4199-MV5.contig.out	40.724793	2270	NA	unclassified

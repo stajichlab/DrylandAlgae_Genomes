@@ -1,0 +1,11 @@
+file	percent	reads	taxon_id	taxon_name
+kaiju_out/Aphanocapsa_sp._GSE-SYN-MK-11-07L.contig.out	31.796350	331	1117	Cyanobacteria
+kaiju_out/Aphanocapsa_sp._GSE-SYN-MK-11-07L.contig.out	3.842459	40	1224	Proteobacteria
+kaiju_out/Aphanocapsa_sp._GSE-SYN-MK-11-07L.contig.out	0.288184	3	201174	Actinobacteria
+kaiju_out/Aphanocapsa_sp._GSE-SYN-MK-11-07L.contig.out	0.192123	2	1239	Firmicutes
+kaiju_out/Aphanocapsa_sp._GSE-SYN-MK-11-07L.contig.out	0.096061	1	976	Bacteroidetes
+kaiju_out/Aphanocapsa_sp._GSE-SYN-MK-11-07L.contig.out	0.096061	1	651137	Thaumarchaeota
+kaiju_out/Aphanocapsa_sp._GSE-SYN-MK-11-07L.contig.out	0.096061	1	1752708	Candidatus Rokubacteria
+kaiju_out/Aphanocapsa_sp._GSE-SYN-MK-11-07L.contig.out	0.000000	0	10239	Viruses
+kaiju_out/Aphanocapsa_sp._GSE-SYN-MK-11-07L.contig.out	0.096061	1	NA	cannot be assigned to a (non-viral) phylum
+kaiju_out/Aphanocapsa_sp._GSE-SYN-MK-11-07L.contig.out	63.496637	661	NA	unclassified

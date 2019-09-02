@@ -1,0 +1,15 @@
+file	percent	reads	taxon_id	taxon_name
+kaiju_out/Nostoc_indistinguendum_CM1-VF10.contig.out	63.889523	8443	1224	Proteobacteria
+kaiju_out/Nostoc_indistinguendum_CM1-VF10.contig.out	11.214529	1482	1117	Cyanobacteria
+kaiju_out/Nostoc_indistinguendum_CM1-VF10.contig.out	0.824820	109	203682	Planctomycetes
+kaiju_out/Nostoc_indistinguendum_CM1-VF10.contig.out	0.332955	44	976	Bacteroidetes
+kaiju_out/Nostoc_indistinguendum_CM1-VF10.contig.out	0.052970	7	201174	Actinobacteria
+kaiju_out/Nostoc_indistinguendum_CM1-VF10.contig.out	0.015134	2	1239	Firmicutes
+kaiju_out/Nostoc_indistinguendum_CM1-VF10.contig.out	0.015134	2	57723	Acidobacteria
+kaiju_out/Nostoc_indistinguendum_CM1-VF10.contig.out	0.015134	2	200795	Chloroflexi
+kaiju_out/Nostoc_indistinguendum_CM1-VF10.contig.out	0.015134	2	1752708	Candidatus Rokubacteria
+kaiju_out/Nostoc_indistinguendum_CM1-VF10.contig.out	0.007567	1	74201	Verrucomicrobia
+kaiju_out/Nostoc_indistinguendum_CM1-VF10.contig.out	0.007567	1	544448	Tenericutes
+kaiju_out/Nostoc_indistinguendum_CM1-VF10.contig.out	0.000000	0	10239	Viruses
+kaiju_out/Nostoc_indistinguendum_CM1-VF10.contig.out	0.295119	39	NA	cannot be assigned to a (non-viral) phylum
+kaiju_out/Nostoc_indistinguendum_CM1-VF10.contig.out	23.314415	3081	NA	unclassified

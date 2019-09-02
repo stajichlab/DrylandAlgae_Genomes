@@ -1,0 +1,20 @@
+file	percent	reads	taxon_id	taxon_name
+kaiju_out/Myxacorys_chilensis_ATA2-1-KO14.contig.out	38.156071	7437	1224	Proteobacteria
+kaiju_out/Myxacorys_chilensis_ATA2-1-KO14.contig.out	4.068544	793	201174	Actinobacteria
+kaiju_out/Myxacorys_chilensis_ATA2-1-KO14.contig.out	1.605869	313	1117	Cyanobacteria
+kaiju_out/Myxacorys_chilensis_ATA2-1-KO14.contig.out	0.851675	166	976	Bacteroidetes
+kaiju_out/Myxacorys_chilensis_ATA2-1-KO14.contig.out	0.107742	21	57723	Acidobacteria
+kaiju_out/Myxacorys_chilensis_ATA2-1-KO14.contig.out	0.046175	9	200795	Chloroflexi
+kaiju_out/Myxacorys_chilensis_ATA2-1-KO14.contig.out	0.035914	7	1239	Firmicutes
+kaiju_out/Myxacorys_chilensis_ATA2-1-KO14.contig.out	0.035914	7	74201	Verrucomicrobia
+kaiju_out/Myxacorys_chilensis_ATA2-1-KO14.contig.out	0.015392	3	203682	Planctomycetes
+kaiju_out/Myxacorys_chilensis_ATA2-1-KO14.contig.out	0.010261	2	1297	Deinococcus-Thermus
+kaiju_out/Myxacorys_chilensis_ATA2-1-KO14.contig.out	0.010261	2	40117	Nitrospirae
+kaiju_out/Myxacorys_chilensis_ATA2-1-KO14.contig.out	0.010261	2	1752708	Candidatus Rokubacteria
+kaiju_out/Myxacorys_chilensis_ATA2-1-KO14.contig.out	0.005131	1	67812	Candidatus Omnitrophica
+kaiju_out/Myxacorys_chilensis_ATA2-1-KO14.contig.out	0.005131	1	142182	Gemmatimonadetes
+kaiju_out/Myxacorys_chilensis_ATA2-1-KO14.contig.out	0.005131	1	204428	Chlamydiae
+kaiju_out/Myxacorys_chilensis_ATA2-1-KO14.contig.out	0.005131	1	1752719	Candidatus Levybacteria
+kaiju_out/Myxacorys_chilensis_ATA2-1-KO14.contig.out	0.000000	0	10239	Viruses
+kaiju_out/Myxacorys_chilensis_ATA2-1-KO14.contig.out	0.261659	51	NA	cannot be assigned to a (non-viral) phylum
+kaiju_out/Myxacorys_chilensis_ATA2-1-KO14.contig.out	54.763734	10674	NA	unclassified

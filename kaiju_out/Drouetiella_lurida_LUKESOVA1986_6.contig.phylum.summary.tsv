@@ -1,0 +1,17 @@
+file	percent	reads	taxon_id	taxon_name
+kaiju_out/Drouetiella_lurida_LUKESOVA1986_6.contig.out	41.200443	11525	1224	Proteobacteria
+kaiju_out/Drouetiella_lurida_LUKESOVA1986_6.contig.out	14.714189	4116	976	Bacteroidetes
+kaiju_out/Drouetiella_lurida_LUKESOVA1986_6.contig.out	6.920960	1936	201174	Actinobacteria
+kaiju_out/Drouetiella_lurida_LUKESOVA1986_6.contig.out	0.929468	260	1117	Cyanobacteria
+kaiju_out/Drouetiella_lurida_LUKESOVA1986_6.contig.out	0.025024	7	1239	Firmicutes
+kaiju_out/Drouetiella_lurida_LUKESOVA1986_6.contig.out	0.017874	5	74201	Verrucomicrobia
+kaiju_out/Drouetiella_lurida_LUKESOVA1986_6.contig.out	0.010725	3	57723	Acidobacteria
+kaiju_out/Drouetiella_lurida_LUKESOVA1986_6.contig.out	0.007150	2	40117	Nitrospirae
+kaiju_out/Drouetiella_lurida_LUKESOVA1986_6.contig.out	0.007150	2	200795	Chloroflexi
+kaiju_out/Drouetiella_lurida_LUKESOVA1986_6.contig.out	0.007150	2	203691	Spirochaetes
+kaiju_out/Drouetiella_lurida_LUKESOVA1986_6.contig.out	0.003575	1	1297	Deinococcus-Thermus
+kaiju_out/Drouetiella_lurida_LUKESOVA1986_6.contig.out	0.003575	1	1752708	Candidatus Rokubacteria
+kaiju_out/Drouetiella_lurida_LUKESOVA1986_6.contig.out	0.003575	1	1936987	Balneolaeota
+kaiju_out/Drouetiella_lurida_LUKESOVA1986_6.contig.out	0.000000	0	10239	Viruses
+kaiju_out/Drouetiella_lurida_LUKESOVA1986_6.contig.out	0.511207	143	NA	cannot be assigned to a (non-viral) phylum
+kaiju_out/Drouetiella_lurida_LUKESOVA1986_6.contig.out	35.637936	9969	NA	unclassified

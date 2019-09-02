@@ -1,0 +1,15 @@
+file	percent	reads	taxon_id	taxon_name
+kaiju_out/Trichocoleus_desertorum_ATA4-8-CV12.contig.out	63.322823	3415	1224	Proteobacteria
+kaiju_out/Trichocoleus_desertorum_ATA4-8-CV12.contig.out	2.837011	153	1117	Cyanobacteria
+kaiju_out/Trichocoleus_desertorum_ATA4-8-CV12.contig.out	0.092713	5	201174	Actinobacteria
+kaiju_out/Trichocoleus_desertorum_ATA4-8-CV12.contig.out	0.074170	4	1239	Firmicutes
+kaiju_out/Trichocoleus_desertorum_ATA4-8-CV12.contig.out	0.074170	4	200795	Chloroflexi
+kaiju_out/Trichocoleus_desertorum_ATA4-8-CV12.contig.out	0.037085	2	976	Bacteroidetes
+kaiju_out/Trichocoleus_desertorum_ATA4-8-CV12.contig.out	0.037085	2	1802339	Candidatus Tectomicrobia
+kaiju_out/Trichocoleus_desertorum_ATA4-8-CV12.contig.out	0.018543	1	57723	Acidobacteria
+kaiju_out/Trichocoleus_desertorum_ATA4-8-CV12.contig.out	0.018543	1	74201	Verrucomicrobia
+kaiju_out/Trichocoleus_desertorum_ATA4-8-CV12.contig.out	0.018543	1	203682	Planctomycetes
+kaiju_out/Trichocoleus_desertorum_ATA4-8-CV12.contig.out	0.018543	1	204428	Chlamydiae
+kaiju_out/Trichocoleus_desertorum_ATA4-8-CV12.contig.out	0.000000	0	10239	Viruses
+kaiju_out/Trichocoleus_desertorum_ATA4-8-CV12.contig.out	0.241053	13	NA	cannot be assigned to a (non-viral) phylum
+kaiju_out/Trichocoleus_desertorum_ATA4-8-CV12.contig.out	33.209717	1791	NA	unclassified

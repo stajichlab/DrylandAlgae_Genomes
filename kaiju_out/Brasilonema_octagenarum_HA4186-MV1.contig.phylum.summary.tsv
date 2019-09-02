@@ -1,0 +1,12 @@
+file	percent	reads	taxon_id	taxon_name
+kaiju_out/Brasilonema_octagenarum_HA4186-MV1.contig.out	68.196960	1842	1224	Proteobacteria
+kaiju_out/Brasilonema_octagenarum_HA4186-MV1.contig.out	12.476861	337	201174	Actinobacteria
+kaiju_out/Brasilonema_octagenarum_HA4186-MV1.contig.out	5.849685	158	1117	Cyanobacteria
+kaiju_out/Brasilonema_octagenarum_HA4186-MV1.contig.out	0.703443	19	1297	Deinococcus-Thermus
+kaiju_out/Brasilonema_octagenarum_HA4186-MV1.contig.out	0.111070	3	976	Bacteroidetes
+kaiju_out/Brasilonema_octagenarum_HA4186-MV1.contig.out	0.037023	1	142182	Gemmatimonadetes
+kaiju_out/Brasilonema_octagenarum_HA4186-MV1.contig.out	0.037023	1	200783	Aquificae
+kaiju_out/Brasilonema_octagenarum_HA4186-MV1.contig.out	0.037023	1	200795	Chloroflexi
+kaiju_out/Brasilonema_octagenarum_HA4186-MV1.contig.out	0.000000	0	10239	Viruses
+kaiju_out/Brasilonema_octagenarum_HA4186-MV1.contig.out	0.666420	18	NA	cannot be assigned to a (non-viral) phylum
+kaiju_out/Brasilonema_octagenarum_HA4186-MV1.contig.out	11.884487	321	NA	unclassified

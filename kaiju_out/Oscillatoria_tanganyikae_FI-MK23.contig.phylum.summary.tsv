@@ -1,0 +1,19 @@
+file	percent	reads	taxon_id	taxon_name
+kaiju_out/Oscillatoria_tanganyikae_FI-MK23.contig.out	42.708187	2990	201174	Actinobacteria
+kaiju_out/Oscillatoria_tanganyikae_FI-MK23.contig.out	25.867733	1811	1224	Proteobacteria
+kaiju_out/Oscillatoria_tanganyikae_FI-MK23.contig.out	3.342380	234	1117	Cyanobacteria
+kaiju_out/Oscillatoria_tanganyikae_FI-MK23.contig.out	2.242537	157	57723	Acidobacteria
+kaiju_out/Oscillatoria_tanganyikae_FI-MK23.contig.out	1.599771	112	976	Bacteroidetes
+kaiju_out/Oscillatoria_tanganyikae_FI-MK23.contig.out	1.571204	110	203682	Planctomycetes
+kaiju_out/Oscillatoria_tanganyikae_FI-MK23.contig.out	0.057135	4	1239	Firmicutes
+kaiju_out/Oscillatoria_tanganyikae_FI-MK23.contig.out	0.057135	4	200795	Chloroflexi
+kaiju_out/Oscillatoria_tanganyikae_FI-MK23.contig.out	0.042851	3	74201	Verrucomicrobia
+kaiju_out/Oscillatoria_tanganyikae_FI-MK23.contig.out	0.014284	1	1090	Chlorobi
+kaiju_out/Oscillatoria_tanganyikae_FI-MK23.contig.out	0.014284	1	1297	Deinococcus-Thermus
+kaiju_out/Oscillatoria_tanganyikae_FI-MK23.contig.out	0.014284	1	142182	Gemmatimonadetes
+kaiju_out/Oscillatoria_tanganyikae_FI-MK23.contig.out	0.014284	1	544448	Tenericutes
+kaiju_out/Oscillatoria_tanganyikae_FI-MK23.contig.out	0.014284	1	1134404	Ignavibacteriae
+kaiju_out/Oscillatoria_tanganyikae_FI-MK23.contig.out	0.014284	1	1752708	Candidatus Rokubacteria
+kaiju_out/Oscillatoria_tanganyikae_FI-MK23.contig.out	0.000000	0	10239	Viruses
+kaiju_out/Oscillatoria_tanganyikae_FI-MK23.contig.out	2.028282	142	NA	cannot be assigned to a (non-viral) phylum
+kaiju_out/Oscillatoria_tanganyikae_FI-MK23.contig.out	20.397086	1428	NA	unclassified

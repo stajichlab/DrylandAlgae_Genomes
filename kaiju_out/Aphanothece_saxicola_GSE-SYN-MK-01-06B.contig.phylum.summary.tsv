@@ -1,0 +1,12 @@
+file	percent	reads	taxon_id	taxon_name
+kaiju_out/Aphanothece_saxicola_GSE-SYN-MK-01-06B.contig.out	80.385521	7131	1224	Proteobacteria
+kaiju_out/Aphanothece_saxicola_GSE-SYN-MK-01-06B.contig.out	0.653816	58	1117	Cyanobacteria
+kaiju_out/Aphanothece_saxicola_GSE-SYN-MK-01-06B.contig.out	0.338181	30	201174	Actinobacteria
+kaiju_out/Aphanothece_saxicola_GSE-SYN-MK-01-06B.contig.out	0.033818	3	74201	Verrucomicrobia
+kaiju_out/Aphanothece_saxicola_GSE-SYN-MK-01-06B.contig.out	0.011273	1	976	Bacteroidetes
+kaiju_out/Aphanothece_saxicola_GSE-SYN-MK-01-06B.contig.out	0.011273	1	1239	Firmicutes
+kaiju_out/Aphanothece_saxicola_GSE-SYN-MK-01-06B.contig.out	0.011273	1	142182	Gemmatimonadetes
+kaiju_out/Aphanothece_saxicola_GSE-SYN-MK-01-06B.contig.out	0.011273	1	1853220	Rhodothermaeota
+kaiju_out/Aphanothece_saxicola_GSE-SYN-MK-01-06B.contig.out	0.000000	0	10239	Viruses
+kaiju_out/Aphanothece_saxicola_GSE-SYN-MK-01-06B.contig.out	0.225454	20	NA	cannot be assigned to a (non-viral) phylum
+kaiju_out/Aphanothece_saxicola_GSE-SYN-MK-01-06B.contig.out	18.318115	1625	NA	unclassified

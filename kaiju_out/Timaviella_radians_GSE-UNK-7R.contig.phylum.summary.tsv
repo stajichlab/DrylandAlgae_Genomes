@@ -1,0 +1,24 @@
+file	percent	reads	taxon_id	taxon_name
+kaiju_out/Timaviella_radians_GSE-UNK-7R.contig.out	52.404953	4783	1224	Proteobacteria
+kaiju_out/Timaviella_radians_GSE-UNK-7R.contig.out	2.870604	262	1117	Cyanobacteria
+kaiju_out/Timaviella_radians_GSE-UNK-7R.contig.out	1.194259	109	201174	Actinobacteria
+kaiju_out/Timaviella_radians_GSE-UNK-7R.contig.out	0.876520	80	200795	Chloroflexi
+kaiju_out/Timaviella_radians_GSE-UNK-7R.contig.out	0.175304	16	1239	Firmicutes
+kaiju_out/Timaviella_radians_GSE-UNK-7R.contig.out	0.164348	15	57723	Acidobacteria
+kaiju_out/Timaviella_radians_GSE-UNK-7R.contig.out	0.076696	7	74201	Verrucomicrobia
+kaiju_out/Timaviella_radians_GSE-UNK-7R.contig.out	0.054783	5	976	Bacteroidetes
+kaiju_out/Timaviella_radians_GSE-UNK-7R.contig.out	0.054783	5	203682	Planctomycetes
+kaiju_out/Timaviella_radians_GSE-UNK-7R.contig.out	0.054783	5	1752708	Candidatus Rokubacteria
+kaiju_out/Timaviella_radians_GSE-UNK-7R.contig.out	0.032870	3	1297	Deinococcus-Thermus
+kaiju_out/Timaviella_radians_GSE-UNK-7R.contig.out	0.032870	3	1802339	Candidatus Tectomicrobia
+kaiju_out/Timaviella_radians_GSE-UNK-7R.contig.out	0.021913	2	28890	Euryarchaeota
+kaiju_out/Timaviella_radians_GSE-UNK-7R.contig.out	0.021913	2	142182	Gemmatimonadetes
+kaiju_out/Timaviella_radians_GSE-UNK-7R.contig.out	0.021913	2	1293497	Nitrospinae
+kaiju_out/Timaviella_radians_GSE-UNK-7R.contig.out	0.010957	1	28889	Crenarchaeota
+kaiju_out/Timaviella_radians_GSE-UNK-7R.contig.out	0.010957	1	40117	Nitrospirae
+kaiju_out/Timaviella_radians_GSE-UNK-7R.contig.out	0.010957	1	67819	Armatimonadetes
+kaiju_out/Timaviella_radians_GSE-UNK-7R.contig.out	0.010957	1	1379697	candidate division Zixibacteria
+kaiju_out/Timaviella_radians_GSE-UNK-7R.contig.out	0.010957	1	1817917	Candidatus Sungbacteria
+kaiju_out/Timaviella_radians_GSE-UNK-7R.contig.out	0.000000	0	10239	Viruses
+kaiju_out/Timaviella_radians_GSE-UNK-7R.contig.out	0.723129	66	NA	cannot be assigned to a (non-viral) phylum
+kaiju_out/Timaviella_radians_GSE-UNK-7R.contig.out	41.163582	3757	NA	unclassified

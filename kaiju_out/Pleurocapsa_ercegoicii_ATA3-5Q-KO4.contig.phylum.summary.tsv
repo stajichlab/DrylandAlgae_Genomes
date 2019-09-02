@@ -1,0 +1,28 @@
+file	percent	reads	taxon_id	taxon_name
+kaiju_out/Pleurocapsa_ercegoicii_ATA3-5Q-KO4.contig.out	14.151803	9315	1224	Proteobacteria
+kaiju_out/Pleurocapsa_ercegoicii_ATA3-5Q-KO4.contig.out	3.292212	2167	976	Bacteroidetes
+kaiju_out/Pleurocapsa_ercegoicii_ATA3-5Q-KO4.contig.out	2.720975	1791	201174	Actinobacteria
+kaiju_out/Pleurocapsa_ercegoicii_ATA3-5Q-KO4.contig.out	0.168637	111	1117	Cyanobacteria
+kaiju_out/Pleurocapsa_ercegoicii_ATA3-5Q-KO4.contig.out	0.135213	89	203682	Planctomycetes
+kaiju_out/Pleurocapsa_ercegoicii_ATA3-5Q-KO4.contig.out	0.033423	22	1239	Firmicutes
+kaiju_out/Pleurocapsa_ercegoicii_ATA3-5Q-KO4.contig.out	0.025827	17	74201	Verrucomicrobia
+kaiju_out/Pleurocapsa_ercegoicii_ATA3-5Q-KO4.contig.out	0.022789	15	57723	Acidobacteria
+kaiju_out/Pleurocapsa_ercegoicii_ATA3-5Q-KO4.contig.out	0.018231	12	200795	Chloroflexi
+kaiju_out/Pleurocapsa_ercegoicii_ATA3-5Q-KO4.contig.out	0.012154	8	40117	Nitrospirae
+kaiju_out/Pleurocapsa_ercegoicii_ATA3-5Q-KO4.contig.out	0.010635	7	142182	Gemmatimonadetes
+kaiju_out/Pleurocapsa_ercegoicii_ATA3-5Q-KO4.contig.out	0.007596	5	1134404	Ignavibacteriae
+kaiju_out/Pleurocapsa_ercegoicii_ATA3-5Q-KO4.contig.out	0.007596	5	1752708	Candidatus Rokubacteria
+kaiju_out/Pleurocapsa_ercegoicii_ATA3-5Q-KO4.contig.out	0.006077	4	28890	Euryarchaeota
+kaiju_out/Pleurocapsa_ercegoicii_ATA3-5Q-KO4.contig.out	0.004558	3	1297	Deinococcus-Thermus
+kaiju_out/Pleurocapsa_ercegoicii_ATA3-5Q-KO4.contig.out	0.004558	3	1802339	Candidatus Tectomicrobia
+kaiju_out/Pleurocapsa_ercegoicii_ATA3-5Q-KO4.contig.out	0.003038	2	203691	Spirochaetes
+kaiju_out/Pleurocapsa_ercegoicii_ATA3-5Q-KO4.contig.out	0.003038	2	204428	Chlamydiae
+kaiju_out/Pleurocapsa_ercegoicii_ATA3-5Q-KO4.contig.out	0.003038	2	256845	Lentisphaerae
+kaiju_out/Pleurocapsa_ercegoicii_ATA3-5Q-KO4.contig.out	0.001519	1	28889	Crenarchaeota
+kaiju_out/Pleurocapsa_ercegoicii_ATA3-5Q-KO4.contig.out	0.001519	1	67819	Armatimonadetes
+kaiju_out/Pleurocapsa_ercegoicii_ATA3-5Q-KO4.contig.out	0.001519	1	200930	Deferribacteres
+kaiju_out/Pleurocapsa_ercegoicii_ATA3-5Q-KO4.contig.out	0.001519	1	265317	Candidatus Poribacteria
+kaiju_out/Pleurocapsa_ercegoicii_ATA3-5Q-KO4.contig.out	0.001519	1	640293	candidate division NC10
+kaiju_out/Pleurocapsa_ercegoicii_ATA3-5Q-KO4.contig.out	0.016712	11	10239	Viruses
+kaiju_out/Pleurocapsa_ercegoicii_ATA3-5Q-KO4.contig.out	0.164079	108	NA	cannot be assigned to a (non-viral) phylum
+kaiju_out/Pleurocapsa_ercegoicii_ATA3-5Q-KO4.contig.out	79.180211	52118	NA	unclassified

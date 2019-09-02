@@ -1,0 +1,13 @@
+file	percent	reads	taxon_id	taxon_name
+kaiju_out/Timaviella_obliquedivisa_GSE-PSE-MK23-08B.contig.out	62.901680	7223	1224	Proteobacteria
+kaiju_out/Timaviella_obliquedivisa_GSE-PSE-MK23-08B.contig.out	10.337020	1187	976	Bacteroidetes
+kaiju_out/Timaviella_obliquedivisa_GSE-PSE-MK23-08B.contig.out	3.553078	408	1117	Cyanobacteria
+kaiju_out/Timaviella_obliquedivisa_GSE-PSE-MK23-08B.contig.out	0.095794	11	1239	Firmicutes
+kaiju_out/Timaviella_obliquedivisa_GSE-PSE-MK23-08B.contig.out	0.060960	7	201174	Actinobacteria
+kaiju_out/Timaviella_obliquedivisa_GSE-PSE-MK23-08B.contig.out	0.017417	2	57723	Acidobacteria
+kaiju_out/Timaviella_obliquedivisa_GSE-PSE-MK23-08B.contig.out	0.008709	1	200795	Chloroflexi
+kaiju_out/Timaviella_obliquedivisa_GSE-PSE-MK23-08B.contig.out	0.008709	1	203691	Spirochaetes
+kaiju_out/Timaviella_obliquedivisa_GSE-PSE-MK23-08B.contig.out	0.008709	1	1752708	Candidatus Rokubacteria
+kaiju_out/Timaviella_obliquedivisa_GSE-PSE-MK23-08B.contig.out	0.000000	0	10239	Viruses
+kaiju_out/Timaviella_obliquedivisa_GSE-PSE-MK23-08B.contig.out	0.409301	47	NA	cannot be assigned to a (non-viral) phylum
+kaiju_out/Timaviella_obliquedivisa_GSE-PSE-MK23-08B.contig.out	22.598624	2595	NA	unclassified
