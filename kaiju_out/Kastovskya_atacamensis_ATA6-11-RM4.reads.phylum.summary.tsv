@@ -1,0 +1,73 @@
+file	percent	reads	taxon_id	taxon_name
+kaiju_out/Kastovskya_atacamensis_ATA6-11-RM4.reads.out	16.774515	12499703	1224	Proteobacteria
+kaiju_out/Kastovskya_atacamensis_ATA6-11-RM4.reads.out	7.257300	5407852	1117	Cyanobacteria
+kaiju_out/Kastovskya_atacamensis_ATA6-11-RM4.reads.out	0.400789	298652	976	Bacteroidetes
+kaiju_out/Kastovskya_atacamensis_ATA6-11-RM4.reads.out	0.121762	90732	201174	Actinobacteria
+kaiju_out/Kastovskya_atacamensis_ATA6-11-RM4.reads.out	0.033712	25121	1239	Firmicutes
+kaiju_out/Kastovskya_atacamensis_ATA6-11-RM4.reads.out	0.007135	5317	200795	Chloroflexi
+kaiju_out/Kastovskya_atacamensis_ATA6-11-RM4.reads.out	0.005779	4306	57723	Acidobacteria
+kaiju_out/Kastovskya_atacamensis_ATA6-11-RM4.reads.out	0.003355	2500	40117	Nitrospirae
+kaiju_out/Kastovskya_atacamensis_ATA6-11-RM4.reads.out	0.003045	2269	74152	Elusimicrobia
+kaiju_out/Kastovskya_atacamensis_ATA6-11-RM4.reads.out	0.002067	1540	28890	Euryarchaeota
+kaiju_out/Kastovskya_atacamensis_ATA6-11-RM4.reads.out	0.001872	1395	74201	Verrucomicrobia
+kaiju_out/Kastovskya_atacamensis_ATA6-11-RM4.reads.out	0.001700	1267	203682	Planctomycetes
+kaiju_out/Kastovskya_atacamensis_ATA6-11-RM4.reads.out	0.001079	804	204428	Chlamydiae
+kaiju_out/Kastovskya_atacamensis_ATA6-11-RM4.reads.out	0.001051	783	1752708	Candidatus Rokubacteria
+kaiju_out/Kastovskya_atacamensis_ATA6-11-RM4.reads.out	0.001021	761	1297	Deinococcus-Thermus
+kaiju_out/Kastovskya_atacamensis_ATA6-11-RM4.reads.out	0.000523	390	67819	Armatimonadetes
+kaiju_out/Kastovskya_atacamensis_ATA6-11-RM4.reads.out	0.000443	330	508458	Synergistetes
+kaiju_out/Kastovskya_atacamensis_ATA6-11-RM4.reads.out	0.000408	304	142182	Gemmatimonadetes
+kaiju_out/Kastovskya_atacamensis_ATA6-11-RM4.reads.out	0.000404	301	640293	candidate division NC10
+kaiju_out/Kastovskya_atacamensis_ATA6-11-RM4.reads.out	0.000373	278	1379697	candidate division Zixibacteria
+kaiju_out/Kastovskya_atacamensis_ATA6-11-RM4.reads.out	0.000307	229	221216	Candidatus Parcubacteria
+kaiju_out/Kastovskya_atacamensis_ATA6-11-RM4.reads.out	0.000294	219	1802339	Candidatus Tectomicrobia
+kaiju_out/Kastovskya_atacamensis_ATA6-11-RM4.reads.out	0.000290	216	1134404	Ignavibacteriae
+kaiju_out/Kastovskya_atacamensis_ATA6-11-RM4.reads.out	0.000254	189	1936987	Balneolaeota
+kaiju_out/Kastovskya_atacamensis_ATA6-11-RM4.reads.out	0.000232	173	1090	Chlorobi
+kaiju_out/Kastovskya_atacamensis_ATA6-11-RM4.reads.out	0.000228	170	200783	Aquificae
+kaiju_out/Kastovskya_atacamensis_ATA6-11-RM4.reads.out	0.000221	165	67814	Caldiserica
+kaiju_out/Kastovskya_atacamensis_ATA6-11-RM4.reads.out	0.000212	158	203691	Spirochaetes
+kaiju_out/Kastovskya_atacamensis_ATA6-11-RM4.reads.out	0.000168	125	1817799	Candidatus Doudnabacteria
+kaiju_out/Kastovskya_atacamensis_ATA6-11-RM4.reads.out	0.000152	113	422282	candidate division WWE3
+kaiju_out/Kastovskya_atacamensis_ATA6-11-RM4.reads.out	0.000144	107	1752735	Candidatus Wolfebacteria
+kaiju_out/Kastovskya_atacamensis_ATA6-11-RM4.reads.out	0.000141	105	2109258	Abditibacteriota
+kaiju_out/Kastovskya_atacamensis_ATA6-11-RM4.reads.out	0.000110	82	256845	Lentisphaerae
+kaiju_out/Kastovskya_atacamensis_ATA6-11-RM4.reads.out	0.000109	81	1798710	Candidatus Melainabacteria
+kaiju_out/Kastovskya_atacamensis_ATA6-11-RM4.reads.out	0.000102	76	1817904	Candidatus Colwellbacteria
+kaiju_out/Kastovskya_atacamensis_ATA6-11-RM4.reads.out	0.000097	72	1752718	Candidatus Daviesbacteria
+kaiju_out/Kastovskya_atacamensis_ATA6-11-RM4.reads.out	0.000087	65	1752724	Candidatus Pacebacteria
+kaiju_out/Kastovskya_atacamensis_ATA6-11-RM4.reads.out	0.000082	61	1154676	candidate division WPS-2
+kaiju_out/Kastovskya_atacamensis_ATA6-11-RM4.reads.out	0.000070	52	200930	Deferribacteres
+kaiju_out/Kastovskya_atacamensis_ATA6-11-RM4.reads.out	0.000067	50	65842	Fibrobacteres
+kaiju_out/Kastovskya_atacamensis_ATA6-11-RM4.reads.out	0.000056	42	62680	Candidatus Marinimicrobia
+kaiju_out/Kastovskya_atacamensis_ATA6-11-RM4.reads.out	0.000054	40	1817913	Candidatus Portnoybacteria
+kaiju_out/Kastovskya_atacamensis_ATA6-11-RM4.reads.out	0.000043	32	651137	Thaumarchaeota
+kaiju_out/Kastovskya_atacamensis_ATA6-11-RM4.reads.out	0.000042	31	200938	Chrysiogenetes
+kaiju_out/Kastovskya_atacamensis_ATA6-11-RM4.reads.out	0.000034	25	74015	Candidatus Latescibacteria
+kaiju_out/Kastovskya_atacamensis_ATA6-11-RM4.reads.out	0.000021	16	1729712	Candidatus Fermentibacteria
+kaiju_out/Kastovskya_atacamensis_ATA6-11-RM4.reads.out	0.000020	15	1293497	Nitrospinae
+kaiju_out/Kastovskya_atacamensis_ATA6-11-RM4.reads.out	0.000012	9	1662329	Candidatus Kapabacteria
+kaiju_out/Kastovskya_atacamensis_ATA6-11-RM4.reads.out	0.000011	8	1752731	Candidatus Magasanikbacteria
+kaiju_out/Kastovskya_atacamensis_ATA6-11-RM4.reads.out	0.000009	7	200295	Candidatus Sumerlaeota
+kaiju_out/Kastovskya_atacamensis_ATA6-11-RM4.reads.out	0.000009	7	544448	Tenericutes
+kaiju_out/Kastovskya_atacamensis_ATA6-11-RM4.reads.out	0.000008	6	1752716	Candidatus Dadabacteria
+kaiju_out/Kastovskya_atacamensis_ATA6-11-RM4.reads.out	0.000007	5	28889	Crenarchaeota
+kaiju_out/Kastovskya_atacamensis_ATA6-11-RM4.reads.out	0.000007	5	95818	Candidatus Saccharibacteria
+kaiju_out/Kastovskya_atacamensis_ATA6-11-RM4.reads.out	0.000007	5	1853220	Rhodothermaeota
+kaiju_out/Kastovskya_atacamensis_ATA6-11-RM4.reads.out	0.000005	4	134625	Kiritimatiellaeota
+kaiju_out/Kastovskya_atacamensis_ATA6-11-RM4.reads.out	0.000005	4	1752734	Candidatus Kaiserbacteria
+kaiju_out/Kastovskya_atacamensis_ATA6-11-RM4.reads.out	0.000005	4	1817910	Candidatus Lloydbacteria
+kaiju_out/Kastovskya_atacamensis_ATA6-11-RM4.reads.out	0.000004	3	1752721	Candidatus Shapirobacteria
+kaiju_out/Kastovskya_atacamensis_ATA6-11-RM4.reads.out	0.000004	3	1930617	Calditrichaeota
+kaiju_out/Kastovskya_atacamensis_ATA6-11-RM4.reads.out	0.000003	2	67817	Candidatus Aminicenantes
+kaiju_out/Kastovskya_atacamensis_ATA6-11-RM4.reads.out	0.000003	2	928852	Candidatus Bathyarchaeota
+kaiju_out/Kastovskya_atacamensis_ATA6-11-RM4.reads.out	0.000003	2	2052312	candidate division AD3
+kaiju_out/Kastovskya_atacamensis_ATA6-11-RM4.reads.out	0.000003	2	2576005	candidate division LCP-89
+kaiju_out/Kastovskya_atacamensis_ATA6-11-RM4.reads.out	0.000001	1	32066	Fusobacteria
+kaiju_out/Kastovskya_atacamensis_ATA6-11-RM4.reads.out	0.000001	1	67812	Candidatus Omnitrophica
+kaiju_out/Kastovskya_atacamensis_ATA6-11-RM4.reads.out	0.000001	1	265317	Candidatus Poribacteria
+kaiju_out/Kastovskya_atacamensis_ATA6-11-RM4.reads.out	0.000001	1	456828	Candidatus Cloacimonetes
+kaiju_out/Kastovskya_atacamensis_ATA6-11-RM4.reads.out	0.000001	1	1752729	Candidatus Nomurabacteria
+kaiju_out/Kastovskya_atacamensis_ATA6-11-RM4.reads.out	0.001087	810	10239	Viruses
+kaiju_out/Kastovskya_atacamensis_ATA6-11-RM4.reads.out	1.203762	896996	NA	cannot be assigned to a (non-viral) phylum
+kaiju_out/Kastovskya_atacamensis_ATA6-11-RM4.reads.out	74.173075	55270833	NA	unclassified

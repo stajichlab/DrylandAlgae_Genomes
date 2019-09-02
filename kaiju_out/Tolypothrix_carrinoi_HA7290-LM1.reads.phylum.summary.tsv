@@ -1,0 +1,62 @@
+file	percent	reads	taxon_id	taxon_name
+kaiju_out/Tolypothrix_carrinoi_HA7290-LM1.reads.out	30.723482	21402785	1117	Cyanobacteria
+kaiju_out/Tolypothrix_carrinoi_HA7290-LM1.reads.out	14.446804	10064023	1224	Proteobacteria
+kaiju_out/Tolypothrix_carrinoi_HA7290-LM1.reads.out	0.554098	385999	976	Bacteroidetes
+kaiju_out/Tolypothrix_carrinoi_HA7290-LM1.reads.out	0.083995	58513	201174	Actinobacteria
+kaiju_out/Tolypothrix_carrinoi_HA7290-LM1.reads.out	0.017417	12133	1239	Firmicutes
+kaiju_out/Tolypothrix_carrinoi_HA7290-LM1.reads.out	0.005939	4137	200795	Chloroflexi
+kaiju_out/Tolypothrix_carrinoi_HA7290-LM1.reads.out	0.002933	2043	57723	Acidobacteria
+kaiju_out/Tolypothrix_carrinoi_HA7290-LM1.reads.out	0.001899	1323	203682	Planctomycetes
+kaiju_out/Tolypothrix_carrinoi_HA7290-LM1.reads.out	0.001892	1318	74201	Verrucomicrobia
+kaiju_out/Tolypothrix_carrinoi_HA7290-LM1.reads.out	0.000731	509	142182	Gemmatimonadetes
+kaiju_out/Tolypothrix_carrinoi_HA7290-LM1.reads.out	0.000543	378	1134404	Ignavibacteriae
+kaiju_out/Tolypothrix_carrinoi_HA7290-LM1.reads.out	0.000474	330	203691	Spirochaetes
+kaiju_out/Tolypothrix_carrinoi_HA7290-LM1.reads.out	0.000439	306	40117	Nitrospirae
+kaiju_out/Tolypothrix_carrinoi_HA7290-LM1.reads.out	0.000310	216	1297	Deinococcus-Thermus
+kaiju_out/Tolypothrix_carrinoi_HA7290-LM1.reads.out	0.000291	203	28890	Euryarchaeota
+kaiju_out/Tolypothrix_carrinoi_HA7290-LM1.reads.out	0.000243	169	1090	Chlorobi
+kaiju_out/Tolypothrix_carrinoi_HA7290-LM1.reads.out	0.000223	155	1936987	Balneolaeota
+kaiju_out/Tolypothrix_carrinoi_HA7290-LM1.reads.out	0.000200	139	1752708	Candidatus Rokubacteria
+kaiju_out/Tolypothrix_carrinoi_HA7290-LM1.reads.out	0.000174	121	1752731	Candidatus Magasanikbacteria
+kaiju_out/Tolypothrix_carrinoi_HA7290-LM1.reads.out	0.000154	107	256845	Lentisphaerae
+kaiju_out/Tolypothrix_carrinoi_HA7290-LM1.reads.out	0.000151	105	1930617	Calditrichaeota
+kaiju_out/Tolypothrix_carrinoi_HA7290-LM1.reads.out	0.000149	104	1817806	Candidatus Handelsmanbacteria
+kaiju_out/Tolypothrix_carrinoi_HA7290-LM1.reads.out	0.000132	92	204428	Chlamydiae
+kaiju_out/Tolypothrix_carrinoi_HA7290-LM1.reads.out	0.000118	82	508458	Synergistetes
+kaiju_out/Tolypothrix_carrinoi_HA7290-LM1.reads.out	0.000115	80	1817907	Candidatus Kerfeldbacteria
+kaiju_out/Tolypothrix_carrinoi_HA7290-LM1.reads.out	0.000112	78	1802339	Candidatus Tectomicrobia
+kaiju_out/Tolypothrix_carrinoi_HA7290-LM1.reads.out	0.000092	64	67819	Armatimonadetes
+kaiju_out/Tolypothrix_carrinoi_HA7290-LM1.reads.out	0.000076	53	142187	Candidatus Hydrogenedentes
+kaiju_out/Tolypothrix_carrinoi_HA7290-LM1.reads.out	0.000069	48	67812	Candidatus Omnitrophica
+kaiju_out/Tolypothrix_carrinoi_HA7290-LM1.reads.out	0.000069	48	1662329	Candidatus Kapabacteria
+kaiju_out/Tolypothrix_carrinoi_HA7290-LM1.reads.out	0.000043	30	62680	Candidatus Marinimicrobia
+kaiju_out/Tolypothrix_carrinoi_HA7290-LM1.reads.out	0.000042	29	1752716	Candidatus Dadabacteria
+kaiju_out/Tolypothrix_carrinoi_HA7290-LM1.reads.out	0.000042	29	1752729	Candidatus Nomurabacteria
+kaiju_out/Tolypothrix_carrinoi_HA7290-LM1.reads.out	0.000040	28	1853220	Rhodothermaeota
+kaiju_out/Tolypothrix_carrinoi_HA7290-LM1.reads.out	0.000036	25	1817807	Candidatus Lindowbacteria
+kaiju_out/Tolypothrix_carrinoi_HA7290-LM1.reads.out	0.000034	24	67817	Candidatus Aminicenantes
+kaiju_out/Tolypothrix_carrinoi_HA7290-LM1.reads.out	0.000032	22	1819803	Candidatus Desantisbacteria
+kaiju_out/Tolypothrix_carrinoi_HA7290-LM1.reads.out	0.000029	20	1817801	Candidatus Eisenbacteria
+kaiju_out/Tolypothrix_carrinoi_HA7290-LM1.reads.out	0.000023	16	1801616	Candidatus Woesearchaeota
+kaiju_out/Tolypothrix_carrinoi_HA7290-LM1.reads.out	0.000019	13	74152	Elusimicrobia
+kaiju_out/Tolypothrix_carrinoi_HA7290-LM1.reads.out	0.000019	13	221216	Candidatus Parcubacteria
+kaiju_out/Tolypothrix_carrinoi_HA7290-LM1.reads.out	0.000019	13	2052312	candidate division AD3
+kaiju_out/Tolypothrix_carrinoi_HA7290-LM1.reads.out	0.000017	12	1703755	candidate division WOR-3
+kaiju_out/Tolypothrix_carrinoi_HA7290-LM1.reads.out	0.000016	11	200938	Chrysiogenetes
+kaiju_out/Tolypothrix_carrinoi_HA7290-LM1.reads.out	0.000013	9	65842	Fibrobacteres
+kaiju_out/Tolypothrix_carrinoi_HA7290-LM1.reads.out	0.000011	8	1798710	Candidatus Melainabacteria
+kaiju_out/Tolypothrix_carrinoi_HA7290-LM1.reads.out	0.000007	5	200940	Thermodesulfobacteria
+kaiju_out/Tolypothrix_carrinoi_HA7290-LM1.reads.out	0.000006	4	95818	Candidatus Saccharibacteria
+kaiju_out/Tolypothrix_carrinoi_HA7290-LM1.reads.out	0.000006	4	200930	Deferribacteres
+kaiju_out/Tolypothrix_carrinoi_HA7290-LM1.reads.out	0.000004	3	68297	Dictyoglomi
+kaiju_out/Tolypothrix_carrinoi_HA7290-LM1.reads.out	0.000004	3	1293497	Nitrospinae
+kaiju_out/Tolypothrix_carrinoi_HA7290-LM1.reads.out	0.000003	2	544448	Tenericutes
+kaiju_out/Tolypothrix_carrinoi_HA7290-LM1.reads.out	0.000003	2	1154676	candidate division WPS-2
+kaiju_out/Tolypothrix_carrinoi_HA7290-LM1.reads.out	0.000003	2	1817810	Candidatus Riflebacteria
+kaiju_out/Tolypothrix_carrinoi_HA7290-LM1.reads.out	0.000003	2	2109258	Abditibacteriota
+kaiju_out/Tolypothrix_carrinoi_HA7290-LM1.reads.out	0.000001	1	200783	Aquificae
+kaiju_out/Tolypothrix_carrinoi_HA7290-LM1.reads.out	0.000001	1	743724	Candidatus Aenigmarchaeota
+kaiju_out/Tolypothrix_carrinoi_HA7290-LM1.reads.out	0.000001	1	1817922	Candidatus Vogelbacteria
+kaiju_out/Tolypothrix_carrinoi_HA7290-LM1.reads.out	0.002719	1894	10239	Viruses
+kaiju_out/Tolypothrix_carrinoi_HA7290-LM1.reads.out	0.079151	55139	NA	cannot be assigned to a (non-viral) phylum
+kaiju_out/Tolypothrix_carrinoi_HA7290-LM1.reads.out	54.074323	37669594	NA	unclassified

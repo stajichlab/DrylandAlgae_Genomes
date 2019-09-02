@@ -1,0 +1,63 @@
+file	percent	reads	taxon_id	taxon_name
+kaiju_out/Brasilonema_octagenarum_HA4186-MV1.reads.out	7.378997	6007837	1224	Proteobacteria
+kaiju_out/Brasilonema_octagenarum_HA4186-MV1.reads.out	4.503045	3666292	1117	Cyanobacteria
+kaiju_out/Brasilonema_octagenarum_HA4186-MV1.reads.out	0.891985	726237	1297	Deinococcus-Thermus
+kaiju_out/Brasilonema_octagenarum_HA4186-MV1.reads.out	0.272722	222045	201174	Actinobacteria
+kaiju_out/Brasilonema_octagenarum_HA4186-MV1.reads.out	0.059300	48281	200795	Chloroflexi
+kaiju_out/Brasilonema_octagenarum_HA4186-MV1.reads.out	0.037042	30159	1239	Firmicutes
+kaiju_out/Brasilonema_octagenarum_HA4186-MV1.reads.out	0.018323	14918	57723	Acidobacteria
+kaiju_out/Brasilonema_octagenarum_HA4186-MV1.reads.out	0.017479	14231	976	Bacteroidetes
+kaiju_out/Brasilonema_octagenarum_HA4186-MV1.reads.out	0.014130	11504	74201	Verrucomicrobia
+kaiju_out/Brasilonema_octagenarum_HA4186-MV1.reads.out	0.008557	6967	203682	Planctomycetes
+kaiju_out/Brasilonema_octagenarum_HA4186-MV1.reads.out	0.007057	5746	142182	Gemmatimonadetes
+kaiju_out/Brasilonema_octagenarum_HA4186-MV1.reads.out	0.003476	2830	67819	Armatimonadetes
+kaiju_out/Brasilonema_octagenarum_HA4186-MV1.reads.out	0.003214	2617	28890	Euryarchaeota
+kaiju_out/Brasilonema_octagenarum_HA4186-MV1.reads.out	0.001918	1562	203691	Spirochaetes
+kaiju_out/Brasilonema_octagenarum_HA4186-MV1.reads.out	0.001868	1521	67812	Candidatus Omnitrophica
+kaiju_out/Brasilonema_octagenarum_HA4186-MV1.reads.out	0.001856	1511	200783	Aquificae
+kaiju_out/Brasilonema_octagenarum_HA4186-MV1.reads.out	0.001828	1488	40117	Nitrospirae
+kaiju_out/Brasilonema_octagenarum_HA4186-MV1.reads.out	0.001512	1231	1752716	Candidatus Dadabacteria
+kaiju_out/Brasilonema_octagenarum_HA4186-MV1.reads.out	0.001143	931	508458	Synergistetes
+kaiju_out/Brasilonema_octagenarum_HA4186-MV1.reads.out	0.001000	814	1752708	Candidatus Rokubacteria
+kaiju_out/Brasilonema_octagenarum_HA4186-MV1.reads.out	0.000905	737	1134404	Ignavibacteriae
+kaiju_out/Brasilonema_octagenarum_HA4186-MV1.reads.out	0.000883	719	1802339	Candidatus Tectomicrobia
+kaiju_out/Brasilonema_octagenarum_HA4186-MV1.reads.out	0.000861	701	200938	Chrysiogenetes
+kaiju_out/Brasilonema_octagenarum_HA4186-MV1.reads.out	0.000809	659	1853220	Rhodothermaeota
+kaiju_out/Brasilonema_octagenarum_HA4186-MV1.reads.out	0.000784	638	1090	Chlorobi
+kaiju_out/Brasilonema_octagenarum_HA4186-MV1.reads.out	0.000752	612	1936987	Balneolaeota
+kaiju_out/Brasilonema_octagenarum_HA4186-MV1.reads.out	0.000624	508	265317	Candidatus Poribacteria
+kaiju_out/Brasilonema_octagenarum_HA4186-MV1.reads.out	0.000594	484	1798710	Candidatus Melainabacteria
+kaiju_out/Brasilonema_octagenarum_HA4186-MV1.reads.out	0.000511	416	1930617	Calditrichaeota
+kaiju_out/Brasilonema_octagenarum_HA4186-MV1.reads.out	0.000462	376	200918	Thermotogae
+kaiju_out/Brasilonema_octagenarum_HA4186-MV1.reads.out	0.000421	343	1855361	Candidatus Kryptonia
+kaiju_out/Brasilonema_octagenarum_HA4186-MV1.reads.out	0.000386	314	1154676	candidate division WPS-2
+kaiju_out/Brasilonema_octagenarum_HA4186-MV1.reads.out	0.000349	284	200930	Deferribacteres
+kaiju_out/Brasilonema_octagenarum_HA4186-MV1.reads.out	0.000343	279	62680	Candidatus Marinimicrobia
+kaiju_out/Brasilonema_octagenarum_HA4186-MV1.reads.out	0.000337	274	640293	candidate division NC10
+kaiju_out/Brasilonema_octagenarum_HA4186-MV1.reads.out	0.000302	246	74152	Elusimicrobia
+kaiju_out/Brasilonema_octagenarum_HA4186-MV1.reads.out	0.000231	188	204428	Chlamydiae
+kaiju_out/Brasilonema_octagenarum_HA4186-MV1.reads.out	0.000222	181	1752732	Candidatus Uhrbacteria
+kaiju_out/Brasilonema_octagenarum_HA4186-MV1.reads.out	0.000212	173	142187	Candidatus Hydrogenedentes
+kaiju_out/Brasilonema_octagenarum_HA4186-MV1.reads.out	0.000206	168	95818	Candidatus Saccharibacteria
+kaiju_out/Brasilonema_octagenarum_HA4186-MV1.reads.out	0.000168	137	1817922	Candidatus Vogelbacteria
+kaiju_out/Brasilonema_octagenarum_HA4186-MV1.reads.out	0.000167	136	1752735	Candidatus Wolfebacteria
+kaiju_out/Brasilonema_octagenarum_HA4186-MV1.reads.out	0.000161	131	2498705	Candidatus Cryosericota
+kaiju_out/Brasilonema_octagenarum_HA4186-MV1.reads.out	0.000124	101	32066	Fusobacteria
+kaiju_out/Brasilonema_octagenarum_HA4186-MV1.reads.out	0.000076	62	1817808	Candidatus Margulisbacteria
+kaiju_out/Brasilonema_octagenarum_HA4186-MV1.reads.out	0.000049	40	1817801	Candidatus Eisenbacteria
+kaiju_out/Brasilonema_octagenarum_HA4186-MV1.reads.out	0.000048	39	67817	Candidatus Aminicenantes
+kaiju_out/Brasilonema_octagenarum_HA4186-MV1.reads.out	0.000034	28	651137	Thaumarchaeota
+kaiju_out/Brasilonema_octagenarum_HA4186-MV1.reads.out	0.000032	26	74015	Candidatus Latescibacteria
+kaiju_out/Brasilonema_octagenarum_HA4186-MV1.reads.out	0.000017	14	1752722	Candidatus Woesebacteria
+kaiju_out/Brasilonema_octagenarum_HA4186-MV1.reads.out	0.000014	11	1752728	Candidatus Falkowbacteria
+kaiju_out/Brasilonema_octagenarum_HA4186-MV1.reads.out	0.000006	5	1752731	Candidatus Magasanikbacteria
+kaiju_out/Brasilonema_octagenarum_HA4186-MV1.reads.out	0.000005	4	256845	Lentisphaerae
+kaiju_out/Brasilonema_octagenarum_HA4186-MV1.reads.out	0.000002	2	1662329	Candidatus Kapabacteria
+kaiju_out/Brasilonema_octagenarum_HA4186-MV1.reads.out	0.000002	2	1752717	Candidatus Curtissbacteria
+kaiju_out/Brasilonema_octagenarum_HA4186-MV1.reads.out	0.000002	2	1817911	Candidatus Nealsonbacteria
+kaiju_out/Brasilonema_octagenarum_HA4186-MV1.reads.out	0.000001	1	221216	Candidatus Parcubacteria
+kaiju_out/Brasilonema_octagenarum_HA4186-MV1.reads.out	0.000001	1	1817913	Candidatus Portnoybacteria
+kaiju_out/Brasilonema_octagenarum_HA4186-MV1.reads.out	0.000001	1	2138240	Coprothermobacterota
+kaiju_out/Brasilonema_octagenarum_HA4186-MV1.reads.out	0.000011	9	10239	Viruses
+kaiju_out/Brasilonema_octagenarum_HA4186-MV1.reads.out	0.258031	210084	NA	cannot be assigned to a (non-viral) phylum
+kaiju_out/Brasilonema_octagenarum_HA4186-MV1.reads.out	86.504400	70430216	NA	unclassified

@@ -1,0 +1,52 @@
+file	percent	reads	taxon_id	taxon_name
+kaiju_out/Lyngbya_sp._HA4199-MV5.reads.out	21.132828	15330744	1224	Proteobacteria
+kaiju_out/Lyngbya_sp._HA4199-MV5.reads.out	10.352262	7510016	1117	Cyanobacteria
+kaiju_out/Lyngbya_sp._HA4199-MV5.reads.out	1.930009	1400119	976	Bacteroidetes
+kaiju_out/Lyngbya_sp._HA4199-MV5.reads.out	0.007200	5223	201174	Actinobacteria
+kaiju_out/Lyngbya_sp._HA4199-MV5.reads.out	0.006022	4369	1239	Firmicutes
+kaiju_out/Lyngbya_sp._HA4199-MV5.reads.out	0.004588	3328	74201	Verrucomicrobia
+kaiju_out/Lyngbya_sp._HA4199-MV5.reads.out	0.004189	3039	57723	Acidobacteria
+kaiju_out/Lyngbya_sp._HA4199-MV5.reads.out	0.003716	2696	200795	Chloroflexi
+kaiju_out/Lyngbya_sp._HA4199-MV5.reads.out	0.001675	1215	142182	Gemmatimonadetes
+kaiju_out/Lyngbya_sp._HA4199-MV5.reads.out	0.001464	1062	40117	Nitrospirae
+kaiju_out/Lyngbya_sp._HA4199-MV5.reads.out	0.001334	968	203682	Planctomycetes
+kaiju_out/Lyngbya_sp._HA4199-MV5.reads.out	0.000955	693	1297	Deinococcus-Thermus
+kaiju_out/Lyngbya_sp._HA4199-MV5.reads.out	0.000733	532	203691	Spirochaetes
+kaiju_out/Lyngbya_sp._HA4199-MV5.reads.out	0.000645	468	28890	Euryarchaeota
+kaiju_out/Lyngbya_sp._HA4199-MV5.reads.out	0.000310	225	67817	Candidatus Aminicenantes
+kaiju_out/Lyngbya_sp._HA4199-MV5.reads.out	0.000201	146	67819	Armatimonadetes
+kaiju_out/Lyngbya_sp._HA4199-MV5.reads.out	0.000190	138	1930617	Calditrichaeota
+kaiju_out/Lyngbya_sp._HA4199-MV5.reads.out	0.000187	136	265317	Candidatus Poribacteria
+kaiju_out/Lyngbya_sp._HA4199-MV5.reads.out	0.000187	136	928852	Candidatus Bathyarchaeota
+kaiju_out/Lyngbya_sp._HA4199-MV5.reads.out	0.000167	121	1134404	Ignavibacteriae
+kaiju_out/Lyngbya_sp._HA4199-MV5.reads.out	0.000152	110	544448	Tenericutes
+kaiju_out/Lyngbya_sp._HA4199-MV5.reads.out	0.000146	106	1090	Chlorobi
+kaiju_out/Lyngbya_sp._HA4199-MV5.reads.out	0.000120	87	1817805	Candidatus Glassbacteria
+kaiju_out/Lyngbya_sp._HA4199-MV5.reads.out	0.000113	82	1853220	Rhodothermaeota
+kaiju_out/Lyngbya_sp._HA4199-MV5.reads.out	0.000088	64	1817801	Candidatus Eisenbacteria
+kaiju_out/Lyngbya_sp._HA4199-MV5.reads.out	0.000077	56	1817799	Candidatus Doudnabacteria
+kaiju_out/Lyngbya_sp._HA4199-MV5.reads.out	0.000076	55	1752716	Candidatus Dadabacteria
+kaiju_out/Lyngbya_sp._HA4199-MV5.reads.out	0.000070	51	640293	candidate division NC10
+kaiju_out/Lyngbya_sp._HA4199-MV5.reads.out	0.000066	48	1817806	Candidatus Handelsmanbacteria
+kaiju_out/Lyngbya_sp._HA4199-MV5.reads.out	0.000065	47	1817898	Candidatus Blackburnbacteria
+kaiju_out/Lyngbya_sp._HA4199-MV5.reads.out	0.000037	27	1752708	Candidatus Rokubacteria
+kaiju_out/Lyngbya_sp._HA4199-MV5.reads.out	0.000032	23	95818	Candidatus Saccharibacteria
+kaiju_out/Lyngbya_sp._HA4199-MV5.reads.out	0.000029	21	62680	Candidatus Marinimicrobia
+kaiju_out/Lyngbya_sp._HA4199-MV5.reads.out	0.000029	21	1752732	Candidatus Uhrbacteria
+kaiju_out/Lyngbya_sp._HA4199-MV5.reads.out	0.000022	16	1752735	Candidatus Wolfebacteria
+kaiju_out/Lyngbya_sp._HA4199-MV5.reads.out	0.000021	15	67812	Candidatus Omnitrophica
+kaiju_out/Lyngbya_sp._HA4199-MV5.reads.out	0.000019	14	32066	Fusobacteria
+kaiju_out/Lyngbya_sp._HA4199-MV5.reads.out	0.000017	12	651137	Thaumarchaeota
+kaiju_out/Lyngbya_sp._HA4199-MV5.reads.out	0.000011	8	2109258	Abditibacteriota
+kaiju_out/Lyngbya_sp._HA4199-MV5.reads.out	0.000010	7	1052815	Candidatus Aerophobetes
+kaiju_out/Lyngbya_sp._HA4199-MV5.reads.out	0.000008	6	74152	Elusimicrobia
+kaiju_out/Lyngbya_sp._HA4199-MV5.reads.out	0.000008	6	204428	Chlamydiae
+kaiju_out/Lyngbya_sp._HA4199-MV5.reads.out	0.000007	5	1798710	Candidatus Melainabacteria
+kaiju_out/Lyngbya_sp._HA4199-MV5.reads.out	0.000006	4	1752726	Candidatus Beckwithbacteria
+kaiju_out/Lyngbya_sp._HA4199-MV5.reads.out	0.000004	3	1817903	Candidatus Buchananbacteria
+kaiju_out/Lyngbya_sp._HA4199-MV5.reads.out	0.000003	2	200783	Aquificae
+kaiju_out/Lyngbya_sp._HA4199-MV5.reads.out	0.000003	2	1752730	Candidatus Amesbacteria
+kaiju_out/Lyngbya_sp._HA4199-MV5.reads.out	0.000001	1	65842	Fibrobacteres
+kaiju_out/Lyngbya_sp._HA4199-MV5.reads.out	0.000164	119	10239	Viruses
+kaiju_out/Lyngbya_sp._HA4199-MV5.reads.out	0.192976	139994	NA	cannot be assigned to a (non-viral) phylum
+kaiju_out/Lyngbya_sp._HA4199-MV5.reads.out	66.356748	48138298	NA	unclassified

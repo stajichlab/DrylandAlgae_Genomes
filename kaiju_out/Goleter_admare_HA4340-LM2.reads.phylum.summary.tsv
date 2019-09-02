@@ -1,0 +1,39 @@
+file	percent	reads	taxon_id	taxon_name
+kaiju_out/Goleter_admare_HA4340-LM2.reads.out	25.852549	18164089	1224	Proteobacteria
+kaiju_out/Goleter_admare_HA4340-LM2.reads.out	5.952165	4182011	1117	Cyanobacteria
+kaiju_out/Goleter_admare_HA4340-LM2.reads.out	0.063749	44790	1239	Firmicutes
+kaiju_out/Goleter_admare_HA4340-LM2.reads.out	0.026907	18905	201174	Actinobacteria
+kaiju_out/Goleter_admare_HA4340-LM2.reads.out	0.007054	4956	57723	Acidobacteria
+kaiju_out/Goleter_admare_HA4340-LM2.reads.out	0.006547	4600	74201	Verrucomicrobia
+kaiju_out/Goleter_admare_HA4340-LM2.reads.out	0.004953	3480	40117	Nitrospirae
+kaiju_out/Goleter_admare_HA4340-LM2.reads.out	0.004025	2828	976	Bacteroidetes
+kaiju_out/Goleter_admare_HA4340-LM2.reads.out	0.003641	2558	200795	Chloroflexi
+kaiju_out/Goleter_admare_HA4340-LM2.reads.out	0.003588	2521	203682	Planctomycetes
+kaiju_out/Goleter_admare_HA4340-LM2.reads.out	0.003373	2370	1752708	Candidatus Rokubacteria
+kaiju_out/Goleter_admare_HA4340-LM2.reads.out	0.002632	1849	142182	Gemmatimonadetes
+kaiju_out/Goleter_admare_HA4340-LM2.reads.out	0.001112	781	1297	Deinococcus-Thermus
+kaiju_out/Goleter_admare_HA4340-LM2.reads.out	0.000453	318	28890	Euryarchaeota
+kaiju_out/Goleter_admare_HA4340-LM2.reads.out	0.000370	260	743725	Candidatus Diapherotrites
+kaiju_out/Goleter_admare_HA4340-LM2.reads.out	0.000307	216	1817807	Candidatus Lindowbacteria
+kaiju_out/Goleter_admare_HA4340-LM2.reads.out	0.000300	211	203691	Spirochaetes
+kaiju_out/Goleter_admare_HA4340-LM2.reads.out	0.000213	150	1802339	Candidatus Tectomicrobia
+kaiju_out/Goleter_admare_HA4340-LM2.reads.out	0.000135	95	200783	Aquificae
+kaiju_out/Goleter_admare_HA4340-LM2.reads.out	0.000125	88	256845	Lentisphaerae
+kaiju_out/Goleter_admare_HA4340-LM2.reads.out	0.000118	83	67819	Armatimonadetes
+kaiju_out/Goleter_admare_HA4340-LM2.reads.out	0.000090	63	204428	Chlamydiae
+kaiju_out/Goleter_admare_HA4340-LM2.reads.out	0.000090	63	1798710	Candidatus Melainabacteria
+kaiju_out/Goleter_admare_HA4340-LM2.reads.out	0.000088	62	1752716	Candidatus Dadabacteria
+kaiju_out/Goleter_admare_HA4340-LM2.reads.out	0.000085	60	1090	Chlorobi
+kaiju_out/Goleter_admare_HA4340-LM2.reads.out	0.000058	41	265317	Candidatus Poribacteria
+kaiju_out/Goleter_admare_HA4340-LM2.reads.out	0.000056	39	74152	Elusimicrobia
+kaiju_out/Goleter_admare_HA4340-LM2.reads.out	0.000047	33	134625	Kiritimatiellaeota
+kaiju_out/Goleter_admare_HA4340-LM2.reads.out	0.000046	32	1930617	Calditrichaeota
+kaiju_out/Goleter_admare_HA4340-LM2.reads.out	0.000030	21	62680	Candidatus Marinimicrobia
+kaiju_out/Goleter_admare_HA4340-LM2.reads.out	0.000028	20	200940	Thermodesulfobacteria
+kaiju_out/Goleter_admare_HA4340-LM2.reads.out	0.000026	18	1154676	candidate division WPS-2
+kaiju_out/Goleter_admare_HA4340-LM2.reads.out	0.000016	11	1293497	Nitrospinae
+kaiju_out/Goleter_admare_HA4340-LM2.reads.out	0.000001	1	544448	Tenericutes
+kaiju_out/Goleter_admare_HA4340-LM2.reads.out	0.000001	1	1752731	Candidatus Magasanikbacteria
+kaiju_out/Goleter_admare_HA4340-LM2.reads.out	0.000001	1	10239	Viruses
+kaiju_out/Goleter_admare_HA4340-LM2.reads.out	1.610021	1131206	NA	cannot be assigned to a (non-viral) phylum
+kaiju_out/Goleter_admare_HA4340-LM2.reads.out	66.454995	46691505	NA	unclassified

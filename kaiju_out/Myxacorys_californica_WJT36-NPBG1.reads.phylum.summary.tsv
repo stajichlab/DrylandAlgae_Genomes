@@ -1,0 +1,91 @@
+file	percent	reads	taxon_id	taxon_name
+kaiju_out/Myxacorys_californica_WJT36-NPBG1.reads.out	10.158104	6464503	1117	Cyanobacteria
+kaiju_out/Myxacorys_californica_WJT36-NPBG1.reads.out	1.703894	1084339	201174	Actinobacteria
+kaiju_out/Myxacorys_californica_WJT36-NPBG1.reads.out	0.462067	294054	1224	Proteobacteria
+kaiju_out/Myxacorys_californica_WJT36-NPBG1.reads.out	0.232452	147930	57723	Acidobacteria
+kaiju_out/Myxacorys_californica_WJT36-NPBG1.reads.out	0.064072	40775	142182	Gemmatimonadetes
+kaiju_out/Myxacorys_californica_WJT36-NPBG1.reads.out	0.032306	20559	976	Bacteroidetes
+kaiju_out/Myxacorys_californica_WJT36-NPBG1.reads.out	0.023687	15074	1239	Firmicutes
+kaiju_out/Myxacorys_californica_WJT36-NPBG1.reads.out	0.020021	12741	200795	Chloroflexi
+kaiju_out/Myxacorys_californica_WJT36-NPBG1.reads.out	0.013584	8645	74201	Verrucomicrobia
+kaiju_out/Myxacorys_californica_WJT36-NPBG1.reads.out	0.006545	4165	203682	Planctomycetes
+kaiju_out/Myxacorys_californica_WJT36-NPBG1.reads.out	0.006325	4025	1297	Deinococcus-Thermus
+kaiju_out/Myxacorys_californica_WJT36-NPBG1.reads.out	0.003267	2079	1802339	Candidatus Tectomicrobia
+kaiju_out/Myxacorys_californica_WJT36-NPBG1.reads.out	0.002915	1855	1752708	Candidatus Rokubacteria
+kaiju_out/Myxacorys_californica_WJT36-NPBG1.reads.out	0.002242	1427	40117	Nitrospirae
+kaiju_out/Myxacorys_californica_WJT36-NPBG1.reads.out	0.001806	1149	28890	Euryarchaeota
+kaiju_out/Myxacorys_californica_WJT36-NPBG1.reads.out	0.001386	882	1930617	Calditrichaeota
+kaiju_out/Myxacorys_californica_WJT36-NPBG1.reads.out	0.001318	839	1817801	Candidatus Eisenbacteria
+kaiju_out/Myxacorys_californica_WJT36-NPBG1.reads.out	0.001113	708	1853220	Rhodothermaeota
+kaiju_out/Myxacorys_californica_WJT36-NPBG1.reads.out	0.001092	695	1090	Chlorobi
+kaiju_out/Myxacorys_californica_WJT36-NPBG1.reads.out	0.001004	639	203691	Spirochaetes
+kaiju_out/Myxacorys_californica_WJT36-NPBG1.reads.out	0.000900	573	1936987	Balneolaeota
+kaiju_out/Myxacorys_californica_WJT36-NPBG1.reads.out	0.000841	535	200930	Deferribacteres
+kaiju_out/Myxacorys_californica_WJT36-NPBG1.reads.out	0.000789	502	67812	Candidatus Omnitrophica
+kaiju_out/Myxacorys_californica_WJT36-NPBG1.reads.out	0.000786	500	67819	Armatimonadetes
+kaiju_out/Myxacorys_californica_WJT36-NPBG1.reads.out	0.000759	483	1134404	Ignavibacteriae
+kaiju_out/Myxacorys_californica_WJT36-NPBG1.reads.out	0.000707	450	1819803	Candidatus Desantisbacteria
+kaiju_out/Myxacorys_californica_WJT36-NPBG1.reads.out	0.000633	403	204428	Chlamydiae
+kaiju_out/Myxacorys_californica_WJT36-NPBG1.reads.out	0.000600	382	1618330	Candidatus Berkelbacteria
+kaiju_out/Myxacorys_californica_WJT36-NPBG1.reads.out	0.000522	332	1798710	Candidatus Melainabacteria
+kaiju_out/Myxacorys_californica_WJT36-NPBG1.reads.out	0.000501	319	456828	Candidatus Cloacimonetes
+kaiju_out/Myxacorys_californica_WJT36-NPBG1.reads.out	0.000456	290	640293	candidate division NC10
+kaiju_out/Myxacorys_californica_WJT36-NPBG1.reads.out	0.000427	272	1379697	candidate division Zixibacteria
+kaiju_out/Myxacorys_californica_WJT36-NPBG1.reads.out	0.000405	258	62680	Candidatus Marinimicrobia
+kaiju_out/Myxacorys_californica_WJT36-NPBG1.reads.out	0.000336	214	544448	Tenericutes
+kaiju_out/Myxacorys_californica_WJT36-NPBG1.reads.out	0.000330	210	142187	Candidatus Hydrogenedentes
+kaiju_out/Myxacorys_californica_WJT36-NPBG1.reads.out	0.000322	205	95818	Candidatus Saccharibacteria
+kaiju_out/Myxacorys_californica_WJT36-NPBG1.reads.out	0.000240	153	68297	Dictyoglomi
+kaiju_out/Myxacorys_californica_WJT36-NPBG1.reads.out	0.000236	150	508458	Synergistetes
+kaiju_out/Myxacorys_californica_WJT36-NPBG1.reads.out	0.000212	135	422282	candidate division WWE3
+kaiju_out/Myxacorys_californica_WJT36-NPBG1.reads.out	0.000206	131	1293497	Nitrospinae
+kaiju_out/Myxacorys_californica_WJT36-NPBG1.reads.out	0.000195	124	67818	Candidatus Atribacteria
+kaiju_out/Myxacorys_californica_WJT36-NPBG1.reads.out	0.000187	119	1619053	Candidatus Peregrinibacteria
+kaiju_out/Myxacorys_californica_WJT36-NPBG1.reads.out	0.000185	118	200938	Chrysiogenetes
+kaiju_out/Myxacorys_californica_WJT36-NPBG1.reads.out	0.000181	115	200940	Thermodesulfobacteria
+kaiju_out/Myxacorys_californica_WJT36-NPBG1.reads.out	0.000160	102	74152	Elusimicrobia
+kaiju_out/Myxacorys_californica_WJT36-NPBG1.reads.out	0.000154	98	67817	Candidatus Aminicenantes
+kaiju_out/Myxacorys_californica_WJT36-NPBG1.reads.out	0.000140	89	1752716	Candidatus Dadabacteria
+kaiju_out/Myxacorys_californica_WJT36-NPBG1.reads.out	0.000119	76	67810	Candidatus Bipolaricaulota
+kaiju_out/Myxacorys_californica_WJT36-NPBG1.reads.out	0.000116	74	65842	Fibrobacteres
+kaiju_out/Myxacorys_californica_WJT36-NPBG1.reads.out	0.000113	72	74015	Candidatus Latescibacteria
+kaiju_out/Myxacorys_californica_WJT36-NPBG1.reads.out	0.000110	70	1817805	Candidatus Glassbacteria
+kaiju_out/Myxacorys_californica_WJT36-NPBG1.reads.out	0.000105	67	2052312	candidate division AD3
+kaiju_out/Myxacorys_californica_WJT36-NPBG1.reads.out	0.000097	62	1052815	Candidatus Aerophobetes
+kaiju_out/Myxacorys_californica_WJT36-NPBG1.reads.out	0.000093	59	2582935	Candidatus Altiarchaeota
+kaiju_out/Myxacorys_californica_WJT36-NPBG1.reads.out	0.000082	52	2093358	Candidatus Abyssubacteria
+kaiju_out/Myxacorys_californica_WJT36-NPBG1.reads.out	0.000079	50	265317	Candidatus Poribacteria
+kaiju_out/Myxacorys_californica_WJT36-NPBG1.reads.out	0.000075	48	256845	Lentisphaerae
+kaiju_out/Myxacorys_californica_WJT36-NPBG1.reads.out	0.000066	42	928852	Candidatus Bathyarchaeota
+kaiju_out/Myxacorys_californica_WJT36-NPBG1.reads.out	0.000057	36	1817802	Candidatus Firestonebacteria
+kaiju_out/Myxacorys_californica_WJT36-NPBG1.reads.out	0.000053	34	1703755	candidate division WOR-3
+kaiju_out/Myxacorys_californica_WJT36-NPBG1.reads.out	0.000053	34	1817809	Candidatus Raymondbacteria
+kaiju_out/Myxacorys_californica_WJT36-NPBG1.reads.out	0.000050	32	2109258	Abditibacteriota
+kaiju_out/Myxacorys_californica_WJT36-NPBG1.reads.out	0.000046	29	1752720	Candidatus Gottesmanbacteria
+kaiju_out/Myxacorys_californica_WJT36-NPBG1.reads.out	0.000044	28	651137	Thaumarchaeota
+kaiju_out/Myxacorys_californica_WJT36-NPBG1.reads.out	0.000044	28	1817900	Candidatus Chisholmbacteria
+kaiju_out/Myxacorys_californica_WJT36-NPBG1.reads.out	0.000038	24	32066	Fusobacteria
+kaiju_out/Myxacorys_californica_WJT36-NPBG1.reads.out	0.000038	24	1855361	Candidatus Kryptonia
+kaiju_out/Myxacorys_californica_WJT36-NPBG1.reads.out	0.000031	20	1801631	Candidatus Micrarchaeota
+kaiju_out/Myxacorys_californica_WJT36-NPBG1.reads.out	0.000030	19	1752731	Candidatus Magasanikbacteria
+kaiju_out/Myxacorys_californica_WJT36-NPBG1.reads.out	0.000030	19	1817797	Candidatus Coatesbacteria
+kaiju_out/Myxacorys_californica_WJT36-NPBG1.reads.out	0.000028	18	2138240	Coprothermobacterota
+kaiju_out/Myxacorys_californica_WJT36-NPBG1.reads.out	0.000025	16	200295	Candidatus Sumerlaeota
+kaiju_out/Myxacorys_californica_WJT36-NPBG1.reads.out	0.000025	16	1817812	Candidatus Wallbacteria
+kaiju_out/Myxacorys_californica_WJT36-NPBG1.reads.out	0.000024	15	221216	Candidatus Parcubacteria
+kaiju_out/Myxacorys_californica_WJT36-NPBG1.reads.out	0.000024	15	1752723	Candidatus Roizmanbacteria
+kaiju_out/Myxacorys_californica_WJT36-NPBG1.reads.out	0.000022	14	200918	Thermotogae
+kaiju_out/Myxacorys_californica_WJT36-NPBG1.reads.out	0.000022	14	1817803	Candidatus Fischerbacteria
+kaiju_out/Myxacorys_californica_WJT36-NPBG1.reads.out	0.000019	12	200783	Aquificae
+kaiju_out/Myxacorys_californica_WJT36-NPBG1.reads.out	0.000017	11	1817807	Candidatus Lindowbacteria
+kaiju_out/Myxacorys_californica_WJT36-NPBG1.reads.out	0.000011	7	1817909	Candidatus Liptonbacteria
+kaiju_out/Myxacorys_californica_WJT36-NPBG1.reads.out	0.000009	6	2498705	Candidatus Cryosericota
+kaiju_out/Myxacorys_californica_WJT36-NPBG1.reads.out	0.000008	5	1752717	Candidatus Curtissbacteria
+kaiju_out/Myxacorys_californica_WJT36-NPBG1.reads.out	0.000008	5	1817911	Candidatus Nealsonbacteria
+kaiju_out/Myxacorys_californica_WJT36-NPBG1.reads.out	0.000005	3	1752734	Candidatus Kaiserbacteria
+kaiju_out/Myxacorys_californica_WJT36-NPBG1.reads.out	0.000005	3	1817811	Candidatus Schekmanbacteria
+kaiju_out/Myxacorys_californica_WJT36-NPBG1.reads.out	0.000002	1	1752732	Candidatus Uhrbacteria
+kaiju_out/Myxacorys_californica_WJT36-NPBG1.reads.out	0.000002	1	1817914	Candidatus Ryanbacteria
+kaiju_out/Myxacorys_californica_WJT36-NPBG1.reads.out	0.000707	450	10239	Viruses
+kaiju_out/Myxacorys_californica_WJT36-NPBG1.reads.out	0.205219	130599	NA	cannot be assigned to a (non-viral) phylum
+kaiju_out/Myxacorys_californica_WJT36-NPBG1.reads.out	87.041640	55392321	NA	unclassified
