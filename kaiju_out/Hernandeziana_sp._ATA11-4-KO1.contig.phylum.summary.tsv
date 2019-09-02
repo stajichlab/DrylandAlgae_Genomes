@@ -1,0 +1,8 @@
+file	percent	reads	taxon_id	taxon_name
+kaiju_out/Hernandeziana_sp._ATA11-4-KO1.contig.out	47.752129	393	1224	Proteobacteria
+kaiju_out/Hernandeziana_sp._ATA11-4-KO1.contig.out	17.861483	147	1117	Cyanobacteria
+kaiju_out/Hernandeziana_sp._ATA11-4-KO1.contig.out	0.486027	4	201174	Actinobacteria
+kaiju_out/Hernandeziana_sp._ATA11-4-KO1.contig.out	0.121507	1	1239	Firmicutes
+kaiju_out/Hernandeziana_sp._ATA11-4-KO1.contig.out	0.000000	0	10239	Viruses
+kaiju_out/Hernandeziana_sp._ATA11-4-KO1.contig.out	0.000000	0	NA	cannot be assigned to a (non-viral) phylum
+kaiju_out/Hernandeziana_sp._ATA11-4-KO1.contig.out	33.778858	278	NA	unclassified
