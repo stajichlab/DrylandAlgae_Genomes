@@ -1,3 +1,4 @@
+Contig Krona plots
 ==================
 * [Aphanocapsa_sp._GSE-SYN-MK-11-07L.contig.out.krona.html](Aphanocapsa_sp._GSE-SYN-MK-11-07L.contig.out.krona.html)
 * [Aphanothece_saxicola_GSE-SYN-MK-01-06B.contig.out.krona.html](Aphanothece_saxicola_GSE-SYN-MK-01-06B.contig.out.krona.html)
