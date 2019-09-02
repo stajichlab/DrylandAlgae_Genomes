@@ -1,0 +1,48 @@
+file	percent	reads	taxon_id	taxon_name
+kaiju_out/Cyanomagaritha_calcarea_GSE-NOS-MK-12-04C.reads.out	15.007159	8943272	1117	Cyanobacteria
+kaiju_out/Cyanomagaritha_calcarea_GSE-NOS-MK-12-04C.reads.out	10.434768	6218430	1224	Proteobacteria
+kaiju_out/Cyanomagaritha_calcarea_GSE-NOS-MK-12-04C.reads.out	0.018380	10953	201174	Actinobacteria
+kaiju_out/Cyanomagaritha_calcarea_GSE-NOS-MK-12-04C.reads.out	0.009917	5910	1239	Firmicutes
+kaiju_out/Cyanomagaritha_calcarea_GSE-NOS-MK-12-04C.reads.out	0.005653	3369	57723	Acidobacteria
+kaiju_out/Cyanomagaritha_calcarea_GSE-NOS-MK-12-04C.reads.out	0.004507	2686	200795	Chloroflexi
+kaiju_out/Cyanomagaritha_calcarea_GSE-NOS-MK-12-04C.reads.out	0.004465	2661	976	Bacteroidetes
+kaiju_out/Cyanomagaritha_calcarea_GSE-NOS-MK-12-04C.reads.out	0.002816	1678	74201	Verrucomicrobia
+kaiju_out/Cyanomagaritha_calcarea_GSE-NOS-MK-12-04C.reads.out	0.002302	1372	203682	Planctomycetes
+kaiju_out/Cyanomagaritha_calcarea_GSE-NOS-MK-12-04C.reads.out	0.001832	1092	40117	Nitrospirae
+kaiju_out/Cyanomagaritha_calcarea_GSE-NOS-MK-12-04C.reads.out	0.001363	812	28890	Euryarchaeota
+kaiju_out/Cyanomagaritha_calcarea_GSE-NOS-MK-12-04C.reads.out	0.000859	512	1930617	Calditrichaeota
+kaiju_out/Cyanomagaritha_calcarea_GSE-NOS-MK-12-04C.reads.out	0.000552	329	67819	Armatimonadetes
+kaiju_out/Cyanomagaritha_calcarea_GSE-NOS-MK-12-04C.reads.out	0.000522	311	1297	Deinococcus-Thermus
+kaiju_out/Cyanomagaritha_calcarea_GSE-NOS-MK-12-04C.reads.out	0.000487	290	640293	candidate division NC10
+kaiju_out/Cyanomagaritha_calcarea_GSE-NOS-MK-12-04C.reads.out	0.000359	214	204428	Chlamydiae
+kaiju_out/Cyanomagaritha_calcarea_GSE-NOS-MK-12-04C.reads.out	0.000317	189	1134404	Ignavibacteriae
+kaiju_out/Cyanomagaritha_calcarea_GSE-NOS-MK-12-04C.reads.out	0.000289	172	142182	Gemmatimonadetes
+kaiju_out/Cyanomagaritha_calcarea_GSE-NOS-MK-12-04C.reads.out	0.000282	168	1052815	Candidatus Aerophobetes
+kaiju_out/Cyanomagaritha_calcarea_GSE-NOS-MK-12-04C.reads.out	0.000260	155	256845	Lentisphaerae
+kaiju_out/Cyanomagaritha_calcarea_GSE-NOS-MK-12-04C.reads.out	0.000233	139	67812	Candidatus Omnitrophica
+kaiju_out/Cyanomagaritha_calcarea_GSE-NOS-MK-12-04C.reads.out	0.000211	126	1752716	Candidatus Dadabacteria
+kaiju_out/Cyanomagaritha_calcarea_GSE-NOS-MK-12-04C.reads.out	0.000186	111	1802339	Candidatus Tectomicrobia
+kaiju_out/Cyanomagaritha_calcarea_GSE-NOS-MK-12-04C.reads.out	0.000163	97	1817810	Candidatus Riflebacteria
+kaiju_out/Cyanomagaritha_calcarea_GSE-NOS-MK-12-04C.reads.out	0.000151	90	142187	Candidatus Hydrogenedentes
+kaiju_out/Cyanomagaritha_calcarea_GSE-NOS-MK-12-04C.reads.out	0.000131	78	544448	Tenericutes
+kaiju_out/Cyanomagaritha_calcarea_GSE-NOS-MK-12-04C.reads.out	0.000121	72	200783	Aquificae
+kaiju_out/Cyanomagaritha_calcarea_GSE-NOS-MK-12-04C.reads.out	0.000104	62	265317	Candidatus Poribacteria
+kaiju_out/Cyanomagaritha_calcarea_GSE-NOS-MK-12-04C.reads.out	0.000104	62	651137	Thaumarchaeota
+kaiju_out/Cyanomagaritha_calcarea_GSE-NOS-MK-12-04C.reads.out	0.000077	46	1817903	Candidatus Buchananbacteria
+kaiju_out/Cyanomagaritha_calcarea_GSE-NOS-MK-12-04C.reads.out	0.000064	38	62680	Candidatus Marinimicrobia
+kaiju_out/Cyanomagaritha_calcarea_GSE-NOS-MK-12-04C.reads.out	0.000064	38	1752708	Candidatus Rokubacteria
+kaiju_out/Cyanomagaritha_calcarea_GSE-NOS-MK-12-04C.reads.out	0.000052	31	74152	Elusimicrobia
+kaiju_out/Cyanomagaritha_calcarea_GSE-NOS-MK-12-04C.reads.out	0.000040	24	508458	Synergistetes
+kaiju_out/Cyanomagaritha_calcarea_GSE-NOS-MK-12-04C.reads.out	0.000023	14	1090	Chlorobi
+kaiju_out/Cyanomagaritha_calcarea_GSE-NOS-MK-12-04C.reads.out	0.000022	13	1752724	Candidatus Pacebacteria
+kaiju_out/Cyanomagaritha_calcarea_GSE-NOS-MK-12-04C.reads.out	0.000020	12	1379697	candidate division Zixibacteria
+kaiju_out/Cyanomagaritha_calcarea_GSE-NOS-MK-12-04C.reads.out	0.000018	11	1798710	Candidatus Melainabacteria
+kaiju_out/Cyanomagaritha_calcarea_GSE-NOS-MK-12-04C.reads.out	0.000008	5	1817913	Candidatus Portnoybacteria
+kaiju_out/Cyanomagaritha_calcarea_GSE-NOS-MK-12-04C.reads.out	0.000007	4	203691	Spirochaetes
+kaiju_out/Cyanomagaritha_calcarea_GSE-NOS-MK-12-04C.reads.out	0.000005	3	28889	Crenarchaeota
+kaiju_out/Cyanomagaritha_calcarea_GSE-NOS-MK-12-04C.reads.out	0.000003	2	1853220	Rhodothermaeota
+kaiju_out/Cyanomagaritha_calcarea_GSE-NOS-MK-12-04C.reads.out	0.000002	1	65842	Fibrobacteres
+kaiju_out/Cyanomagaritha_calcarea_GSE-NOS-MK-12-04C.reads.out	0.000002	1	1154676	candidate division WPS-2
+kaiju_out/Cyanomagaritha_calcarea_GSE-NOS-MK-12-04C.reads.out	0.000013	8	10239	Viruses
+kaiju_out/Cyanomagaritha_calcarea_GSE-NOS-MK-12-04C.reads.out	0.139391	83068	NA	cannot be assigned to a (non-viral) phylum
+kaiju_out/Cyanomagaritha_calcarea_GSE-NOS-MK-12-04C.reads.out	74.361694	44314641	NA	unclassified
