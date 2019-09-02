@@ -1,0 +1,48 @@
+file	percent	reads	taxon_id	taxon_name
+kaiju_out/Aphanothece_saxicola_GSE-SYN-MK-01-06B.reads.out	36.341557	35322730	1117	Cyanobacteria
+kaiju_out/Aphanothece_saxicola_GSE-SYN-MK-01-06B.reads.out	1.853941	1801966	1224	Proteobacteria
+kaiju_out/Aphanothece_saxicola_GSE-SYN-MK-01-06B.reads.out	0.007628	7414	40117	Nitrospirae
+kaiju_out/Aphanothece_saxicola_GSE-SYN-MK-01-06B.reads.out	0.006442	6261	1817810	Candidatus Riflebacteria
+kaiju_out/Aphanothece_saxicola_GSE-SYN-MK-01-06B.reads.out	0.004682	4551	201174	Actinobacteria
+kaiju_out/Aphanothece_saxicola_GSE-SYN-MK-01-06B.reads.out	0.004340	4218	203691	Spirochaetes
+kaiju_out/Aphanothece_saxicola_GSE-SYN-MK-01-06B.reads.out	0.003574	3474	976	Bacteroidetes
+kaiju_out/Aphanothece_saxicola_GSE-SYN-MK-01-06B.reads.out	0.002767	2689	142182	Gemmatimonadetes
+kaiju_out/Aphanothece_saxicola_GSE-SYN-MK-01-06B.reads.out	0.001934	1880	74201	Verrucomicrobia
+kaiju_out/Aphanothece_saxicola_GSE-SYN-MK-01-06B.reads.out	0.001426	1386	57723	Acidobacteria
+kaiju_out/Aphanothece_saxicola_GSE-SYN-MK-01-06B.reads.out	0.001140	1108	200795	Chloroflexi
+kaiju_out/Aphanothece_saxicola_GSE-SYN-MK-01-06B.reads.out	0.000973	946	1090	Chlorobi
+kaiju_out/Aphanothece_saxicola_GSE-SYN-MK-01-06B.reads.out	0.000527	512	1239	Firmicutes
+kaiju_out/Aphanothece_saxicola_GSE-SYN-MK-01-06B.reads.out	0.000520	505	67819	Armatimonadetes
+kaiju_out/Aphanothece_saxicola_GSE-SYN-MK-01-06B.reads.out	0.000217	211	203682	Planctomycetes
+kaiju_out/Aphanothece_saxicola_GSE-SYN-MK-01-06B.reads.out	0.000202	196	1752708	Candidatus Rokubacteria
+kaiju_out/Aphanothece_saxicola_GSE-SYN-MK-01-06B.reads.out	0.000141	137	221216	Candidatus Parcubacteria
+kaiju_out/Aphanothece_saxicola_GSE-SYN-MK-01-06B.reads.out	0.000037	36	1297	Deinococcus-Thermus
+kaiju_out/Aphanothece_saxicola_GSE-SYN-MK-01-06B.reads.out	0.000025	24	200938	Chrysiogenetes
+kaiju_out/Aphanothece_saxicola_GSE-SYN-MK-01-06B.reads.out	0.000019	18	1293497	Nitrospinae
+kaiju_out/Aphanothece_saxicola_GSE-SYN-MK-01-06B.reads.out	0.000019	18	1853220	Rhodothermaeota
+kaiju_out/Aphanothece_saxicola_GSE-SYN-MK-01-06B.reads.out	0.000016	16	28890	Euryarchaeota
+kaiju_out/Aphanothece_saxicola_GSE-SYN-MK-01-06B.reads.out	0.000016	16	544448	Tenericutes
+kaiju_out/Aphanothece_saxicola_GSE-SYN-MK-01-06B.reads.out	0.000016	16	1930617	Calditrichaeota
+kaiju_out/Aphanothece_saxicola_GSE-SYN-MK-01-06B.reads.out	0.000007	7	74152	Elusimicrobia
+kaiju_out/Aphanothece_saxicola_GSE-SYN-MK-01-06B.reads.out	0.000005	5	204428	Chlamydiae
+kaiju_out/Aphanothece_saxicola_GSE-SYN-MK-01-06B.reads.out	0.000004	4	200783	Aquificae
+kaiju_out/Aphanothece_saxicola_GSE-SYN-MK-01-06B.reads.out	0.000003	3	95818	Candidatus Saccharibacteria
+kaiju_out/Aphanothece_saxicola_GSE-SYN-MK-01-06B.reads.out	0.000003	3	265317	Candidatus Poribacteria
+kaiju_out/Aphanothece_saxicola_GSE-SYN-MK-01-06B.reads.out	0.000003	3	1752716	Candidatus Dadabacteria
+kaiju_out/Aphanothece_saxicola_GSE-SYN-MK-01-06B.reads.out	0.000002	2	200918	Thermotogae
+kaiju_out/Aphanothece_saxicola_GSE-SYN-MK-01-06B.reads.out	0.000002	2	363464	Candidatus Gracilibacteria
+kaiju_out/Aphanothece_saxicola_GSE-SYN-MK-01-06B.reads.out	0.000002	2	1798710	Candidatus Melainabacteria
+kaiju_out/Aphanothece_saxicola_GSE-SYN-MK-01-06B.reads.out	0.000002	2	1936987	Balneolaeota
+kaiju_out/Aphanothece_saxicola_GSE-SYN-MK-01-06B.reads.out	0.000001	1	32066	Fusobacteria
+kaiju_out/Aphanothece_saxicola_GSE-SYN-MK-01-06B.reads.out	0.000001	1	142187	Candidatus Hydrogenedentes
+kaiju_out/Aphanothece_saxicola_GSE-SYN-MK-01-06B.reads.out	0.000001	1	200930	Deferribacteres
+kaiju_out/Aphanothece_saxicola_GSE-SYN-MK-01-06B.reads.out	0.000001	1	508458	Synergistetes
+kaiju_out/Aphanothece_saxicola_GSE-SYN-MK-01-06B.reads.out	0.000001	1	928852	Candidatus Bathyarchaeota
+kaiju_out/Aphanothece_saxicola_GSE-SYN-MK-01-06B.reads.out	0.000001	1	1134404	Ignavibacteriae
+kaiju_out/Aphanothece_saxicola_GSE-SYN-MK-01-06B.reads.out	0.000001	1	1729712	Candidatus Fermentibacteria
+kaiju_out/Aphanothece_saxicola_GSE-SYN-MK-01-06B.reads.out	0.000001	1	1817805	Candidatus Glassbacteria
+kaiju_out/Aphanothece_saxicola_GSE-SYN-MK-01-06B.reads.out	0.000001	1	1817808	Candidatus Margulisbacteria
+kaiju_out/Aphanothece_saxicola_GSE-SYN-MK-01-06B.reads.out	0.000001	1	1817905	Candidatus Harrisonbacteria
+kaiju_out/Aphanothece_saxicola_GSE-SYN-MK-01-06B.reads.out	0.000225	219	10239	Viruses
+kaiju_out/Aphanothece_saxicola_GSE-SYN-MK-01-06B.reads.out	0.309377	300704	NA	cannot be assigned to a (non-viral) phylum
+kaiju_out/Aphanothece_saxicola_GSE-SYN-MK-01-06B.reads.out	61.458194	59735224	NA	unclassified

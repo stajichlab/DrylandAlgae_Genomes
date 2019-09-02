@@ -1,0 +1,80 @@
+file	percent	reads	taxon_id	taxon_name
+kaiju_out/Oscillatoria_princeps_RMCB-10.reads.out	22.599655	15351017	1117	Cyanobacteria
+kaiju_out/Oscillatoria_princeps_RMCB-10.reads.out	11.619664	7892760	1224	Proteobacteria
+kaiju_out/Oscillatoria_princeps_RMCB-10.reads.out	0.658577	447344	201174	Actinobacteria
+kaiju_out/Oscillatoria_princeps_RMCB-10.reads.out	0.359664	244305	976	Bacteroidetes
+kaiju_out/Oscillatoria_princeps_RMCB-10.reads.out	0.012424	8439	74201	Verrucomicrobia
+kaiju_out/Oscillatoria_princeps_RMCB-10.reads.out	0.010476	7116	1239	Firmicutes
+kaiju_out/Oscillatoria_princeps_RMCB-10.reads.out	0.006725	4568	200795	Chloroflexi
+kaiju_out/Oscillatoria_princeps_RMCB-10.reads.out	0.005915	4018	203682	Planctomycetes
+kaiju_out/Oscillatoria_princeps_RMCB-10.reads.out	0.003220	2187	57723	Acidobacteria
+kaiju_out/Oscillatoria_princeps_RMCB-10.reads.out	0.001126	765	67819	Armatimonadetes
+kaiju_out/Oscillatoria_princeps_RMCB-10.reads.out	0.001095	744	28890	Euryarchaeota
+kaiju_out/Oscillatoria_princeps_RMCB-10.reads.out	0.000980	666	203691	Spirochaetes
+kaiju_out/Oscillatoria_princeps_RMCB-10.reads.out	0.000807	548	40117	Nitrospirae
+kaiju_out/Oscillatoria_princeps_RMCB-10.reads.out	0.000605	411	1134404	Ignavibacteriae
+kaiju_out/Oscillatoria_princeps_RMCB-10.reads.out	0.000604	410	142182	Gemmatimonadetes
+kaiju_out/Oscillatoria_princeps_RMCB-10.reads.out	0.000589	400	1802339	Candidatus Tectomicrobia
+kaiju_out/Oscillatoria_princeps_RMCB-10.reads.out	0.000574	390	74152	Elusimicrobia
+kaiju_out/Oscillatoria_princeps_RMCB-10.reads.out	0.000570	387	1798710	Candidatus Melainabacteria
+kaiju_out/Oscillatoria_princeps_RMCB-10.reads.out	0.000561	381	67812	Candidatus Omnitrophica
+kaiju_out/Oscillatoria_princeps_RMCB-10.reads.out	0.000524	356	1817805	Candidatus Glassbacteria
+kaiju_out/Oscillatoria_princeps_RMCB-10.reads.out	0.000411	279	1752708	Candidatus Rokubacteria
+kaiju_out/Oscillatoria_princeps_RMCB-10.reads.out	0.000368	250	200938	Chrysiogenetes
+kaiju_out/Oscillatoria_princeps_RMCB-10.reads.out	0.000343	233	1293497	Nitrospinae
+kaiju_out/Oscillatoria_princeps_RMCB-10.reads.out	0.000336	228	1936987	Balneolaeota
+kaiju_out/Oscillatoria_princeps_RMCB-10.reads.out	0.000325	221	1090	Chlorobi
+kaiju_out/Oscillatoria_princeps_RMCB-10.reads.out	0.000325	221	1297	Deinococcus-Thermus
+kaiju_out/Oscillatoria_princeps_RMCB-10.reads.out	0.000303	206	456828	Candidatus Cloacimonetes
+kaiju_out/Oscillatoria_princeps_RMCB-10.reads.out	0.000303	206	2052312	candidate division AD3
+kaiju_out/Oscillatoria_princeps_RMCB-10.reads.out	0.000278	189	422282	candidate division WWE3
+kaiju_out/Oscillatoria_princeps_RMCB-10.reads.out	0.000264	179	221216	Candidatus Parcubacteria
+kaiju_out/Oscillatoria_princeps_RMCB-10.reads.out	0.000219	149	74015	Candidatus Latescibacteria
+kaiju_out/Oscillatoria_princeps_RMCB-10.reads.out	0.000193	131	265317	Candidatus Poribacteria
+kaiju_out/Oscillatoria_princeps_RMCB-10.reads.out	0.000174	118	928852	Candidatus Bathyarchaeota
+kaiju_out/Oscillatoria_princeps_RMCB-10.reads.out	0.000169	115	200783	Aquificae
+kaiju_out/Oscillatoria_princeps_RMCB-10.reads.out	0.000132	90	67817	Candidatus Aminicenantes
+kaiju_out/Oscillatoria_princeps_RMCB-10.reads.out	0.000131	89	2498705	Candidatus Cryosericota
+kaiju_out/Oscillatoria_princeps_RMCB-10.reads.out	0.000127	86	1853220	Rhodothermaeota
+kaiju_out/Oscillatoria_princeps_RMCB-10.reads.out	0.000127	86	1930617	Calditrichaeota
+kaiju_out/Oscillatoria_princeps_RMCB-10.reads.out	0.000115	78	134625	Kiritimatiellaeota
+kaiju_out/Oscillatoria_princeps_RMCB-10.reads.out	0.000102	69	640293	candidate division NC10
+kaiju_out/Oscillatoria_princeps_RMCB-10.reads.out	0.000097	66	544448	Tenericutes
+kaiju_out/Oscillatoria_princeps_RMCB-10.reads.out	0.000091	62	256845	Lentisphaerae
+kaiju_out/Oscillatoria_princeps_RMCB-10.reads.out	0.000053	36	1619053	Candidatus Peregrinibacteria
+kaiju_out/Oscillatoria_princeps_RMCB-10.reads.out	0.000052	35	1817810	Candidatus Riflebacteria
+kaiju_out/Oscillatoria_princeps_RMCB-10.reads.out	0.000047	32	1752716	Candidatus Dadabacteria
+kaiju_out/Oscillatoria_princeps_RMCB-10.reads.out	0.000041	28	200930	Deferribacteres
+kaiju_out/Oscillatoria_princeps_RMCB-10.reads.out	0.000034	23	95818	Candidatus Saccharibacteria
+kaiju_out/Oscillatoria_princeps_RMCB-10.reads.out	0.000025	17	1703755	candidate division WOR-3
+kaiju_out/Oscillatoria_princeps_RMCB-10.reads.out	0.000024	16	1817911	Candidatus Nealsonbacteria
+kaiju_out/Oscillatoria_princeps_RMCB-10.reads.out	0.000019	13	1817809	Candidatus Raymondbacteria
+kaiju_out/Oscillatoria_princeps_RMCB-10.reads.out	0.000013	9	743724	Candidatus Aenigmarchaeota
+kaiju_out/Oscillatoria_princeps_RMCB-10.reads.out	0.000013	9	1752731	Candidatus Magasanikbacteria
+kaiju_out/Oscillatoria_princeps_RMCB-10.reads.out	0.000010	7	204428	Chlamydiae
+kaiju_out/Oscillatoria_princeps_RMCB-10.reads.out	0.000010	7	1817811	Candidatus Schekmanbacteria
+kaiju_out/Oscillatoria_princeps_RMCB-10.reads.out	0.000009	6	32066	Fusobacteria
+kaiju_out/Oscillatoria_princeps_RMCB-10.reads.out	0.000007	5	1817801	Candidatus Eisenbacteria
+kaiju_out/Oscillatoria_princeps_RMCB-10.reads.out	0.000006	4	2301208	Candidatus Cerribacteria
+kaiju_out/Oscillatoria_princeps_RMCB-10.reads.out	0.000004	3	62680	Candidatus Marinimicrobia
+kaiju_out/Oscillatoria_princeps_RMCB-10.reads.out	0.000004	3	65842	Fibrobacteres
+kaiju_out/Oscillatoria_princeps_RMCB-10.reads.out	0.000004	3	363464	Candidatus Gracilibacteria
+kaiju_out/Oscillatoria_princeps_RMCB-10.reads.out	0.000004	3	1817806	Candidatus Handelsmanbacteria
+kaiju_out/Oscillatoria_princeps_RMCB-10.reads.out	0.000004	3	1817812	Candidatus Wallbacteria
+kaiju_out/Oscillatoria_princeps_RMCB-10.reads.out	0.000004	3	1936272	Candidatus Heimdallarchaeota
+kaiju_out/Oscillatoria_princeps_RMCB-10.reads.out	0.000004	3	2109258	Abditibacteriota
+kaiju_out/Oscillatoria_princeps_RMCB-10.reads.out	0.000003	2	508458	Synergistetes
+kaiju_out/Oscillatoria_princeps_RMCB-10.reads.out	0.000003	2	1052815	Candidatus Aerophobetes
+kaiju_out/Oscillatoria_princeps_RMCB-10.reads.out	0.000003	2	1752718	Candidatus Daviesbacteria
+kaiju_out/Oscillatoria_princeps_RMCB-10.reads.out	0.000003	2	1752732	Candidatus Uhrbacteria
+kaiju_out/Oscillatoria_princeps_RMCB-10.reads.out	0.000003	2	1801631	Candidatus Micrarchaeota
+kaiju_out/Oscillatoria_princeps_RMCB-10.reads.out	0.000003	2	2093358	Candidatus Abyssubacteria
+kaiju_out/Oscillatoria_princeps_RMCB-10.reads.out	0.000001	1	1154676	candidate division WPS-2
+kaiju_out/Oscillatoria_princeps_RMCB-10.reads.out	0.000001	1	1752724	Candidatus Pacebacteria
+kaiju_out/Oscillatoria_princeps_RMCB-10.reads.out	0.000001	1	1752729	Candidatus Nomurabacteria
+kaiju_out/Oscillatoria_princeps_RMCB-10.reads.out	0.000001	1	1817904	Candidatus Colwellbacteria
+kaiju_out/Oscillatoria_princeps_RMCB-10.reads.out	0.000001	1	1817922	Candidatus Vogelbacteria
+kaiju_out/Oscillatoria_princeps_RMCB-10.reads.out	0.000001	1	1819803	Candidatus Desantisbacteria
+kaiju_out/Oscillatoria_princeps_RMCB-10.reads.out	0.000049	33	10239	Viruses
+kaiju_out/Oscillatoria_princeps_RMCB-10.reads.out	0.194226	131930	NA	cannot be assigned to a (non-viral) phylum
+kaiju_out/Oscillatoria_princeps_RMCB-10.reads.out	64.516008	43823074	NA	unclassified

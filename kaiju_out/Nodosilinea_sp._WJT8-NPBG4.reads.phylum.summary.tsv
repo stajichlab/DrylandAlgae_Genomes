@@ -1,0 +1,46 @@
+file	percent	reads	taxon_id	taxon_name
+kaiju_out/Nodosilinea_sp._WJT8-NPBG4.reads.out	29.287291	20846596	1117	Cyanobacteria
+kaiju_out/Nodosilinea_sp._WJT8-NPBG4.reads.out	10.919729	7772627	1224	Proteobacteria
+kaiju_out/Nodosilinea_sp._WJT8-NPBG4.reads.out	0.941926	670460	201174	Actinobacteria
+kaiju_out/Nodosilinea_sp._WJT8-NPBG4.reads.out	0.008179	5822	1239	Firmicutes
+kaiju_out/Nodosilinea_sp._WJT8-NPBG4.reads.out	0.006611	4706	976	Bacteroidetes
+kaiju_out/Nodosilinea_sp._WJT8-NPBG4.reads.out	0.004139	2946	57723	Acidobacteria
+kaiju_out/Nodosilinea_sp._WJT8-NPBG4.reads.out	0.002615	1861	200795	Chloroflexi
+kaiju_out/Nodosilinea_sp._WJT8-NPBG4.reads.out	0.002182	1553	74201	Verrucomicrobia
+kaiju_out/Nodosilinea_sp._WJT8-NPBG4.reads.out	0.001843	1312	203682	Planctomycetes
+kaiju_out/Nodosilinea_sp._WJT8-NPBG4.reads.out	0.001218	867	74152	Elusimicrobia
+kaiju_out/Nodosilinea_sp._WJT8-NPBG4.reads.out	0.001073	764	142182	Gemmatimonadetes
+kaiju_out/Nodosilinea_sp._WJT8-NPBG4.reads.out	0.001066	759	40117	Nitrospirae
+kaiju_out/Nodosilinea_sp._WJT8-NPBG4.reads.out	0.000996	709	1090	Chlorobi
+kaiju_out/Nodosilinea_sp._WJT8-NPBG4.reads.out	0.000659	469	74015	Candidatus Latescibacteria
+kaiju_out/Nodosilinea_sp._WJT8-NPBG4.reads.out	0.000576	410	256845	Lentisphaerae
+kaiju_out/Nodosilinea_sp._WJT8-NPBG4.reads.out	0.000563	401	1817810	Candidatus Riflebacteria
+kaiju_out/Nodosilinea_sp._WJT8-NPBG4.reads.out	0.000485	345	1297	Deinococcus-Thermus
+kaiju_out/Nodosilinea_sp._WJT8-NPBG4.reads.out	0.000350	249	1817801	Candidatus Eisenbacteria
+kaiju_out/Nodosilinea_sp._WJT8-NPBG4.reads.out	0.000204	145	32066	Fusobacteria
+kaiju_out/Nodosilinea_sp._WJT8-NPBG4.reads.out	0.000074	53	1819803	Candidatus Desantisbacteria
+kaiju_out/Nodosilinea_sp._WJT8-NPBG4.reads.out	0.000046	33	1752708	Candidatus Rokubacteria
+kaiju_out/Nodosilinea_sp._WJT8-NPBG4.reads.out	0.000030	21	203691	Spirochaetes
+kaiju_out/Nodosilinea_sp._WJT8-NPBG4.reads.out	0.000030	21	1817913	Candidatus Portnoybacteria
+kaiju_out/Nodosilinea_sp._WJT8-NPBG4.reads.out	0.000030	21	1853220	Rhodothermaeota
+kaiju_out/Nodosilinea_sp._WJT8-NPBG4.reads.out	0.000021	15	134625	Kiritimatiellaeota
+kaiju_out/Nodosilinea_sp._WJT8-NPBG4.reads.out	0.000018	13	1817808	Candidatus Margulisbacteria
+kaiju_out/Nodosilinea_sp._WJT8-NPBG4.reads.out	0.000017	12	1798710	Candidatus Melainabacteria
+kaiju_out/Nodosilinea_sp._WJT8-NPBG4.reads.out	0.000010	7	28890	Euryarchaeota
+kaiju_out/Nodosilinea_sp._WJT8-NPBG4.reads.out	0.000010	7	1752728	Candidatus Falkowbacteria
+kaiju_out/Nodosilinea_sp._WJT8-NPBG4.reads.out	0.000010	7	1802339	Candidatus Tectomicrobia
+kaiju_out/Nodosilinea_sp._WJT8-NPBG4.reads.out	0.000007	5	204428	Chlamydiae
+kaiju_out/Nodosilinea_sp._WJT8-NPBG4.reads.out	0.000007	5	2093358	Candidatus Abyssubacteria
+kaiju_out/Nodosilinea_sp._WJT8-NPBG4.reads.out	0.000006	4	1817809	Candidatus Raymondbacteria
+kaiju_out/Nodosilinea_sp._WJT8-NPBG4.reads.out	0.000006	4	1817900	Candidatus Chisholmbacteria
+kaiju_out/Nodosilinea_sp._WJT8-NPBG4.reads.out	0.000006	4	1930617	Calditrichaeota
+kaiju_out/Nodosilinea_sp._WJT8-NPBG4.reads.out	0.000004	3	62680	Candidatus Marinimicrobia
+kaiju_out/Nodosilinea_sp._WJT8-NPBG4.reads.out	0.000004	3	200938	Chrysiogenetes
+kaiju_out/Nodosilinea_sp._WJT8-NPBG4.reads.out	0.000004	3	1134404	Ignavibacteriae
+kaiju_out/Nodosilinea_sp._WJT8-NPBG4.reads.out	0.000003	2	221216	Candidatus Parcubacteria
+kaiju_out/Nodosilinea_sp._WJT8-NPBG4.reads.out	0.000003	2	1752731	Candidatus Magasanikbacteria
+kaiju_out/Nodosilinea_sp._WJT8-NPBG4.reads.out	0.000001	1	544448	Tenericutes
+kaiju_out/Nodosilinea_sp._WJT8-NPBG4.reads.out	0.000001	1	1379697	candidate division Zixibacteria
+kaiju_out/Nodosilinea_sp._WJT8-NPBG4.reads.out	0.000369	263	10239	Viruses
+kaiju_out/Nodosilinea_sp._WJT8-NPBG4.reads.out	1.319286	939063	NA	cannot be assigned to a (non-viral) phylum
+kaiju_out/Nodosilinea_sp._WJT8-NPBG4.reads.out	57.498300	40927094	NA	unclassified

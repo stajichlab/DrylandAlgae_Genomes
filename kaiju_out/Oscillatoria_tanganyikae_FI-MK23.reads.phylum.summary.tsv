@@ -1,0 +1,73 @@
+file	percent	reads	taxon_id	taxon_name
+kaiju_out/Oscillatoria_tanganyikae_FI-MK23.reads.out	23.921703	19054702	976	Bacteroidetes
+kaiju_out/Oscillatoria_tanganyikae_FI-MK23.reads.out	13.370548	10650237	1224	Proteobacteria
+kaiju_out/Oscillatoria_tanganyikae_FI-MK23.reads.out	4.286196	3414146	1117	Cyanobacteria
+kaiju_out/Oscillatoria_tanganyikae_FI-MK23.reads.out	0.503780	401283	201174	Actinobacteria
+kaiju_out/Oscillatoria_tanganyikae_FI-MK23.reads.out	0.166631	132729	203682	Planctomycetes
+kaiju_out/Oscillatoria_tanganyikae_FI-MK23.reads.out	0.009570	7623	1239	Firmicutes
+kaiju_out/Oscillatoria_tanganyikae_FI-MK23.reads.out	0.005730	4564	74201	Verrucomicrobia
+kaiju_out/Oscillatoria_tanganyikae_FI-MK23.reads.out	0.005675	4520	57723	Acidobacteria
+kaiju_out/Oscillatoria_tanganyikae_FI-MK23.reads.out	0.003686	2936	200795	Chloroflexi
+kaiju_out/Oscillatoria_tanganyikae_FI-MK23.reads.out	0.001242	989	1752708	Candidatus Rokubacteria
+kaiju_out/Oscillatoria_tanganyikae_FI-MK23.reads.out	0.000909	724	1297	Deinococcus-Thermus
+kaiju_out/Oscillatoria_tanganyikae_FI-MK23.reads.out	0.000747	595	1936987	Balneolaeota
+kaiju_out/Oscillatoria_tanganyikae_FI-MK23.reads.out	0.000529	421	142182	Gemmatimonadetes
+kaiju_out/Oscillatoria_tanganyikae_FI-MK23.reads.out	0.000498	397	67819	Armatimonadetes
+kaiju_out/Oscillatoria_tanganyikae_FI-MK23.reads.out	0.000427	340	1134404	Ignavibacteriae
+kaiju_out/Oscillatoria_tanganyikae_FI-MK23.reads.out	0.000311	248	1090	Chlorobi
+kaiju_out/Oscillatoria_tanganyikae_FI-MK23.reads.out	0.000296	236	40117	Nitrospirae
+kaiju_out/Oscillatoria_tanganyikae_FI-MK23.reads.out	0.000296	236	1853220	Rhodothermaeota
+kaiju_out/Oscillatoria_tanganyikae_FI-MK23.reads.out	0.000246	196	28890	Euryarchaeota
+kaiju_out/Oscillatoria_tanganyikae_FI-MK23.reads.out	0.000228	182	1817808	Candidatus Margulisbacteria
+kaiju_out/Oscillatoria_tanganyikae_FI-MK23.reads.out	0.000178	142	1817801	Candidatus Eisenbacteria
+kaiju_out/Oscillatoria_tanganyikae_FI-MK23.reads.out	0.000166	132	74152	Elusimicrobia
+kaiju_out/Oscillatoria_tanganyikae_FI-MK23.reads.out	0.000137	109	203691	Spirochaetes
+kaiju_out/Oscillatoria_tanganyikae_FI-MK23.reads.out	0.000094	75	1798710	Candidatus Melainabacteria
+kaiju_out/Oscillatoria_tanganyikae_FI-MK23.reads.out	0.000070	56	204428	Chlamydiae
+kaiju_out/Oscillatoria_tanganyikae_FI-MK23.reads.out	0.000070	56	1802339	Candidatus Tectomicrobia
+kaiju_out/Oscillatoria_tanganyikae_FI-MK23.reads.out	0.000067	53	1752724	Candidatus Pacebacteria
+kaiju_out/Oscillatoria_tanganyikae_FI-MK23.reads.out	0.000065	52	142187	Candidatus Hydrogenedentes
+kaiju_out/Oscillatoria_tanganyikae_FI-MK23.reads.out	0.000064	51	1930617	Calditrichaeota
+kaiju_out/Oscillatoria_tanganyikae_FI-MK23.reads.out	0.000059	47	67812	Candidatus Omnitrophica
+kaiju_out/Oscillatoria_tanganyikae_FI-MK23.reads.out	0.000053	42	2109258	Abditibacteriota
+kaiju_out/Oscillatoria_tanganyikae_FI-MK23.reads.out	0.000049	39	62680	Candidatus Marinimicrobia
+kaiju_out/Oscillatoria_tanganyikae_FI-MK23.reads.out	0.000048	38	265317	Candidatus Poribacteria
+kaiju_out/Oscillatoria_tanganyikae_FI-MK23.reads.out	0.000046	37	256845	Lentisphaerae
+kaiju_out/Oscillatoria_tanganyikae_FI-MK23.reads.out	0.000035	28	544448	Tenericutes
+kaiju_out/Oscillatoria_tanganyikae_FI-MK23.reads.out	0.000033	26	67810	Candidatus Bipolaricaulota
+kaiju_out/Oscillatoria_tanganyikae_FI-MK23.reads.out	0.000031	25	1752722	Candidatus Woesebacteria
+kaiju_out/Oscillatoria_tanganyikae_FI-MK23.reads.out	0.000029	23	508458	Synergistetes
+kaiju_out/Oscillatoria_tanganyikae_FI-MK23.reads.out	0.000028	22	1817810	Candidatus Riflebacteria
+kaiju_out/Oscillatoria_tanganyikae_FI-MK23.reads.out	0.000026	21	1662329	Candidatus Kapabacteria
+kaiju_out/Oscillatoria_tanganyikae_FI-MK23.reads.out	0.000026	21	1817811	Candidatus Schekmanbacteria
+kaiju_out/Oscillatoria_tanganyikae_FI-MK23.reads.out	0.000023	18	200295	Candidatus Sumerlaeota
+kaiju_out/Oscillatoria_tanganyikae_FI-MK23.reads.out	0.000021	17	1817812	Candidatus Wallbacteria
+kaiju_out/Oscillatoria_tanganyikae_FI-MK23.reads.out	0.000018	14	200930	Deferribacteres
+kaiju_out/Oscillatoria_tanganyikae_FI-MK23.reads.out	0.000018	14	1817903	Candidatus Buchananbacteria
+kaiju_out/Oscillatoria_tanganyikae_FI-MK23.reads.out	0.000016	13	200918	Thermotogae
+kaiju_out/Oscillatoria_tanganyikae_FI-MK23.reads.out	0.000016	13	640293	candidate division NC10
+kaiju_out/Oscillatoria_tanganyikae_FI-MK23.reads.out	0.000016	13	1379697	candidate division Zixibacteria
+kaiju_out/Oscillatoria_tanganyikae_FI-MK23.reads.out	0.000015	12	67817	Candidatus Aminicenantes
+kaiju_out/Oscillatoria_tanganyikae_FI-MK23.reads.out	0.000014	11	1752728	Candidatus Falkowbacteria
+kaiju_out/Oscillatoria_tanganyikae_FI-MK23.reads.out	0.000013	10	32066	Fusobacteria
+kaiju_out/Oscillatoria_tanganyikae_FI-MK23.reads.out	0.000011	9	67818	Candidatus Atribacteria
+kaiju_out/Oscillatoria_tanganyikae_FI-MK23.reads.out	0.000011	9	68297	Dictyoglomi
+kaiju_out/Oscillatoria_tanganyikae_FI-MK23.reads.out	0.000011	9	200940	Thermodesulfobacteria
+kaiju_out/Oscillatoria_tanganyikae_FI-MK23.reads.out	0.000011	9	1293497	Nitrospinae
+kaiju_out/Oscillatoria_tanganyikae_FI-MK23.reads.out	0.000011	9	1619053	Candidatus Peregrinibacteria
+kaiju_out/Oscillatoria_tanganyikae_FI-MK23.reads.out	0.000010	8	1052815	Candidatus Aerophobetes
+kaiju_out/Oscillatoria_tanganyikae_FI-MK23.reads.out	0.000009	7	1817913	Candidatus Portnoybacteria
+kaiju_out/Oscillatoria_tanganyikae_FI-MK23.reads.out	0.000008	6	65842	Fibrobacteres
+kaiju_out/Oscillatoria_tanganyikae_FI-MK23.reads.out	0.000008	6	2301208	Candidatus Cerribacteria
+kaiju_out/Oscillatoria_tanganyikae_FI-MK23.reads.out	0.000005	4	134625	Kiritimatiellaeota
+kaiju_out/Oscillatoria_tanganyikae_FI-MK23.reads.out	0.000005	4	928852	Candidatus Bathyarchaeota
+kaiju_out/Oscillatoria_tanganyikae_FI-MK23.reads.out	0.000004	3	1752723	Candidatus Roizmanbacteria
+kaiju_out/Oscillatoria_tanganyikae_FI-MK23.reads.out	0.000004	3	1817909	Candidatus Liptonbacteria
+kaiju_out/Oscillatoria_tanganyikae_FI-MK23.reads.out	0.000003	2	200783	Aquificae
+kaiju_out/Oscillatoria_tanganyikae_FI-MK23.reads.out	0.000001	1	1752732	Candidatus Uhrbacteria
+kaiju_out/Oscillatoria_tanganyikae_FI-MK23.reads.out	0.000001	1	1817799	Candidatus Doudnabacteria
+kaiju_out/Oscillatoria_tanganyikae_FI-MK23.reads.out	0.000001	1	1817908	Candidatus Komeilibacteria
+kaiju_out/Oscillatoria_tanganyikae_FI-MK23.reads.out	0.000001	1	2093364	Candidatus Aureabacteria
+kaiju_out/Oscillatoria_tanganyikae_FI-MK23.reads.out	0.000000	0	10239	Viruses
+kaiju_out/Oscillatoria_tanganyikae_FI-MK23.reads.out	0.439424	350021	NA	cannot be assigned to a (non-viral) phylum
+kaiju_out/Oscillatoria_tanganyikae_FI-MK23.reads.out	57.279670	45625809	NA	unclassified

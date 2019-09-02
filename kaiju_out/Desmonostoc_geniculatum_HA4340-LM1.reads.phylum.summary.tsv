@@ -1,0 +1,81 @@
+file	percent	reads	taxon_id	taxon_name
+kaiju_out/Desmonostoc_geniculatum_HA4340-LM1.reads.out	30.973101	31205544	1224	Proteobacteria
+kaiju_out/Desmonostoc_geniculatum_HA4340-LM1.reads.out	4.923631	4960581	1117	Cyanobacteria
+kaiju_out/Desmonostoc_geniculatum_HA4340-LM1.reads.out	2.418653	2436804	1239	Firmicutes
+kaiju_out/Desmonostoc_geniculatum_HA4340-LM1.reads.out	1.570875	1582664	201174	Actinobacteria
+kaiju_out/Desmonostoc_geniculatum_HA4340-LM1.reads.out	0.007784	7842	1752708	Candidatus Rokubacteria
+kaiju_out/Desmonostoc_geniculatum_HA4340-LM1.reads.out	0.006749	6800	200795	Chloroflexi
+kaiju_out/Desmonostoc_geniculatum_HA4340-LM1.reads.out	0.006179	6225	976	Bacteroidetes
+kaiju_out/Desmonostoc_geniculatum_HA4340-LM1.reads.out	0.006029	6074	57723	Acidobacteria
+kaiju_out/Desmonostoc_geniculatum_HA4340-LM1.reads.out	0.002212	2229	1802339	Candidatus Tectomicrobia
+kaiju_out/Desmonostoc_geniculatum_HA4340-LM1.reads.out	0.001829	1843	74201	Verrucomicrobia
+kaiju_out/Desmonostoc_geniculatum_HA4340-LM1.reads.out	0.001629	1641	203682	Planctomycetes
+kaiju_out/Desmonostoc_geniculatum_HA4340-LM1.reads.out	0.001183	1192	204428	Chlamydiae
+kaiju_out/Desmonostoc_geniculatum_HA4340-LM1.reads.out	0.000769	775	28890	Euryarchaeota
+kaiju_out/Desmonostoc_geniculatum_HA4340-LM1.reads.out	0.000529	533	1297	Deinococcus-Thermus
+kaiju_out/Desmonostoc_geniculatum_HA4340-LM1.reads.out	0.000343	346	40117	Nitrospirae
+kaiju_out/Desmonostoc_geniculatum_HA4340-LM1.reads.out	0.000312	314	203691	Spirochaetes
+kaiju_out/Desmonostoc_geniculatum_HA4340-LM1.reads.out	0.000270	272	142182	Gemmatimonadetes
+kaiju_out/Desmonostoc_geniculatum_HA4340-LM1.reads.out	0.000191	192	67819	Armatimonadetes
+kaiju_out/Desmonostoc_geniculatum_HA4340-LM1.reads.out	0.000141	142	1090	Chlorobi
+kaiju_out/Desmonostoc_geniculatum_HA4340-LM1.reads.out	0.000141	142	544448	Tenericutes
+kaiju_out/Desmonostoc_geniculatum_HA4340-LM1.reads.out	0.000138	139	508458	Synergistetes
+kaiju_out/Desmonostoc_geniculatum_HA4340-LM1.reads.out	0.000123	124	95818	Candidatus Saccharibacteria
+kaiju_out/Desmonostoc_geniculatum_HA4340-LM1.reads.out	0.000109	110	256845	Lentisphaerae
+kaiju_out/Desmonostoc_geniculatum_HA4340-LM1.reads.out	0.000097	98	1930617	Calditrichaeota
+kaiju_out/Desmonostoc_geniculatum_HA4340-LM1.reads.out	0.000097	98	2052312	candidate division AD3
+kaiju_out/Desmonostoc_geniculatum_HA4340-LM1.reads.out	0.000091	92	1134404	Ignavibacteriae
+kaiju_out/Desmonostoc_geniculatum_HA4340-LM1.reads.out	0.000066	66	363464	Candidatus Gracilibacteria
+kaiju_out/Desmonostoc_geniculatum_HA4340-LM1.reads.out	0.000066	66	1817810	Candidatus Riflebacteria
+kaiju_out/Desmonostoc_geniculatum_HA4340-LM1.reads.out	0.000065	65	32066	Fusobacteria
+kaiju_out/Desmonostoc_geniculatum_HA4340-LM1.reads.out	0.000056	56	1853220	Rhodothermaeota
+kaiju_out/Desmonostoc_geniculatum_HA4340-LM1.reads.out	0.000055	55	1752716	Candidatus Dadabacteria
+kaiju_out/Desmonostoc_geniculatum_HA4340-LM1.reads.out	0.000048	48	221216	Candidatus Parcubacteria
+kaiju_out/Desmonostoc_geniculatum_HA4340-LM1.reads.out	0.000042	42	134625	Kiritimatiellaeota
+kaiju_out/Desmonostoc_geniculatum_HA4340-LM1.reads.out	0.000039	39	200938	Chrysiogenetes
+kaiju_out/Desmonostoc_geniculatum_HA4340-LM1.reads.out	0.000039	39	265317	Candidatus Poribacteria
+kaiju_out/Desmonostoc_geniculatum_HA4340-LM1.reads.out	0.000030	30	2109258	Abditibacteriota
+kaiju_out/Desmonostoc_geniculatum_HA4340-LM1.reads.out	0.000029	29	1619053	Candidatus Peregrinibacteria
+kaiju_out/Desmonostoc_geniculatum_HA4340-LM1.reads.out	0.000026	26	200918	Thermotogae
+kaiju_out/Desmonostoc_geniculatum_HA4340-LM1.reads.out	0.000023	23	1817804	Candidatus Fraserbacteria
+kaiju_out/Desmonostoc_geniculatum_HA4340-LM1.reads.out	0.000022	22	640293	candidate division NC10
+kaiju_out/Desmonostoc_geniculatum_HA4340-LM1.reads.out	0.000022	22	1817801	Candidatus Eisenbacteria
+kaiju_out/Desmonostoc_geniculatum_HA4340-LM1.reads.out	0.000021	21	1752725	Candidatus Collierbacteria
+kaiju_out/Desmonostoc_geniculatum_HA4340-LM1.reads.out	0.000020	20	67814	Caldiserica
+kaiju_out/Desmonostoc_geniculatum_HA4340-LM1.reads.out	0.000016	16	1052815	Candidatus Aerophobetes
+kaiju_out/Desmonostoc_geniculatum_HA4340-LM1.reads.out	0.000016	16	1752734	Candidatus Kaiserbacteria
+kaiju_out/Desmonostoc_geniculatum_HA4340-LM1.reads.out	0.000016	16	1817808	Candidatus Margulisbacteria
+kaiju_out/Desmonostoc_geniculatum_HA4340-LM1.reads.out	0.000015	15	67817	Candidatus Aminicenantes
+kaiju_out/Desmonostoc_geniculatum_HA4340-LM1.reads.out	0.000015	15	456828	Candidatus Cloacimonetes
+kaiju_out/Desmonostoc_geniculatum_HA4340-LM1.reads.out	0.000013	13	1752731	Candidatus Magasanikbacteria
+kaiju_out/Desmonostoc_geniculatum_HA4340-LM1.reads.out	0.000012	12	200940	Thermodesulfobacteria
+kaiju_out/Desmonostoc_geniculatum_HA4340-LM1.reads.out	0.000012	12	2093364	Candidatus Aureabacteria
+kaiju_out/Desmonostoc_geniculatum_HA4340-LM1.reads.out	0.000010	10	67812	Candidatus Omnitrophica
+kaiju_out/Desmonostoc_geniculatum_HA4340-LM1.reads.out	0.000010	10	1936987	Balneolaeota
+kaiju_out/Desmonostoc_geniculatum_HA4340-LM1.reads.out	0.000008	8	651137	Thaumarchaeota
+kaiju_out/Desmonostoc_geniculatum_HA4340-LM1.reads.out	0.000008	8	1706441	Candidatus Thorarchaeota
+kaiju_out/Desmonostoc_geniculatum_HA4340-LM1.reads.out	0.000008	8	1819803	Candidatus Desantisbacteria
+kaiju_out/Desmonostoc_geniculatum_HA4340-LM1.reads.out	0.000007	7	74152	Elusimicrobia
+kaiju_out/Desmonostoc_geniculatum_HA4340-LM1.reads.out	0.000006	6	422282	candidate division WWE3
+kaiju_out/Desmonostoc_geniculatum_HA4340-LM1.reads.out	0.000006	6	1379697	candidate division Zixibacteria
+kaiju_out/Desmonostoc_geniculatum_HA4340-LM1.reads.out	0.000006	6	1752732	Candidatus Uhrbacteria
+kaiju_out/Desmonostoc_geniculatum_HA4340-LM1.reads.out	0.000005	5	1752727	Candidatus Campbellbacteria
+kaiju_out/Desmonostoc_geniculatum_HA4340-LM1.reads.out	0.000004	4	1752720	Candidatus Gottesmanbacteria
+kaiju_out/Desmonostoc_geniculatum_HA4340-LM1.reads.out	0.000004	4	1817922	Candidatus Vogelbacteria
+kaiju_out/Desmonostoc_geniculatum_HA4340-LM1.reads.out	0.000003	3	2093358	Candidatus Abyssubacteria
+kaiju_out/Desmonostoc_geniculatum_HA4340-LM1.reads.out	0.000002	2	200783	Aquificae
+kaiju_out/Desmonostoc_geniculatum_HA4340-LM1.reads.out	0.000002	2	200930	Deferribacteres
+kaiju_out/Desmonostoc_geniculatum_HA4340-LM1.reads.out	0.000002	2	928852	Candidatus Bathyarchaeota
+kaiju_out/Desmonostoc_geniculatum_HA4340-LM1.reads.out	0.000002	2	1752718	Candidatus Daviesbacteria
+kaiju_out/Desmonostoc_geniculatum_HA4340-LM1.reads.out	0.000001	1	67810	Candidatus Bipolaricaulota
+kaiju_out/Desmonostoc_geniculatum_HA4340-LM1.reads.out	0.000001	1	1293497	Nitrospinae
+kaiju_out/Desmonostoc_geniculatum_HA4340-LM1.reads.out	0.000001	1	1729712	Candidatus Fermentibacteria
+kaiju_out/Desmonostoc_geniculatum_HA4340-LM1.reads.out	0.000001	1	1798710	Candidatus Melainabacteria
+kaiju_out/Desmonostoc_geniculatum_HA4340-LM1.reads.out	0.000001	1	1817806	Candidatus Handelsmanbacteria
+kaiju_out/Desmonostoc_geniculatum_HA4340-LM1.reads.out	0.000001	1	1817809	Candidatus Raymondbacteria
+kaiju_out/Desmonostoc_geniculatum_HA4340-LM1.reads.out	0.000001	1	1817907	Candidatus Kerfeldbacteria
+kaiju_out/Desmonostoc_geniculatum_HA4340-LM1.reads.out	0.000001	1	1936272	Candidatus Heimdallarchaeota
+kaiju_out/Desmonostoc_geniculatum_HA4340-LM1.reads.out	0.000001	1	2498705	Candidatus Cryosericota
+kaiju_out/Desmonostoc_geniculatum_HA4340-LM1.reads.out	0.000788	794	10239	Viruses
+kaiju_out/Desmonostoc_geniculatum_HA4340-LM1.reads.out	0.272905	274953	NA	cannot be assigned to a (non-viral) phylum
+kaiju_out/Desmonostoc_geniculatum_HA4340-LM1.reads.out	59.802228	60251019	NA	unclassified

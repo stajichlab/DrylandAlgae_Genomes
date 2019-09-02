@@ -1,0 +1,30 @@
+file	percent	reads	taxon_id	taxon_name
+kaiju_out/Nostoc_indistinguendum_CM1-VF10.reads.out	26.421505	17784123	1117	Cyanobacteria
+kaiju_out/Nostoc_indistinguendum_CM1-VF10.reads.out	12.585360	8471115	976	Bacteroidetes
+kaiju_out/Nostoc_indistinguendum_CM1-VF10.reads.out	10.367723	6978439	1224	Proteobacteria
+kaiju_out/Nostoc_indistinguendum_CM1-VF10.reads.out	0.005252	3535	1239	Firmicutes
+kaiju_out/Nostoc_indistinguendum_CM1-VF10.reads.out	0.002744	1847	201174	Actinobacteria
+kaiju_out/Nostoc_indistinguendum_CM1-VF10.reads.out	0.002291	1542	57723	Acidobacteria
+kaiju_out/Nostoc_indistinguendum_CM1-VF10.reads.out	0.001909	1285	200795	Chloroflexi
+kaiju_out/Nostoc_indistinguendum_CM1-VF10.reads.out	0.001873	1261	203682	Planctomycetes
+kaiju_out/Nostoc_indistinguendum_CM1-VF10.reads.out	0.000920	619	74201	Verrucomicrobia
+kaiju_out/Nostoc_indistinguendum_CM1-VF10.reads.out	0.000596	401	1752708	Candidatus Rokubacteria
+kaiju_out/Nostoc_indistinguendum_CM1-VF10.reads.out	0.000499	336	1930617	Calditrichaeota
+kaiju_out/Nostoc_indistinguendum_CM1-VF10.reads.out	0.000256	172	651137	Thaumarchaeota
+kaiju_out/Nostoc_indistinguendum_CM1-VF10.reads.out	0.000226	152	40117	Nitrospirae
+kaiju_out/Nostoc_indistinguendum_CM1-VF10.reads.out	0.000153	103	200783	Aquificae
+kaiju_out/Nostoc_indistinguendum_CM1-VF10.reads.out	0.000152	102	142182	Gemmatimonadetes
+kaiju_out/Nostoc_indistinguendum_CM1-VF10.reads.out	0.000138	93	1297	Deinococcus-Thermus
+kaiju_out/Nostoc_indistinguendum_CM1-VF10.reads.out	0.000095	64	203691	Spirochaetes
+kaiju_out/Nostoc_indistinguendum_CM1-VF10.reads.out	0.000080	54	1090	Chlorobi
+kaiju_out/Nostoc_indistinguendum_CM1-VF10.reads.out	0.000037	25	67819	Armatimonadetes
+kaiju_out/Nostoc_indistinguendum_CM1-VF10.reads.out	0.000037	25	1817801	Candidatus Eisenbacteria
+kaiju_out/Nostoc_indistinguendum_CM1-VF10.reads.out	0.000027	18	28890	Euryarchaeota
+kaiju_out/Nostoc_indistinguendum_CM1-VF10.reads.out	0.000018	12	1802339	Candidatus Tectomicrobia
+kaiju_out/Nostoc_indistinguendum_CM1-VF10.reads.out	0.000004	3	256845	Lentisphaerae
+kaiju_out/Nostoc_indistinguendum_CM1-VF10.reads.out	0.000004	3	640293	candidate division NC10
+kaiju_out/Nostoc_indistinguendum_CM1-VF10.reads.out	0.000001	1	1134404	Ignavibacteriae
+kaiju_out/Nostoc_indistinguendum_CM1-VF10.reads.out	0.000001	1	1154676	candidate division WPS-2
+kaiju_out/Nostoc_indistinguendum_CM1-VF10.reads.out	0.000003	2	10239	Viruses
+kaiju_out/Nostoc_indistinguendum_CM1-VF10.reads.out	1.811664	1219418	NA	cannot be assigned to a (non-viral) phylum
+kaiju_out/Nostoc_indistinguendum_CM1-VF10.reads.out	48.796439	32844531	NA	unclassified

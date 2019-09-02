@@ -1,0 +1,63 @@
+file	percent	reads	taxon_id	taxon_name
+kaiju_out/Myxacorys_chilensis_ATA2-1-KO14.reads.out	19.739407	17547272	1224	Proteobacteria
+kaiju_out/Myxacorys_chilensis_ATA2-1-KO14.reads.out	1.525813	1356366	976	Bacteroidetes
+kaiju_out/Myxacorys_chilensis_ATA2-1-KO14.reads.out	0.132606	117880	1117	Cyanobacteria
+kaiju_out/Myxacorys_chilensis_ATA2-1-KO14.reads.out	0.024627	21892	201174	Actinobacteria
+kaiju_out/Myxacorys_chilensis_ATA2-1-KO14.reads.out	0.006968	6194	74201	Verrucomicrobia
+kaiju_out/Myxacorys_chilensis_ATA2-1-KO14.reads.out	0.006734	5986	57723	Acidobacteria
+kaiju_out/Myxacorys_chilensis_ATA2-1-KO14.reads.out	0.006621	5886	1239	Firmicutes
+kaiju_out/Myxacorys_chilensis_ATA2-1-KO14.reads.out	0.004578	4070	203682	Planctomycetes
+kaiju_out/Myxacorys_chilensis_ATA2-1-KO14.reads.out	0.002936	2610	1936987	Balneolaeota
+kaiju_out/Myxacorys_chilensis_ATA2-1-KO14.reads.out	0.000952	846	200795	Chloroflexi
+kaiju_out/Myxacorys_chilensis_ATA2-1-KO14.reads.out	0.000436	388	142182	Gemmatimonadetes
+kaiju_out/Myxacorys_chilensis_ATA2-1-KO14.reads.out	0.000431	383	74152	Elusimicrobia
+kaiju_out/Myxacorys_chilensis_ATA2-1-KO14.reads.out	0.000358	318	1752708	Candidatus Rokubacteria
+kaiju_out/Myxacorys_chilensis_ATA2-1-KO14.reads.out	0.000334	297	1297	Deinococcus-Thermus
+kaiju_out/Myxacorys_chilensis_ATA2-1-KO14.reads.out	0.000279	248	1817808	Candidatus Margulisbacteria
+kaiju_out/Myxacorys_chilensis_ATA2-1-KO14.reads.out	0.000253	225	640293	candidate division NC10
+kaiju_out/Myxacorys_chilensis_ATA2-1-KO14.reads.out	0.000252	224	651137	Thaumarchaeota
+kaiju_out/Myxacorys_chilensis_ATA2-1-KO14.reads.out	0.000205	182	1752720	Candidatus Gottesmanbacteria
+kaiju_out/Myxacorys_chilensis_ATA2-1-KO14.reads.out	0.000190	169	1134404	Ignavibacteriae
+kaiju_out/Myxacorys_chilensis_ATA2-1-KO14.reads.out	0.000180	160	28890	Euryarchaeota
+kaiju_out/Myxacorys_chilensis_ATA2-1-KO14.reads.out	0.000125	111	1930617	Calditrichaeota
+kaiju_out/Myxacorys_chilensis_ATA2-1-KO14.reads.out	0.000106	94	40117	Nitrospirae
+kaiju_out/Myxacorys_chilensis_ATA2-1-KO14.reads.out	0.000100	89	1090	Chlorobi
+kaiju_out/Myxacorys_chilensis_ATA2-1-KO14.reads.out	0.000090	80	1752716	Candidatus Dadabacteria
+kaiju_out/Myxacorys_chilensis_ATA2-1-KO14.reads.out	0.000078	69	67819	Armatimonadetes
+kaiju_out/Myxacorys_chilensis_ATA2-1-KO14.reads.out	0.000075	67	203691	Spirochaetes
+kaiju_out/Myxacorys_chilensis_ATA2-1-KO14.reads.out	0.000074	66	200918	Thermotogae
+kaiju_out/Myxacorys_chilensis_ATA2-1-KO14.reads.out	0.000062	55	1798710	Candidatus Melainabacteria
+kaiju_out/Myxacorys_chilensis_ATA2-1-KO14.reads.out	0.000055	49	200940	Thermodesulfobacteria
+kaiju_out/Myxacorys_chilensis_ATA2-1-KO14.reads.out	0.000048	43	1293497	Nitrospinae
+kaiju_out/Myxacorys_chilensis_ATA2-1-KO14.reads.out	0.000042	37	32066	Fusobacteria
+kaiju_out/Myxacorys_chilensis_ATA2-1-KO14.reads.out	0.000034	30	256845	Lentisphaerae
+kaiju_out/Myxacorys_chilensis_ATA2-1-KO14.reads.out	0.000024	21	67818	Candidatus Atribacteria
+kaiju_out/Myxacorys_chilensis_ATA2-1-KO14.reads.out	0.000024	21	67820	Candidatus Microgenomates
+kaiju_out/Myxacorys_chilensis_ATA2-1-KO14.reads.out	0.000022	20	2052312	candidate division AD3
+kaiju_out/Myxacorys_chilensis_ATA2-1-KO14.reads.out	0.000015	13	1819803	Candidatus Desantisbacteria
+kaiju_out/Myxacorys_chilensis_ATA2-1-KO14.reads.out	0.000012	11	200930	Deferribacteres
+kaiju_out/Myxacorys_chilensis_ATA2-1-KO14.reads.out	0.000011	10	1752731	Candidatus Magasanikbacteria
+kaiju_out/Myxacorys_chilensis_ATA2-1-KO14.reads.out	0.000009	8	1379697	candidate division Zixibacteria
+kaiju_out/Myxacorys_chilensis_ATA2-1-KO14.reads.out	0.000009	8	1817806	Candidatus Handelsmanbacteria
+kaiju_out/Myxacorys_chilensis_ATA2-1-KO14.reads.out	0.000008	7	142187	Candidatus Hydrogenedentes
+kaiju_out/Myxacorys_chilensis_ATA2-1-KO14.reads.out	0.000007	6	204428	Chlamydiae
+kaiju_out/Myxacorys_chilensis_ATA2-1-KO14.reads.out	0.000007	6	1154676	candidate division WPS-2
+kaiju_out/Myxacorys_chilensis_ATA2-1-KO14.reads.out	0.000006	5	67812	Candidatus Omnitrophica
+kaiju_out/Myxacorys_chilensis_ATA2-1-KO14.reads.out	0.000006	5	200783	Aquificae
+kaiju_out/Myxacorys_chilensis_ATA2-1-KO14.reads.out	0.000006	5	1817809	Candidatus Raymondbacteria
+kaiju_out/Myxacorys_chilensis_ATA2-1-KO14.reads.out	0.000004	4	95818	Candidatus Saccharibacteria
+kaiju_out/Myxacorys_chilensis_ATA2-1-KO14.reads.out	0.000004	4	1802339	Candidatus Tectomicrobia
+kaiju_out/Myxacorys_chilensis_ATA2-1-KO14.reads.out	0.000003	3	67817	Candidatus Aminicenantes
+kaiju_out/Myxacorys_chilensis_ATA2-1-KO14.reads.out	0.000003	3	200295	Candidatus Sumerlaeota
+kaiju_out/Myxacorys_chilensis_ATA2-1-KO14.reads.out	0.000002	2	28889	Crenarchaeota
+kaiju_out/Myxacorys_chilensis_ATA2-1-KO14.reads.out	0.000002	2	62680	Candidatus Marinimicrobia
+kaiju_out/Myxacorys_chilensis_ATA2-1-KO14.reads.out	0.000002	2	68297	Dictyoglomi
+kaiju_out/Myxacorys_chilensis_ATA2-1-KO14.reads.out	0.000002	2	1752719	Candidatus Levybacteria
+kaiju_out/Myxacorys_chilensis_ATA2-1-KO14.reads.out	0.000002	2	1801631	Candidatus Micrarchaeota
+kaiju_out/Myxacorys_chilensis_ATA2-1-KO14.reads.out	0.000002	2	1853220	Rhodothermaeota
+kaiju_out/Myxacorys_chilensis_ATA2-1-KO14.reads.out	0.000001	1	1752717	Candidatus Curtissbacteria
+kaiju_out/Myxacorys_chilensis_ATA2-1-KO14.reads.out	0.000001	1	1752733	Candidatus Yanofskybacteria
+kaiju_out/Myxacorys_chilensis_ATA2-1-KO14.reads.out	0.000001	1	1752736	Candidatus Adlerbacteria
+kaiju_out/Myxacorys_chilensis_ATA2-1-KO14.reads.out	0.000018	16	10239	Viruses
+kaiju_out/Myxacorys_chilensis_ATA2-1-KO14.reads.out	0.323183	287292	NA	cannot be assigned to a (non-viral) phylum
+kaiju_out/Myxacorys_chilensis_ATA2-1-KO14.reads.out	78.221560	69534759	NA	unclassified
