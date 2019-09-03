@@ -1,4 +1,5 @@
-Here’s an update based on the raw reads - so a lot of these are pretty contaminated. These are top 4 phylum of reads:
+Here is an update based on the raw reads - so a lot of these are pretty contaminated. These are top 4 phylum of reads:
+
 ```
 ==> Aphanocapsa_sp._GSE-SYN-MK-11-07L.reads.phylum.summary.tsv <==
 file	percent	reads	taxon_id	taxon_name
