@@ -18,8 +18,8 @@ fi
 # probably should check to see if allseq is newer than newest file in the folder?
 
 rm -f prefix.tab # for now force removal of previous prefix.tab file
-./PHYling_unified/PHYling init 
-./PHYling_unified/PHYling search
-./PHYling_unified/PHYling aln -c
+../PHYling_unified/PHYling init 
+../PHYling_unified/PHYling search
+../PHYling_unified/PHYling aln -c
 pushd phylo
 sbatch --time 24:00:00 -p batch fast_run.sh
