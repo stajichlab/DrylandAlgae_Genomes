@@ -5,7 +5,7 @@ PASSWORD=YOURPASSWORD     # UPDATE THIS WHEN COPYING THE TEMPLATE
 CODE=Undphynobacteria     # This is for the JGI project with Nicole Pietrasiak as PI
 
 mkdir -p lib
-curl 'https://signon-old.jgi.doe.gov/signon/create' --data-urlencode "login=$USERNAME" --data-urlencode "password=$PASSWORD" -c cookies > /dev/null 
+curl 'https://signon.jgi.doe.gov/signon/create' --data-urlencode "login=$USERNAME" --data-urlencode "password=$PASSWORD" -c cookies > /dev/null 
 
 curl "https://genome.jgi.doe.gov/portal/ext-api/downloads/get-directory?organism=$CODE&organizedByFileType=true" -b cookies > lib/$CODE.xml
 
