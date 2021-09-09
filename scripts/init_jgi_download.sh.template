@@ -9,4 +9,4 @@ curl 'https://signon.jgi.doe.gov/signon/create' --data-urlencode "login=$USERNAM
 
 curl "https://genome.jgi.doe.gov/portal/ext-api/downloads/get-directory?organism=$CODE&organizedByFileType=true" -b cookies > lib/$CODE.xml
 
-
+mkdir -p source
